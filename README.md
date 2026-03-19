@@ -1,24 +1,345 @@
-# 💫 About Me:
-👋 Hi, I’m Rohith Kumar<br><br>I’m a passionate Computer Science student who enjoys building practical and impactful tech solutions.<br>I focus on learning by doing—turning ideas into real projects using modern web technologies and AI tools.<br><br>🚀 What I’m Working On<br><br>Building responsive web applications<br><br>Exploring AI-powered tools for real-world problems<br><br>Participating in hackathons and coding challenges<br><br>Improving problem-solving and system design skills<br><br>🛠️ Skills & Tools<br><br>Frontend: HTML, CSS, JavaScript, React<br>Programming: Python, Java, C<br>Databases: MongoDB, PostgreSQL<br>Frameworks & Tools: FastAPI, Vite, Firebase, Render, Vercel<br>Cloud & Dev Tools: Google Cloud, Git, GitHub<br>Design & Productivity: Figma, Canva, Notion<br>Data & AI: NumPy, Pandas, Matplotlib, Selenium, Swagger<br><br>🤝 What I’m Looking For<br><br>Collaborations on hackathons & open-source projects<br><br>Learning opportunities in full-stack development & AI<br><br>Guidance from experienced developers and mentors<br><br>🎯 Goal<br><br>To become a skilled full-stack developer with AI expertise, building intelligent solutions that solve real-world problems while continuously improving my skills.<br><br>✨ One-Line Bio<br><br>Student Developer | Full-Stack & AI Enthusiast | Hackathon Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,30:4f46e5,65:3b82f6,100:06b6d4&height=90&section=header&reversal=false&animation=fadeIn">
 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohitkumarnaidu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer+%7C+AI+Enthusiast;☕+Java+%7C+Python+%7C+React+%7C+FastAPI+%7C+Flutter;🌌+Hackathon+Learner+%7C+Open+Source+Contributor;🤖+Turning+Ideas+into+Intelligent+Systems;🔷+Supabase+%7C+PostgreSQL+%7C+Cloud+%7C+Docker">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=👁️+Profile+Views&color=6d28d9&style=for-the-badge">
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=🤝+Followers&style=for-the-badge&color=3b82f6&labelColor=0d1117">
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡-Open%20To%20Collaborate-06b6d4?style=for-the-badge">
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-India%20🇮🇳-ff9933?style=for-the-badge">
+  &nbsp;
+  <img src="https://img.shields.io/badge/🟢-Available%20For%20Internships-22c55e?style=for-the-badge">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohitkumarnaidu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohitkumarnaidu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌌 &nbsp; Who Am I?
+
+\`\`\`typescript
+const rohith: Developer = {
+  name        : "Rohith Kumar",
+  role        : "Full-Stack Developer & AI Enthusiast",
+  education   : "B.Tech Computer Science 🎓",
+  location    : "India 🇮🇳",
+  languages   : ["Python", "Java", "JavaScript", "TypeScript", "C", "Dart"],
+  frontend    : ["React", "TailwindCSS", "Vite", "Flutter"],
+  backend     : ["FastAPI", "Node.js", "Java (Spring Boot)", "Streamlit"],
+  databases   : ["PostgreSQL", "Supabase", "MongoDB", "Firebase"],
+  cloud       : ["AWS", "GCP", "Docker", "Vercel", "Render"],
+  ai_stack    : ["LangChain", "OpenAI API", "NumPy", "Pandas", "Selenium"],
+  devTools    : ["Git", "GitHub", "Postman", "Figma", "Notion", "Arduino"],
+  passions    : ["Web Dev", "AI/ML", "Hackathons", "Open Source"],
+  currentFocus: "Building intelligent, production-ready systems 🧠",
+  funFact     : "I debug best at 2am with lo-fi music 🎵",
+  goal        : "Build tech that actually changes lives 🚀",
+  openTo      : ["Internships", "Collaborations", "Hackathons", "Mentorship"],
+};
+// 🚀 Status: Currently building something epic → stay tuned!
+\`\`\`
+
+<br>
+
+---
+
+## 🔭 &nbsp; What I'm Up To
+
+<table>
+<tbody><tr>
+<td>
+
+### 🛠️ Building Right Now
+- 🌐 Full-stack apps — **React + FastAPI + Supabase**
+- ☕ REST microservices — **Java Spring Boot**
+- 🤖 AI pipelines — **LangChain + OpenAI API**
+- 📱 Cross-platform apps — **Flutter + Dart**
+- 🐳 Dockerised deployments on **AWS / GCP**
+
+</td>
+<td>
+
+### 📚 Currently Learning
+- 🧠 **System Design** — Scalable distributed systems
+- ⚡ **DSA** — LeetCode daily grind
+- ☁️ **AWS Solutions Architect** certification
+- 🔗 **LangChain + RAG** — AI agent pipelines
+- 🔷 **Supabase** — Postgres-powered BaaS
+- 🔒 **Auth & Security** — OAuth2, JWT, RBAC
+
+</td>
+</tr>
+</tbody></table>
+
+<br>
+
+---
+
+## 🌟 &nbsp; Featured Projects
+
+<table>
+<tbody><tr>
+<td width="50%">
+
+### 🏦 Modern Digital Banking Dashboard
+A full-stack modern digital banking dashboard with secure authentication, account management, transactions, budgeting, bills, rewards, insights, and alerts.
+
+**Stack:** React · FastAPI · TailwindCSS · PostgreSQL
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard)
+
+</td>
+<td width="50%">
+
+### 🤖 Agentic Edu Research Assistant
+Autonomous Multi-Agent Research Scientist — built for AI IGNITE 2025. Uses multi-agent orchestration to autonomously perform academic research tasks.
+
+**Stack:** Python · LangChain · OpenAI API · FastAPI
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/agentic-edu-research-assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 Multilingual Mandi AI
+AI-powered multilingual agricultural marketplace assistant helping farmers access market data and insights in their native language.
+
+**Stack:** JavaScript · React · AI/NLP · FastAPI
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/multilingual-mandi-ai)
+
+</td>
+<td width="50%">
+
+### 📄 Auto AI Academic Formatter
+Automated AI-powered academic document formatter that structures and formats research manuscripts to meet journal/conference standards.
+
+**Stack:** Python · AI · Document Processing
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter)
+
+</td>
+</tr>
+</tbody></table>
+
+<br>
+
+---
+
+## 📌 &nbsp; Pinned Repositories
+
+<p>
+  <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=Modern-Digital-Banking-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=agentic-edu-research-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+  </a>
+</p>
+<p>
+  <a href="https://github.com/rohitkumarnaidu/multilingual-mandi-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=multilingual-mandi-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+  </a>
+</p>
+
+<br>
+
+---
+
+## 🛠️ &nbsp; Technology Universe
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c&theme=dark&perline=8">
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,nodejs,fastapi,spring,streamlit&theme=dark&perline=8">
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark&perline=8">
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,render&theme=dark&perline=8">
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,arduino&theme=dark&perline=8">
+</p>
+
+<br>
+
+---
+
+## 📊 &nbsp; GitHub Galaxy Stats
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9&line=818cf8&point=60a5fa&bg_color=0d1117&color=94a3b8">
+</p>
+
+<br>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8&ring_color=6d28d9&show=reviews,prs_merged,discussions_started">
+  &nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b&dates=475569">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=10">
+  &nbsp;
+  <img src="https://leetcard.jacoblin.cool/rohitkumarnaidu?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12">
+</p>
+
+<br>
+
+---
+
+## 📊 &nbsp; Profile Summary Card
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=tokyonight">
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarnaidu&theme=tokyonight">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitkumarnaidu&theme=tokyonight">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarnaidu&theme=tokyonight">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitkumarnaidu&theme=tokyonight&utcOffset=5.5">
+</p>
+
+<br>
+
+---
+
+## �� &nbsp; Contribution Snake
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br>
+
+---
+
+## 🎮 &nbsp; Random Dev Joke
+
+<p>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder">
+</p>
+
+<br>
+
+---
+
+## 🏆 &nbsp; GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
+</p>
+
+<br>
+
+---
+
+## 📈 &nbsp; Contribution Heatmap
+
+<p>
+  <img src="https://ghchart.rshah.org/818cf8/rohitkumarnaidu">
+</p>
+
+<br>
+
+---
+
+## 🔝 &nbsp; Top Contributed Repos
+
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rohitkumarnaidu&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117">
+</p>
+
+<br>
+
+---
+
+## 🎯 &nbsp; Mission: 2025
+
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║                  ROHITH'S 2025 MISSION LOG                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  [ ] 🏆  Win a national hackathon                            ║
+║  [ ] 🌐  Ship 3 production-level full-stack apps             ║
+║  [ ] ⭐  Hit 50+ GitHub stars across repos                   ║
+║  [ ] 🤝  Contribute to 5+ open-source projects              ║
+║  [ ] 📝  Launch a dev blog or YouTube channel                ║
+║  [ ] ☕  Master Java Spring Boot microservices               ║
+║  [ ] 🔷  Build a full product with Supabase + React          ║
+║  [ ] ☁️  Get AWS Cloud Practitioner certified                ║
+║  [ ] 🤖  Ship an AI SaaS product to real users               ║
+║  [ ] 📱  Publish a Flutter app on the Play Store             ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
+
+<br>
+
+---
+
+## 🌐 &nbsp; Connect With Me
+
+<p>
+  <a href="https://github.com/rohitkumarnaidu">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/rohitkumarnaidu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=About.me&logoColor=white">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white">
+  &nbsp;
+  <a href="https://leetcode.com/rohitkumarnaidu">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+</p>
+
+<br>
+
+---
+
+## ✍️ &nbsp; Dev Quote
+
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:3b82f6,65:6d28d9,100:818cf8&height=110&section=footer&animation=fadeIn">
+
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=rohitkumarnaidu&icon=6&color=6">
+  <br><br>
+  <b>⭐ Drop a star on any project you find useful — it genuinely helps!</b>
+  <br>
+  <sub>🚀 Let's build something legendary together 🌌</sub>
+</p>
