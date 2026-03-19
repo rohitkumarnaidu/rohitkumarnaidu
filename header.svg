@@ -1,0 +1,209 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="60%" stop-color="#070b16"/>
+      <stop offset="100%" stop-color="#020408"/>
+    </radialGradient>
+    <radialGradient id="neb1" cx="25%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#1a0533" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#020408" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="neb2" cx="78%" cy="55%" r="48%">
+      <stop offset="0%" stop-color="#001a33" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#020408" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="neb3" cx="55%" cy="15%" r="38%">
+      <stop offset="0%" stop-color="#0a1a0a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#020408" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="neb4" cx="45%" cy="80%" r="35%">
+      <stop offset="0%" stop-color="#1a0a00" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#020408" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="softglow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="textglow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="35%" stop-color="#60a5fa"/>
+      <stop offset="65%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#818cf8"/>
+      <stop offset="70%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="milky" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e1040" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#1e1040" stop-opacity="0.3"/>
+      <stop offset="70%" stop-color="#001540" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#001540" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="planetGrad" cx="35%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#3730a3"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f0a2e"/>
+    </radialGradient>
+    <radialGradient id="moonGrad" cx="40%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0d1b2e"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#neb1)"/>
+  <rect width="1200" height="300" fill="url(#neb2)"/>
+  <rect width="1200" height="300" fill="url(#neb3)"/>
+  <rect width="1200" height="300" fill="url(#neb4)"/>
+  <ellipse cx="500" cy="155" rx="480" ry="55" fill="url(#milky)"/>
+
+  <!-- Stars layer 1 - tiny -->
+  <g fill="white" opacity="0.7">
+    <circle cx="34" cy="18" r="0.6"/><circle cx="89" cy="52" r="0.7"/><circle cx="145" cy="23" r="0.5"/>
+    <circle cx="167" cy="89" r="0.6"/><circle cx="212" cy="145" r="0.7"/><circle cx="256" cy="34" r="0.5"/>
+    <circle cx="289" cy="178" r="0.6"/><circle cx="334" cy="67" r="0.7"/><circle cx="378" cy="212" r="0.5"/>
+    <circle cx="423" cy="89" r="0.6"/><circle cx="467" cy="256" r="0.7"/><circle cx="512" cy="145" r="0.5"/>
+    <circle cx="556" cy="23" r="0.6"/><circle cx="601" cy="189" r="0.7"/><circle cx="645" cy="78" r="0.5"/>
+    <circle cx="689" cy="234" r="0.6"/><circle cx="734" cy="112" r="0.7"/><circle cx="778" cy="267" r="0.5"/>
+    <circle cx="823" cy="45" r="0.6"/><circle cx="867" cy="189" r="0.7"/><circle cx="912" cy="123" r="0.5"/>
+    <circle cx="956" cy="267" r="0.6"/><circle cx="1001" cy="56" r="0.7"/><circle cx="1045" cy="200" r="0.5"/>
+    <circle cx="1089" cy="145" r="0.6"/><circle cx="1134" cy="89" r="0.7"/><circle cx="1178" cy="234" r="0.5"/>
+    <circle cx="56" cy="145" r="0.5"/><circle cx="112" cy="267" r="0.6"/><circle cx="178" cy="200" r="0.7"/>
+    <circle cx="234" cy="112" r="0.5"/><circle cx="301" cy="245" r="0.6"/><circle cx="367" cy="156" r="0.7"/>
+    <circle cx="445" cy="34" r="0.5"/><circle cx="523" cy="267" r="0.6"/><circle cx="590" cy="112" r="0.7"/>
+    <circle cx="668" cy="178" r="0.5"/><circle cx="746" cy="34" r="0.6"/><circle cx="812" cy="267" r="0.7"/>
+    <circle cx="890" cy="89" r="0.5"/><circle cx="968" cy="200" r="0.6"/><circle cx="1023" cy="145" r="0.7"/>
+    <circle cx="1101" cy="267" r="0.5"/><circle cx="1156" cy="56" r="0.6"/>
+    <circle cx="23" cy="234" r="0.5"/><circle cx="67" cy="78" r="0.6"/><circle cx="134" cy="156" r="0.7"/>
+    <circle cx="200" cy="34" r="0.5"/><circle cx="278" cy="189" r="0.6"/><circle cx="345" cy="112" r="0.7"/>
+    <circle cx="412" cy="256" r="0.5"/><circle cx="490" cy="178" r="0.6"/><circle cx="568" cy="89" r="0.7"/>
+    <circle cx="634" cy="245" r="0.5"/><circle cx="712" cy="56" r="0.6"/><circle cx="790" cy="189" r="0.7"/>
+    <circle cx="856" cy="145" r="0.5"/><circle cx="934" cy="23" r="0.6"/><circle cx="1012" cy="267" r="0.7"/>
+    <circle cx="1078" cy="89" r="0.5"/><circle cx="1145" cy="200" r="0.6"/><circle cx="1190" cy="112" r="0.7"/>
+  </g>
+
+  <!-- Stars layer 2 - medium with glow -->
+  <g filter="url(#glow)">
+    <circle cx="189" cy="45" r="1.8" fill="#c4b5fd" opacity="0.95"/>
+    <circle cx="434" cy="156" r="1.6" fill="#93c5fd" opacity="0.9"/>
+    <circle cx="623" cy="89" r="2.0" fill="#6ee7b7" opacity="0.9"/>
+    <circle cx="801" cy="223" r="1.7" fill="#c4b5fd" opacity="0.95"/>
+    <circle cx="956" cy="67" r="1.9" fill="#fde68a" opacity="0.85"/>
+    <circle cx="1101" cy="145" r="1.6" fill="#93c5fd" opacity="0.9"/>
+    <circle cx="78" cy="178" r="1.8" fill="#6ee7b7" opacity="0.85"/>
+    <circle cx="312" cy="234" r="1.5" fill="#fde68a" opacity="0.8"/>
+    <circle cx="723" cy="178" r="2.2" fill="#c4b5fd" opacity="0.9"/>
+    <circle cx="1023" cy="234" r="1.7" fill="#6ee7b7" opacity="0.85"/>
+  </g>
+
+  <!-- Shooting stars -->
+  <line x1="50" y1="40" x2="160" y2="68" stroke="white" stroke-width="1" opacity="0.5" stroke-linecap="round"/>
+  <line x1="750" y1="20" x2="840" y2="44" stroke="white" stroke-width="0.8" opacity="0.4" stroke-linecap="round"/>
+  <line x1="1050" y1="60" x2="1110" y2="78" stroke="white" stroke-width="0.7" opacity="0.35" stroke-linecap="round"/>
+
+  <!-- Constellation -->
+  <g stroke="#818cf8" stroke-width="0.4" opacity="0.2" fill="none">
+    <line x1="89" y1="52" x2="167" y2="89"/><line x1="167" y1="89" x2="212" y2="145"/>
+    <line x1="212" y1="145" x2="256" y2="34"/>
+  </g>
+
+  <!-- Planet system (right side) -->
+  <g filter="url(#softglow)" transform="translate(1050,95)">
+    <!-- Planet glow aura -->
+    <circle cx="0" cy="0" r="52" fill="#4c1d95" opacity="0.12"/>
+    <!-- Planet body -->
+    <circle cx="0" cy="0" r="42" fill="url(#planetGrad)"/>
+    <circle cx="0" cy="0" r="42" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.9"/>
+    <!-- Surface bands -->
+    <path d="M-35,-14 Q0,-20 35,-14" fill="none" stroke="#4c1d95" stroke-width="2" opacity="0.7"/>
+    <path d="M-40,0 Q0,-5 40,0" fill="none" stroke="#3730a3" stroke-width="1.5" opacity="0.5"/>
+    <path d="M-38,12 Q0,7 38,12" fill="none" stroke="#4c1d95" stroke-width="1.5" opacity="0.6"/>
+    <!-- Shine spot -->
+    <ellipse cx="-14" cy="-16" rx="10" ry="6" fill="#6d28d9" opacity="0.35"/>
+    <!-- Rings -->
+    <ellipse cx="0" cy="0" rx="66" ry="14" fill="none" stroke="#8b5cf6" stroke-width="1.8" opacity="0.7"/>
+    <ellipse cx="0" cy="0" rx="58" ry="10" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.45"/>
+    <ellipse cx="0" cy="0" rx="72" ry="17" fill="none" stroke="#6d28d9" stroke-width="0.7" opacity="0.3"/>
+    <!-- Moon -->
+    <circle cx="-58" cy="-34" r="8" fill="url(#moonGrad)"/>
+    <circle cx="-58" cy="-34" r="8" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.7"/>
+    <circle cx="-54" cy="-38" r="2" fill="#1e3a5f" opacity="0.8"/>
+  </g>
+
+  <!-- Rocket -->
+  <g filter="url(#glow)" transform="translate(870,90) rotate(-35)">
+    <ellipse cx="0" cy="0" rx="11" ry="28" fill="#1e3a5f"/>
+    <ellipse cx="0" cy="0" rx="11" ry="28" fill="none" stroke="#3b82f6" stroke-width="1.2"/>
+    <polygon points="-11,-16 11,-16 0,-38" fill="#1d4ed8"/>
+    <polygon points="-11,-16 11,-16 0,-38" fill="none" stroke="#3b82f6" stroke-width="1"/>
+    <polygon points="-11,18 -22,34 0,24" fill="#7c3aed"/>
+    <polygon points="11,18 22,34 0,24" fill="#7c3aed"/>
+    <circle cx="0" cy="0" r="5" fill="#60a5fa" opacity="0.9"/>
+    <ellipse cx="0" cy="40" rx="5" ry="11" fill="#f97316" opacity="0.95"/>
+    <ellipse cx="0" cy="47" rx="3" ry="7" fill="#fbbf24" opacity="0.9"/>
+    <ellipse cx="0" cy="52" rx="1.5" ry="4" fill="#fff" opacity="0.7"/>
+  </g>
+
+  <!-- Second small rocket (far right, tiny) -->
+  <g filter="url(#glow)" transform="translate(960,220) rotate(-45) scale(0.55)" opacity="0.6">
+    <ellipse cx="0" cy="0" rx="8" ry="20" fill="#0f2a4a" stroke="#2563eb" stroke-width="1"/>
+    <polygon points="-8,-12 8,-12 0,-28" fill="#1d4ed8"/>
+    <ellipse cx="0" cy="28" rx="3.5" ry="8" fill="#f97316" opacity="0.9"/>
+  </g>
+
+  <!-- Main text: Name -->
+  <text x="80" y="118" font-family="'Segoe UI','SF Pro Display',Arial,sans-serif"
+    font-size="60" font-weight="700" fill="url(#nameGrad)" filter="url(#textglow)"
+    letter-spacing="2">Rohith Kumar</text>
+
+  <!-- Subtitle -->
+  <text x="82" y="155" font-family="'Segoe UI',Arial,sans-serif"
+    font-size="14" font-weight="400" fill="#7dd3fc" letter-spacing="4" opacity="0.9">
+    FULL-STACK DEVELOPER  ·  AI ENTHUSIAST  ·  DIGITAL ALCHEMIST
+  </text>
+
+  <!-- Decorative line -->
+  <line x1="80" y1="170" x2="700" y2="170" stroke="url(#lineGrad)" stroke-width="1.2"/>
+
+  <!-- Skill chips -->
+  <g font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="500">
+    <rect x="80" y="182" width="66" height="22" rx="11" fill="#1e1b4b" stroke="#4f46e5" stroke-width="0.8"/>
+    <text x="113" y="197" text-anchor="middle" fill="#818cf8">⚛ React</text>
+
+    <rect x="156" y="182" width="72" height="22" rx="11" fill="#0f2a1a" stroke="#059669" stroke-width="0.8"/>
+    <text x="192" y="197" text-anchor="middle" fill="#34d399">🐍 Python</text>
+
+    <rect x="238" y="182" width="62" height="22" rx="11" fill="#1a1000" stroke="#ea580c" stroke-width="0.8"/>
+    <text x="269" y="197" text-anchor="middle" fill="#fb923c">☕ Java</text>
+
+    <rect x="310" y="182" width="74" height="22" rx="11" fill="#0c1a2e" stroke="#2563eb" stroke-width="0.8"/>
+    <text x="347" y="197" text-anchor="middle" fill="#60a5fa">⚡ FastAPI</text>
+
+    <rect x="394" y="182" width="64" height="22" rx="11" fill="#1a0a2e" stroke="#7c3aed" stroke-width="0.8"/>
+    <text x="426" y="197" text-anchor="middle" fill="#c4b5fd">🤖 AI/ML</text>
+
+    <rect x="468" y="182" width="78" height="22" rx="11" fill="#1a0f00" stroke="#d97706" stroke-width="0.8"/>
+    <text x="507" y="197" text-anchor="middle" fill="#fbbf24">🔥 Firebase</text>
+
+    <rect x="556" y="182" width="68" height="22" rx="11" fill="#0a1f2e" stroke="#0891b2" stroke-width="0.8"/>
+    <text x="590" y="197" text-anchor="middle" fill="#22d3ee">☁ Cloud</text>
+  </g>
+
+  <!-- Location and tagline -->
+  <text x="82" y="240" font-family="'Segoe UI',Arial,sans-serif"
+    font-size="12" fill="#64748b" letter-spacing="0.5">📍 India</text>
+  <text x="82" y="260" font-family="'Segoe UI',Arial,sans-serif"
+    font-size="12" fill="#475569" letter-spacing="0.3">✦ Building the future, one commit at a time 🚀</text>
+
+  <!-- Dot pattern (decorative) -->
+  <g fill="#4f46e5" opacity="0.12">
+    <circle cx="760" cy="218" r="2.5"/><circle cx="775" cy="218" r="2.5"/><circle cx="790" cy="218" r="2.5"/><circle cx="805" cy="218" r="2.5"/>
+    <circle cx="760" cy="233" r="2.5"/><circle cx="775" cy="233" r="2.5"/><circle cx="790" cy="233" r="2.5"/><circle cx="805" cy="233" r="2.5"/>
+    <circle cx="760" cy="248" r="2.5"/><circle cx="775" cy="248" r="2.5"/><circle cx="790" cy="248" r="2.5"/><circle cx="805" cy="248" r="2.5"/>
+    <circle cx="760" cy="263" r="2.5"/><circle cx="775" cy="263" r="2.5"/><circle cx="790" cy="263" r="2.5"/><circle cx="805" cy="263" r="2.5"/>
+  </g>
+
+</svg>
