@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,30:4f46e5,65:3b82f6,100:06b6d4&height=90&section=header&reversal=false&animation=fadeIn">
+<img src="header.svg" width="100%">
 
 <br>
 
@@ -33,14 +33,14 @@ const rohith: Developer = {
   languages   : ["Python", "Java", "JavaScript", "TypeScript", "C", "Dart"],
   frontend    : ["React", "TailwindCSS", "Vite", "Flutter"],
   backend     : ["FastAPI", "Node.js", "Java (Spring Boot)", "Streamlit"],
-  databases   : ["PostgreSQL", "Supabase", "MongoDB", "Firebase"],
-  cloud       : ["AWS", "GCP", "Docker", "Vercel", "Render"],
-  ai_stack    : ["LangChain", "OpenAI API", "NumPy", "Pandas", "Selenium"],
-  devTools    : ["Git", "GitHub", "Postman", "Figma", "Notion", "Arduino"],
+  databases   : ["PostgreSQL", "MongoDB", "Firebase"],
+  cloud       : ["AWS", "GCP", "Docker", "Vercel", "Render", "Supabase"],
+  ai_stack    : ["LangChain", "OpenAI API", "NumPy", "Pandas"],
+  devTools    : ["Git", "GitHub", "Postman", "Figma", "Notion", "Arduino", "Selenium"],
   passions    : ["Web Dev", "AI/ML", "Hackathons", "Open Source"],
   currentFocus: "Building intelligent, production-ready systems 🧠",
   funFact     : "I debug best at 2am with lo-fi music 🎵",
-  goal        : "Build tech that actually changes lives ��",
+  goal        : "Build tech that actually changes lives 🌍",
   openTo      : ["Internships", "Collaborations", "Hackathons", "Mentorship"],
 };
 // 🚀 Status: Currently building something epic → stay tuned!
@@ -165,7 +165,7 @@ Automated AI-powered academic document formatter that structures and formats res
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c&theme=dark&perline=8">
   <br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,nodejs,fastapi,spring,streamlit&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,nodejs,fastapi,spring&theme=dark&perline=8">
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark&perline=8">
   <br>
@@ -202,7 +202,7 @@ Automated AI-powered academic document formatter that structures and formats res
 
 ---
 
-## 📊 &nbsp; Profile Summary Card
+## 🧩 &nbsp; Profile Summary Card
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=tokyonight">
@@ -279,20 +279,20 @@ Automated AI-powered academic document formatter that structures and formats res
 ## 🎯 &nbsp; Mission: 2025
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                  ROHITH'S 2025 MISSION LOG                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  [ ] 🏆  Win a national hackathon                            ║
-║  [ ] 🌐  Ship 3 production-level full-stack apps             ║
-║  [ ] ⭐  Hit 50+ GitHub stars across repos                   ║
-║  [ ] 🤝  Contribute to 5+ open-source projects              ║
-║  [ ] 📝  Launch a dev blog or YouTube channel                ║
-║  [ ] ☕  Master Java Spring Boot microservices               ║
-║  [ ] 🔷  Build a full product with Supabase + React          ║
-║  [ ] ☁️  Get AWS Cloud Practitioner certified                ║
-║  [ ] 🤖  Ship an AI SaaS product to real users               ║
-║  [ ] 📱  Publish a Flutter app on the Play Store             ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║               ROHITH'S 2025 MISSION LOG                   ║
+╠════════════════════════════════════════════════════════════╣
+║  [ ] Win a national hackathon                             ║
+║  [ ] Ship 3 production-level full-stack apps              ║
+║  [ ] Hit 50+ GitHub stars across repos                    ║
+║  [ ] Contribute to 5+ open-source projects                ║
+║  [ ] Launch a dev blog or YouTube channel                 ║
+║  [ ] Master Java Spring Boot microservices                ║
+║  [ ] Build a full product with Supabase + React           ║
+║  [ ] Get AWS Cloud Practitioner certified                 ║
+║  [ ] Ship an AI SaaS product to real users                ║
+║  [ ] Publish a Flutter app on the Play Store              ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 <br>
@@ -308,18 +308,24 @@ Automated AI-powered academic document formatter that structures and formats res
   <a href="https://linkedin.com/in/rohitkumarnaidu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=About.me&logoColor=white">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white">
-  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>&nbsp;
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>&nbsp;
+  <a href="https://x.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>&nbsp;
   <a href="https://leetcode.com/rohitkumarnaidu">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  <a href="https://www.hackerrank.com/yourprofile">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+  </a>&nbsp;
+  <a href="https://dev.to/yourprofile">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
 </p>
 
 <br>
