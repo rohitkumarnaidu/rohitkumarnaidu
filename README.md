@@ -328,7 +328,7 @@ Other         ░░░░░░░░░░░░░░░░░░░░    1.
   </picture>
 </p>
 
-> 🔧 Add `snake.yml` GitHub Action to activate — see **Setup Guide** at the bottom!
+> 🐍 Snake animation auto-generates every 12 hours via GitHub Actions
 
 <br>
 
@@ -376,20 +376,9 @@ Other         ░░░░░░░░░░░░░░░░░░░░    1.
 
 ## 📰 &nbsp; Recent GitHub Activity
 
-<!--
-  SETUP: Add activity.yml GitHub Action (see Setup Guide)
-  This auto-updates with your latest GitHub activity:
--->
-
 <!--START_SECTION:activity-->
-1. 🚀 Pushed commits to `rohitkumarnaidu/your-repo`
-2. ⭐ Starred `some/cool-project`
-3. 🔀 Opened a PR in `org/repo`
-4. 💬 Commented on issue in `repo/repo`
-5. 🎉 Merged PR in `rohitkumarnaidu/project`
+<!-- Activity will auto-update every 30 minutes via GitHub Actions -->
 <!--END_SECTION:activity-->
-
-> 🔧 Add `activity.yml` to auto-update — see **Setup Guide**!
 
 <br>
 
