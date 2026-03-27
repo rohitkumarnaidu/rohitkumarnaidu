@@ -374,6 +374,47 @@ Other         ░░░░░░░░░░░░░░░░░░░░    1.
 
 ---
 
+## 📊 &nbsp; GitHub Metrics
+
+<!-- Advanced profile analytics with comprehensive stats -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/rohitkumarnaidu?template=classic&config.timezone=Asia%2FColkata&base=header%2C%20activity%2C%20community&base.indepth=false&base.hireable=false&followup=people%2C%20repositories&followup.indepth=false&followup.sections=false&isocalendar=true&isocalendar.duration=half&languages=true&languages.limit=8&languages.colors=lexical&languages.sections=most-used&languages.threshold=0%25&languages.other=ignored&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.detailed=false&languages.analysis.timeout=14&languages.analysis.shallow=false&notables=true&notables.from=organizations&notables.repositories=forks%3A%3E0&notables.indepth=false&achievements=true&achievements.secrets=false&achievements.display=detailed&achievements.threshold=C&calendars=true&calendars.limit=4&calendars.days=7&calendars.weeks=52&calendars.outer.radius=16&calendars.inner.radius=12&calendars.fallback=false&calendars.starting_day=1&introduction=true&introduction.title=true&introduction.description=true&introduction.strings=false&introduction.entities=false&people=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=true&repositories.batch=100&repositories.forks=false&repositories.affiliations=owned&repositories.stars=false&repositories.contributed=false&repositories.random=12&repositories.skipped=languages&repositories.indepth=false&repositories.sections=stars%2C%20issues%2C%20pulls%2C%20releases%2C%20discussions&repositories.framed=false&topics=true&topics.mode=interests&topics.limit=15&topics.sort=stars&topics.shuffle=false&topics.filter=user%3Arohitkumarnaidu&topics.sample=100&topics.charts=false&topics.framed=false&music=true&music.provider=spotify&music.url=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fspotify&music.played_at=false&music.time_format=relative&music.limit=4&music.playlist=false&music.token=&music.user=&music.limits.songs=4&music.limits.playlists=4&skin=default&css=%2F*+You+can+add+your+custom+CSS+here+%2F&style=%2F*+No+style+selected+%2F&mode=dark" width="100%" alt="GitHub Metrics"/>
+</p>
+
+<br/>
+
+---
+
+## 💬 &nbsp; Testimonials & Recommendations
+
+<!--
+  Colleagues, mentors, or collaborators can write short testimonials about working with you.
+  This builds social proof and credibility!
+  
+  Example format:
+  
+  > "Rohith is an exceptional developer who consistently delivers high-quality code. His expertise in full-stack development and AI integration helped our team ship features 2x faster."
+  > 
+  > **— Jane Doe**, Senior Engineer at Tech Corp
+
+  To add testimonials, either:
+  - Ask colleagues/mentors to provide quotes via email/LinkedIn
+  - Collect from hackathon teammates or open-source collaborators
+  - Display as blockquotes like the example above
+-->
+
+<div align="center">
+
+> 💡 **Want to add testimonials here?**  
+> Reach out to colleagues, mentors, or collaborators and ask them to share a few words about working with you!  
+> This section helps showcase your impact on teams and projects.
+
+</div>
+
+<br/>
+
+---
+
 ## 📰 &nbsp; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
