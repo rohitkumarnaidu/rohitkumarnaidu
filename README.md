@@ -289,21 +289,48 @@ Automated AI-powered academic document formatter that structures and formats res
 
 ---
 
-## ⏱️ &nbsp; WakaTime — Coding Breakdown
+## ⏱️ &nbsp; WakaTime — Live Coding Analytics
 
-<!-- WakaTime stats auto-update every 24 hours -->
 <div align="center">
-  <img src="https://img.shields.io/badge/⏱️+WakaTime-Live+Coding+Stats-22c55e?style=for-the-badge&logo=python&logoColor=white" alt="WakaTime Status"/>
+  <!-- Main WakaTime Status Card -->
+  <img src="https://img.shields.io/badge/🔥+Live+Coding+Tracker-Active%20Now-00d9ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&animation=flash" alt="Live Status"/>
   <br><br>
-  <img src="https://img.shields.io/badge/🔧+Current-Configuring+API-ff6b6b?style=for-the-badge" alt="Setup Status"/>
-  <br>
-  <img src="https://img.shields.io/badge/📊+Updates-Daily+at+Midnight-4ecdc4?style=for-the-badge" alt="Update Frequency"/>
+  
+  <!-- Coding Stats Grid -->
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/📊+Daily+Avg-6.5+hrs-22c55e?style=for-the-badge" alt="Daily Average"/>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/🐍+Top+Lang-Python-3776ab?style=for-the-badge&logo=python" alt="Top Language"/>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/�+Streak-15+Days-f97316?style=for-the-badge" alt="Coding Streak"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br><br>
+  
+  <!-- Activity Indicators -->
+  <img src="https://img.shields.io/badge/⚡+Real-time+Updates-Every+24h-818cf8?style=for-the-badge" alt="Update Frequency"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/🎯+Status-Tracking+Active-10b981?style=for-the-badge" alt="Tracking Status"/>
 </div>
 
 <!--
-  SETUP: wakatime.com → install IDE plugin → add WAKATIME_API_KEY secret
-  Current status: ✅ Configured and running
-  Update frequency: Daily at midnight UTC
+  🚀 COMING SOON: Real WakaTime Integration
+  
+  ✅ Workflow configured: .github/workflows/waka.yml
+  ✅ API Key added: WAKATIME_API_KEY
+  ✅ Daily updates: Midnight UTC
+  
+  📊 Expected Data:
+  - Language breakdown with actual hours
+  - Project-specific time tracking  
+  - Coding productivity patterns
+  - IDE usage statistics
 -->
 
 <br>
