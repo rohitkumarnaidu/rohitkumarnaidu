@@ -14,12 +14,12 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Java+%7C+Python+%7C+React+%7C+FastAPI+%7C+Flutter;Hackathon+Learner+%7C+Open+Source+Contributor;Turning+Ideas+into+Intelligent+Systems;Supabase+%7C+PostgreSQL+%7C+Cloud+%7C+Docker" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Java+%7C+Python+%7C+React+%7C+FastAPI+%7C+Flutter;Hackathon+Learner+%7C+Open+Source+Contributor;Turning+Ideas+into+Intelligent+Systems;Supabase+%7C+PostgreSQL+%7C+Cloud+%7C+Docker" alt="Typing SVG"/>
 </p>
 
 <!-- Badge row -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rohitkumarnaidu/count.svg" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=Followers&style=for-the-badge&color=3b82f6&labelColor=0d1117&logo=github" alt="Followers"/>
   &nbsp;
