@@ -12,9 +12,9 @@
 
 <br/>
 
-<!-- Profile Title -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀-Full--Stack_Developer_•_AI_Enthusiast-818cf8?style=for-the-badge&labelColor=0d1117" alt="Profile Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Java+%7C+Python+%7C+React+%7C+FastAPI+%7C+Flutter;Hackathon+Learner+%7C+Open+Source+Contributor;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG"/>
 </p>
 
 <!-- Badge row -->
@@ -252,14 +252,14 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <!-- Stats + Streak side by side -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8&ring_color=6d28d9&show=reviews,prs_merged,discussions_started" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/📊+GitHub+Stats-307+Contributions-818cf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats"/>
   &nbsp;
   <img width="49%" src="https://streak-stats.demolab.com/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b&dates=475569" alt="Streak"/>
 </p>
 
 <!-- Top langs + LeetCode -->
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=10" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/🐍+Top+Languages-Python%20•%20JavaScript%20•%20TypeScript-22c55e?style=for-the-badge" alt="Top Languages"/>
   &nbsp;
   <img width="40%" src="https://leetcard.jacoblin.cool/rohitkumarnaidu?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode"/>
 </p>
@@ -377,7 +377,7 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ## 🎮 &nbsp; Random Dev Joke
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎮+Random+Dev+Joke-Loading...-a855f7?style=for-the-badge" alt="Dev Joke"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
 </div>
 
 <br>
@@ -387,7 +387,7 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆+GitHub+Trophies-Loading...-fbbf24?style=for-the-badge" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
 </div>
 
 <br>
@@ -407,7 +407,7 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ## 🔝 &nbsp; Top Contributed Repos
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔝+Top+Contributed+Repos-Loading...-10b981?style=for-the-badge" alt="Top Contributions"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rohitkumarnaidu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributions"/>
 </div>
 
 <br/>
@@ -416,10 +416,9 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## 📊 &nbsp; GitHub Metrics
 
-<!-- Advanced profile analytics with comprehensive stats -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/rohitkumarnaidu?template=classic&config.timezone=Asia%2FKolkata" width="100%" alt="GitHub Metrics"/>
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/rohitkumarnaidu?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&people=1&followup=1&repositories=1&discussions=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&isocalendar=1&people=1&followup=1&repositories=1&discussions=1&achievements=1&notable=1" width="100%" alt="GitHub Metrics"/>
+</div>
 
 <br/>
 
@@ -456,6 +455,10 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ---
 
 ## 📰 &nbsp; Recent GitHub Activity
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📰+Recent+Activity-Auto+Updating...-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Recent Activity"/>
+</div>
 
 <!--START_SECTION:activity-->
 <!-- Activity will auto-update every 30 minutes via GitHub Actions -->
@@ -524,7 +527,7 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ## ✍️ &nbsp; Dev Quote
 
 <div align="center">
-  <img src="https://img.shields.io/badge/✍️+Dev+Quote-Loading...-ec4899?style=for-the-badge" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 <br/>
@@ -533,7 +536,7 @@ Antigravity              5 hrs 10 mins       █████████░░�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:3b82f6,65:6d28d9,100:818cf8&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rohitkumarnaidu&icon=6&color=6" alt="Visit Count"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="Visit Count"/>
   <br/><br/>
   <b>⭐ Drop a star on any project you find useful — it genuinely helps!</b>
   <br/>
