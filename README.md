@@ -293,7 +293,7 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&layout=compact&langs_count=6&custom_title=⏱️+Weekly+Coding+Breakdown" width="65%" alt="WakaTime Stats Card"/>
+<!-- Real WakaTime data populated by GitHub Actions -->
 
 </div>
 
