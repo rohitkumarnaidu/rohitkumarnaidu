@@ -12,14 +12,14 @@
 
 <br/>
 
-<!-- Typing SVG -->
+<!-- Profile Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Java+%7C+Python+%7C+React+%7C+FastAPI+%7C+Flutter;Hackathon+Learner+%7C+Open+Source+Contributor;Turning+Ideas+into+Intelligent+Systems;Supabase+%7C+PostgreSQL+%7C+Cloud+%7C+Docker" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/🚀-Full--Stack_Developer_•_AI_Enthusiast-818cf8?style=for-the-badge&labelColor=0d1117" alt="Profile Title"/>
 </p>
 
 <!-- Badge row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile+Views-Loading...-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=Followers&style=for-the-badge&color=3b82f6&labelColor=0d1117&logo=github" alt="Followers"/>
   &nbsp;
@@ -245,7 +245,7 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <!-- Activity graph (full width) -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rohitkumarnaidu&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9&line=818cf8&point=60a5fa&bg_color=0d1117&color=94a3b8" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9&line=818cf8&point=60a5fa&bg_color=0d1117&color=94a3b8" width="100%" alt="Activity Graph"/>
 </p>
 
 <br/>
@@ -376,9 +376,9 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## 🎮 &nbsp; Random Dev Joke
 
-<p align="center">
-  <img src="https://jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🎮+Random+Dev+Joke-Loading...-a855f7?style=for-the-badge" alt="Dev Joke"/>
+</div>
 
 <br>
 
@@ -386,9 +386,9 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## 🏆 &nbsp; GitHub Trophies
 
-<p align="center">
-  <img src="https://api.github-readme-stats.com/api/trophy?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆+GitHub+Trophies-Loading...-fbbf24?style=for-the-badge" alt="Trophies"/>
+</div>
 
 <br>
 
@@ -406,9 +406,9 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## 🔝 &nbsp; Top Contributed Repos
 
-<p align="center">
-  <img src="https://api.github-readme-stats.com/api/contributions?username=rohitkumarnaidu&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributions"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🔝+Top+Contributed+Repos-Loading...-10b981?style=for-the-badge" alt="Top Contributions"/>
+</div>
 
 <br/>
 
