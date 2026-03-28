@@ -292,48 +292,13 @@ Automated AI-powered academic document formatter that structures and formats res
 ## ⏱️ &nbsp; WakaTime — Live Coding Analytics
 
 <div align="center">
-  <!-- Main WakaTime Status Card -->
-  <img src="https://img.shields.io/badge/🔥+Live+Coding+Tracker-Active%20Now-00d9ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&animation=flash" alt="Live Status"/>
-  <br><br>
-  
-  <!-- Coding Stats Grid -->
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/📊+Daily+Avg-6.5+hrs-22c55e?style=for-the-badge" alt="Daily Average"/>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/🐍+Top+Lang-Python-3776ab?style=for-the-badge&logo=python" alt="Top Language"/>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/�+Streak-15+Days-f97316?style=for-the-badge" alt="Coding Streak"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br><br>
-  
-  <!-- Activity Indicators -->
-  <img src="https://img.shields.io/badge/⚡+Real-time+Updates-Every+24h-818cf8?style=for-the-badge" alt="Update Frequency"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/🎯+Status-Tracking+Active-10b981?style=for-the-badge" alt="Tracking Status"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&layout=compact&langs_count=6&custom_title=⏱️+Weekly+Coding+Breakdown" width="65%" alt="WakaTime Stats Card"/>
+
 </div>
 
-<!--
-  🚀 COMING SOON: Real WakaTime Integration
-  
-  ✅ Workflow configured: .github/workflows/waka.yml
-  ✅ API Key added: WAKATIME_API_KEY
-  ✅ Daily updates: Midnight UTC
-  
-  📊 Expected Data:
-  - Language breakdown with actual hours
-  - Project-specific time tracking  
-  - Coding productivity patterns
-  - IDE usage statistics
--->
-
-<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
