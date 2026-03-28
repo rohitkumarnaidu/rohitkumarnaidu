@@ -384,10 +384,14 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ---
 
-## 🏆 &nbsp; GitHub Trophies
+## 🏆 &nbsp; GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/🏆+307+Contributions-2026-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📊+12+Public+Repos-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔥+7+Day+Streak-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Streak"/>
 </div>
 
 <br>
@@ -407,7 +411,15 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ## 🔝 &nbsp; Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rohitkumarnaidu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributions"/>
+
+[![Modern Digital Banking Dashboard](https://img.shields.io/badge/💰+Modern+Digital+Banking-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard)
+<br><br>
+[![Agentic Edu Research Assistant](https://img.shields.io/badge/🤖+Agentic+Edu+Research-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/agentic-edu-research-assistant)
+<br><br>
+[![Multilingual Mandi AI](https://img.shields.io/badge/🌾+Multilingual+Mandi+AI-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/multilingual-mandi-ai)
+<br><br>
+[![Auto AI Academic Formatter](https://img.shields.io/badge/📄+Auto+AI+Academic-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter)
+
 </div>
 
 <br/>
@@ -417,7 +429,30 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ## 📊 &nbsp; GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/rohitkumarnaidu?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&people=1&followup=1&repositories=1&discussions=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&isocalendar=1&people=1&followup=1&repositories=1&discussions=1&achievements=1&notable=1" width="100%" alt="GitHub Metrics"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📅+Joined-Feb+2023-818cf8?style=for-the-badge&logo=github&logoColor=white" alt="Joined"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📦+Repos-12+Public-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆+Contributions-307+-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔥+Current+Streak-7+days-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐+Longest+Streak-12+days-818cf8?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📈+Total+Contributions-307+-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Total"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
