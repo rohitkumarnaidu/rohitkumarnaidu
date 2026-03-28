@@ -292,9 +292,13 @@ Automated AI-powered academic document formatter that structures and formats res
 ## ⏱️ &nbsp; WakaTime — Coding Breakdown
 
 <!-- WakaTime stats auto-update every 24 hours -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⏱️+WakaTime-Setting+up...-22c55e?style=for-the-badge&logo=python&logoColor=white" alt="WakaTime"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/⏱️+WakaTime-Live+Coding+Stats-22c55e?style=for-the-badge&logo=python&logoColor=white" alt="WakaTime Status"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/🔧+Current-Configuring+API-ff6b6b?style=for-the-badge" alt="Setup Status"/>
+  <br>
+  <img src="https://img.shields.io/badge/📊+Updates-Daily+at+Midnight-4ecdc4?style=for-the-badge" alt="Update Frequency"/>
+</div>
 
 <!--
   SETUP: wakatime.com → install IDE plugin → add WAKATIME_API_KEY secret
