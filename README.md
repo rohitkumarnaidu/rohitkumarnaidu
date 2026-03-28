@@ -19,7 +19,7 @@
 
 <!-- Badge row -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rohitkumarnaidu/count.svg" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=Followers&style=for-the-badge&color=3b82f6&labelColor=0d1117" alt="Followers"/>
   &nbsp;
