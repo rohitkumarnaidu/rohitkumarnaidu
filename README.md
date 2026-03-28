@@ -151,11 +151,11 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <p>
   <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=Modern-Digital-Banking-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Modern Digital Banking Dashboard"/>
+    <img src="https://img.shields.io/badge/Modern%20Digital%20Banking%20Dashboard-View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Modern Digital Banking Dashboard"/>
   </a>
   &nbsp;
   <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=agentic-edu-research-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Agentic Edu Research Assistant"/>
+    <img src="https://img.shields.io/badge/Agentic%20Edu%20Research%20Assistant-View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Agentic Edu Research Assistant"/>
   </a>
 </p>
 <p>
