@@ -163,8 +163,8 @@ Automated AI-powered academic document formatter that structures and formats res
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=multilingual-mandi-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Multilingual Mandi AI"/>
   </a>
   &nbsp;
-  <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Auto AI Academic Formatter"/>
+  <a href="https://github.com/rohitkumarnaidu/Auto-AI-Automated-Academic-Docx-Manuscript-Formatter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=Auto-AI-Automated-Academic-Docx-Manuscript-Formatter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Auto AI Academic Formatter"/>
   </a>
 </p>
 
