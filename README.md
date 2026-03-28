@@ -12,9 +12,9 @@
 
 <br/>
 
-<!-- Profile Title -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀+Full-Stack+Developer+%7C+AI+Enthusiast-818CF8?style=flat-square&logo=github&logoColor=white" alt="Profile Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Java+%7C+Python+%7C+React+%7C+FastAPI+%7C+Flutter;Hackathon+Learner+%7C+Open+Source+Contributor;Turning+Ideas+into+Intelligent+Systems;Supabase+%7C+PostgreSQL+%7C+Cloud+%7C+Docker" alt="Typing SVG"/>
 </p>
 
 <!-- Badge row -->
@@ -293,7 +293,7 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <!-- WakaTime stats auto-update every 24 hours -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&layout=compact" alt="WakaTime"/>
+  <img src="https://img.shields.io/badge/⏱️+WakaTime-Setting+up...-22c55e?style=for-the-badge&logo=python&logoColor=white" alt="WakaTime"/>
 </p>
 
 <!--
