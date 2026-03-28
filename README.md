@@ -298,6 +298,62 @@ Automated AI-powered academic document formatter that structures and formats res
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2049%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 307 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+🌆 Daytime                76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌃 Evening                200 commits         ██████████████░░░░░░░░░░░   54.95 % 
+🌙 Night                  73 commits          █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Tuesday                  52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Saturday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+JavaScript               2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Bash                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 37 mins       ████████████████░░░░░░░░░   65.04 % 
+Antigravity              5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
+```
+
+
+ Last Updated on 28/03/2026 14:27:09 UTC
 <!--END_SECTION:waka-->
 
 ---
