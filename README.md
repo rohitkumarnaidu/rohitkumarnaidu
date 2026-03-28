@@ -151,20 +151,20 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <p>
   <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=Modern-Digital-Banking-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+    <img src="https://api.github-readme-stats.com/api/pin/?username=rohitkumarnaidu&repo=Modern-Digital-Banking-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Modern Digital Banking Dashboard"/>
   </a>
   &nbsp;
   <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=agentic-edu-research-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+    <img src="https://api.github-readme-stats.com/api/pin/?username=rohitkumarnaidu&repo=agentic-edu-research-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Agentic Edu Research Assistant"/>
   </a>
 </p>
 <p>
   <a href="https://github.com/rohitkumarnaidu/multilingual-mandi-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=multilingual-mandi-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+    <img src="https://api.github-readme-stats.com/api/pin/?username=rohitkumarnaidu&repo=multilingual-mandi-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Multilingual Mandi AI"/>
   </a>
   &nbsp;
   <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8">
+    <img src="https://api.github-readme-stats.com/api/pin/?username=rohitkumarnaidu&repo=-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8" alt="Auto AI Academic Formatter"/>
   </a>
 </p>
 
@@ -245,21 +245,21 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <!-- Activity graph (full width) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9&line=818cf8&point=60a5fa&bg_color=0d1117&color=94a3b8" width="100%" alt="Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=rohitkumarnaidu&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9&line=818cf8&point=60a5fa&bg_color=0d1117&color=94a3b8" width="100%" alt="Activity Graph"/>
 </p>
 
 <br/>
 
 <!-- Stats + Streak side by side -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8&ring_color=6d28d9&show=reviews,prs_merged,discussions_started" alt="GitHub Stats"/>
+  <img width="49%" src="https://api.github-readme-stats.com/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8&ring_color=6d28d9&show=reviews,prs_merged,discussions_started" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b&dates=475569" alt="Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b&dates=475569" alt="Streak"/>
 </p>
 
 <!-- Top langs + LeetCode -->
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=10" alt="Top Languages"/>
+  <img width="40%" src="https://api.github-readme-stats.com/api/top-langs/?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=10" alt="Top Languages"/>
   &nbsp;
   <img width="40%" src="https://leetcard.jacoblin.cool/rohitkumarnaidu?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode"/>
 </p>
@@ -272,17 +272,17 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <!-- Full profile summary with language breakdown, repos, stars, commits -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=tokyonight" width="100%" alt="Profile Summary"/>
+  <img src="https://api.github-readme-stats.com/api/profile-details?username=rohitkumarnaidu&theme=tokyonight" width="100%" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarnaidu&theme=tokyonight" width="24%" alt="Repos Per Language"/>
+  <img src="https://api.github-readme-stats.com/api/repos-per-language?username=rohitkumarnaidu&theme=tokyonight" width="24%" alt="Repos Per Language"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitkumarnaidu&theme=tokyonight" width="24%" alt="Most Commit Language"/>
+  <img src="https://api.github-readme-stats.com/api/most-commit-language?username=rohitkumarnaidu&theme=tokyonight" width="24%" alt="Most Commit Language"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarnaidu&theme=tokyonight" width="24%" alt="Stats"/>
+  <img src="https://api.github-readme-stats.com/api/stats?username=rohitkumarnaidu&theme=tokyonight" width="24%" alt="Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitkumarnaidu&theme=tokyonight&utcOffset=5.5" width="24%" alt="Productive Time"/>
+  <img src="https://api.github-readme-stats.com/api/productive-time?username=rohitkumarnaidu&theme=tokyonight&utcOffset=5.5" width="24%" alt="Productive Time"/>
 </p>
 
 <br/>
@@ -293,7 +293,7 @@ Automated AI-powered academic document formatter that structures and formats res
 
 <!-- WakaTime stats auto-update every 24 hours -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&layout=compact" alt="WakaTime"/>
+  <img src="https://api.github-readme-stats.com/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&layout=compact" alt="WakaTime"/>
 </p>
 
 <!--
@@ -325,7 +325,7 @@ Automated AI-powered academic document formatter that structures and formats res
 ## 🎮 &nbsp; Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
+  <img src="https://jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
 </p>
 
 <br>
@@ -335,7 +335,7 @@ Automated AI-powered academic document formatter that structures and formats res
 ## 🏆 &nbsp; GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
+  <img src="https://api.github-readme-stats.com/api/trophy?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
 </p>
 
 <br>
@@ -355,7 +355,7 @@ Automated AI-powered academic document formatter that structures and formats res
 ## 🔝 &nbsp; Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rohitkumarnaidu&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributions"/>
+  <img src="https://api.github-readme-stats.com/api/contributions?username=rohitkumarnaidu&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributions"/>
 </p>
 
 <br/>
@@ -472,7 +472,7 @@ Automated AI-powered academic document formatter that structures and formats res
 ## ✍️ &nbsp; Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://api.github-readme-stats.com/api/quotes?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 <br/>
