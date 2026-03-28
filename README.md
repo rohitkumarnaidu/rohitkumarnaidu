@@ -291,28 +291,16 @@ Automated AI-powered academic document formatter that structures and formats res
 
 ## ⏱️ &nbsp; WakaTime — Coding Breakdown
 
+<!-- WakaTime stats auto-update every 24 hours -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&layout=compact" alt="WakaTime"/>
+</p>
+
 <!--
   SETUP: wakatime.com → install IDE plugin → add WAKATIME_API_KEY secret
-  Then uncomment the card below:
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKA_USER&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&layout=compact" alt="WakaTime"/>
-  </p>
+  Current status: ✅ Configured and running
+  Update frequency: Daily at midnight UTC
 -->
-
-```text
-⌛ This week I spent my time on:
-
-Python        ███████████░░░░░░░░░   42.1 hrs   45.2%
-JavaScript    ██████░░░░░░░░░░░░░░   23.1 hrs   24.8%
-Java          ████░░░░░░░░░░░░░░░░   15.2 hrs   16.3%
-TypeScript    ██░░░░░░░░░░░░░░░░░░    7.9 hrs    8.5%
-Dart          █░░░░░░░░░░░░░░░░░░░    3.6 hrs    3.9%
-Other         ░░░░░░░░░░░░░░░░░░░░    1.2 hrs    1.3%
-
-🦉 Night owl: most productive 10pm–2am
-```
-> ⚡ Connect [WakaTime](https://wakatime.com) to auto-update this block!
 
 <br>
 
