@@ -523,9 +523,9 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## ✍️ &nbsp; Dev Quote
 
-<p align="center">
-  <img src="https://api.github-readme-stats.com/api/quotes?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/✍️+Dev+Quote-Loading...-ec4899?style=for-the-badge" alt="Dev Quote"/>
+</div>
 
 <br/>
 
