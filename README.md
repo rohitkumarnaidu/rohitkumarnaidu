@@ -96,52 +96,31 @@ const rohith: Developer = {
 
 ## 🌟 &nbsp; Featured Projects
 
-<table>
-<tbody><tr>
-<td width="50%">
+<div align="center">
 
-### 🏦 Modern Digital Banking Dashboard
-A full-stack modern digital banking dashboard with secure authentication, account management, transactions, budgeting, bills, rewards, insights, and alerts.
+<!-- Project Card 1: Modern Digital Banking -->
+<a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=Modern-Digital-Banking-Dashboard&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" alt="Modern Digital Banking Dashboard"/>
+</a>
+&nbsp;
+<!-- Project Card 2: ARIA OS (Second Brain) -->
+<a href="https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=ARIA-OS---SecondBrain-&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" alt="ARIA OS Second Brain"/>
+</a>
 
-**Stack:** React · FastAPI · TailwindCSS · PostgreSQL
+<br/><br/>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard)
+<!-- Project Card 3: MCP Chat CLI -->
+<a href="https://github.com/rohitkumarnaidu/MCP-Chat-CLI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=MCP-Chat-CLI&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" alt="MCP Chat CLI"/>
+</a>
+&nbsp;
+<!-- Project Card 4: Auto AI Academic Formatter -->
+<a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkumarnaidu&repo=-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" alt="Auto AI Academic Formatter"/>
+</a>
 
-</td>
-<td width="50%">
-
-### 🤖 Agentic Edu Research Assistant
-Autonomous Multi-Agent Research Scientist — built for AI IGNITE 2025. Uses multi-agent orchestration to autonomously perform academic research tasks.
-
-**Stack:** Python · LangChain · OpenAI API · FastAPI
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/agentic-edu-research-assistant)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌾 Multilingual Mandi AI
-AI-powered multilingual agricultural marketplace assistant helping farmers access market data and insights in their native language.
-
-**Stack:** JavaScript · React · AI/NLP · FastAPI
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/multilingual-mandi-ai)
-
-</td>
-<td width="50%">
-
-### 📄 Auto AI Academic Formatter
-Automated AI-powered academic document formatter that structures and formats research manuscripts to meet journal/conference standards.
-
-**Stack:** Python · AI · Document Processing
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter)
-
-</td>
-</tr>
-</tbody></table>
+</div>
 
 <br>
 
@@ -427,6 +406,10 @@ Windsurf                 40 mins             █░░░░░░░░░░�
   <img src="https://img.shields.io/badge/🏆+Achievements-Auto+Updating-818cf8?style=for-the-badge&logo=github&logoColor=white" alt="Achievements"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 <br/>
 
 ---
@@ -498,29 +481,24 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 ## 🌐 &nbsp; Connect With Me
 
 <p align="center">
-  <a href="https://github.com/rohitkumarnaidu">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
   <a href="https://linkedin.com/in/rohitkumarnaidu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
+  <a href="https://github.com/rohitkumarnaidu">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://x.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://leetcode.com/rohitkumarnaidu">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>&nbsp;
-  <a href="https://www.hackerrank.com/yourprofile">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>&nbsp;
-  <a href="https://dev.to/yourprofile">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </p>
 
