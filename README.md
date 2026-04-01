@@ -399,7 +399,10 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 ## 🔝 &nbsp; Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rohitkumarnaidu&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributions"/>
+  <img src="https://img.shields.io/badge/Top%20Projects-Modern%20Digital%20Banking%20•%20Agentic%20Edu%20•%20Multilingual%20Mandi-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="Top Projects"/>
+</p>
+<p align="center">
+  <sub>(Check out my pinned repositories above for full source code!)</sub>
 </p>
 
 <br/>
@@ -409,12 +412,19 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 ## 📊 &nbsp; GitHub Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8&ring_color=6d28d9" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b" width="100%" alt="GitHub Streak Stats"/>
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/📊+Contributions-330+-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📦+Repos-12+Public-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔥+Current+Streak-11+Days-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆+Achievements-Auto+Updating-818cf8?style=for-the-badge&logo=github&logoColor=white" alt="Achievements"/>
 </p>
 
 <br/>
