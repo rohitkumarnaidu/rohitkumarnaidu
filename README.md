@@ -358,19 +358,6 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ---
 
-## 🐍 &nbsp; Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</p>
-
-> 🐍 Snake animation auto-generates every 12 hours via GitHub Actions
-
-<br>
 
 ---
 
@@ -401,7 +388,7 @@ Antigravity              5 hrs 10 mins       █████████░░�
 ## 📈 &nbsp; Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/818cf8/rohitkumarnaidu" width="100%" alt="Heatmap"/>
+  <img src="https://ghchart.rshah.org/818cf8/rohitkumarnaidu" width="100%" alt="Contribution Heatmap"/>
 </p>
 
 <br>
@@ -410,17 +397,9 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## 🔝 &nbsp; Top Contributed Repos
 
-<div align="center">
-
-[![Modern Digital Banking Dashboard](https://img.shields.io/badge/💰+Modern+Digital+Banking-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard)
-<br><br>
-[![Agentic Edu Research Assistant](https://img.shields.io/badge/🤖+Agentic+Edu+Research-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/agentic-edu-research-assistant)
-<br><br>
-[![Multilingual Mandi AI](https://img.shields.io/badge/🌾+Multilingual+Mandi+AI-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/multilingual-mandi-ai)
-<br><br>
-[![Auto AI Academic Formatter](https://img.shields.io/badge/📄+Auto+AI+Academic-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter)
-
-</div>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rohitkumarnaidu&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributions"/>
+</p>
 
 <br/>
 
@@ -428,32 +407,14 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## 📊 &nbsp; GitHub Metrics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📅+Joined-Feb+2023-818cf8?style=for-the-badge&logo=github&logoColor=white" alt="Joined"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📦+Repos-12+Public-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏆+Contributions-307+-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔥+Current+Streak-7+days-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⭐+Longest+Streak-12+days-818cf8?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📈+Total+Contributions-307+-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Total"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=3b82f6&text_color=94a3b8&ring_color=6d28d9" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b" alt="Streak Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+</p>
 
 <br/>
 
@@ -479,11 +440,13 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 <div align="center">
 
-> 💡 **Want to add testimonials here?**  
-> Reach out to colleagues, mentors, or collaborators and ask them to share a few words about working with you!  
-> This section helps showcase your impact on teams and projects.
+| 💬 | Person | What they said |
+|:---:|:---:|:---|
+| 🌟 | **Mentor / Teammate name** | *"Add a real quote from someone you worked with at a hackathon, project or college. Reach out to teammates and ask!"* |
 
 </div>
+
+> 💡 Ask teammates from your hackathon projects to give you a 1-line quote — paste it here!
 
 <br/>
 
@@ -491,12 +454,7 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 ## 📰 &nbsp; Recent GitHub Activity
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📰+Recent+Activity-Auto+Updating...-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Recent Activity"/>
-</div>
-
 <!--START_SECTION:activity-->
-<!-- Activity will auto-update every 30 minutes via GitHub Actions -->
 <!--END_SECTION:activity-->
 
 <br>
@@ -567,7 +525,18 @@ Antigravity              5 hrs 10 mins       █████████░░�
 
 <br/>
 
+## 🐍 &nbsp; Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
 <!-- Wave footer -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:3b82f6,65:6d28d9,100:818cf8&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 <p align="center">
