@@ -369,7 +369,7 @@ Windsurf                 40 mins             █░░░░░░░░░░�
         <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard"><sub>View Source</sub></a>
       </td>
       <td width="25%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;ARIA-OS&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
+        <b>&nbsp;&nbsp;&nbsp;&nbsp;ARIA&#8209;OS&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
         <img src="https://img.shields.io/github/stars/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
         <a href="https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-"><sub>View Source</sub></a>
       </td>
