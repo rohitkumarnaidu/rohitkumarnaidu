@@ -230,9 +230,25 @@ const rohith: Developer = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=818cf8&v=1" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=818cf8&v=1" alt="Top Languages"/>
+</p>
+
+## 🏆 &nbsp; Competitive Programming Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Rohith083/">
+    <img width="49%" src="https://leetcard.jacoblin.cool/Rohith083?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
+  </a>
   &nbsp;
-  <a href="https://leetcode.com/u/Rohith083/"><img width="49%" src="https://leetcard.jacoblin.cool/Rohith083?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/bappadalarohithkumarnaidu">
+    <img width="49%" src="https://gfgstatscard.vercel.app/bappadalarohithkumarnaidu?theme=tokyonight" alt="GeeksForGeeks Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/rohitbappadala">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117" alt="HackerRank" height="40"/>
+  </a>
 </p>
 
 <br>
@@ -467,10 +483,6 @@ Windsurf                 40 mins             █░░░░░░░░░░�
   <a href="mailto:rohitbappadala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/></a>
   &nbsp;
   <a href="https://leetcode.com/u/Rohith083/"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="40" alt="LeetCode"/></a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/rohitbappadala"><img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" height="40" alt="HackerRank"/></a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/bappadalarohithkumarnaidu"><img src="https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117" height="40" alt="GFG"/></a>
 </p>
 
 <br>
