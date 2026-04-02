@@ -230,26 +230,35 @@ const rohith: Developer = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=818cf8&v=1" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=818cf8&v=1" alt="Top Languages"/>
 </p>
 
 ## 🏆 &nbsp; Competitive Programming Stats
 
-<p align="center">
-  <a href="https://leetcode.com/u/Rohith083/">
-    <img width="49%" src="https://leetcard.jacoblin.cool/Rohith083?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/bappadalarohithkumarnaidu">
-    <img width="49%" src="https://gfgstatscard.vercel.app/bappadalarohithkumarnaidu?theme=tokyonight" alt="GeeksForGeeks Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/rohitbappadala">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117" alt="HackerRank" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://leetcode.com/u/Rohith083/">
+          <img src="https://leetcard.jacoblin.cool/Rohith083?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://www.geeksforgeeks.org/profile/bappadalarohithkumarnaidu">
+          <img src="https://gfgstatscard.vercel.app/bappadalarohithkumarnaidu?theme=tokyonight" alt="GeeksForGeeks Stats"/>
+        </a>
+      </td>
+      <td width="33%" align="center" valign="middle">
+        <a href="https://www.hackerrank.com/profile/rohitbappadala">
+          <b>&lt;/&gt; HackerRank Profile</b><br/><br/>
+          <img src="https://img.shields.io/badge/Algorithm-Pro-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117"/><br/>
+          <img src="https://img.shields.io/badge/Problem_Solving-Active-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117"/><br/><br/>
+          <sub>➜ View Dashboard</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
