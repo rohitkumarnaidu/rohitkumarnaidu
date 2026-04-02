@@ -347,25 +347,23 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aureus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
+      <td width="25%" align="center">
+        <b>&nbsp;&nbsp;&nbsp;&nbsp;Aureus&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
         <img src="https://img.shields.io/github/stars/rohitkumarnaidu/Modern-Digital-Banking-Dashboard?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
         <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard"><sub>View Source</sub></a>
       </td>
-      <td width="50%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARIA-OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
+      <td width="25%" align="center">
+        <b>&nbsp;&nbsp;&nbsp;&nbsp;ARIA-OS&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
         <img src="https://img.shields.io/github/stars/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
         <a href="https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-"><sub>View Source</sub></a>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agentic&nbsp;Edu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
+      <td width="25%" align="center">
+        <b>&nbsp;&nbsp;&nbsp;&nbsp;Agentic&nbsp;Edu&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
         <img src="https://img.shields.io/github/stars/rohitkumarnaidu/agentic-edu-research-assistant?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
         <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant"><sub>View Source</sub></a>
       </td>
-      <td width="50%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ScholarForm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
+      <td width="25%" align="center">
+        <b>&nbsp;&nbsp;&nbsp;&nbsp;ScholarForm&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
         <img src="https://img.shields.io/github/stars/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
         <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter"><sub>View Source</sub></a>
       </td>
