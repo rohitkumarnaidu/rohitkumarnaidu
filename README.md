@@ -253,7 +253,7 @@ const rohith: Developer = {
           <b>&lt;/&gt; HackerRank Profile</b><br/><br/>
           <img src="https://img.shields.io/badge/Algorithm-Pro-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117"/><br/>
           <img src="https://img.shields.io/badge/Problem_Solving-Active-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117"/><br/><br/>
-          <sub>➜ View Dashboard</sub>
+          <img src="https://img.shields.io/badge/-View_Dashboard-0d1117?style=flat-square&logo=hackerrank&logoColor=00EA64&edge_flat=true" alt="View Dashboard"/>
         </a>
       </td>
     </tr>
