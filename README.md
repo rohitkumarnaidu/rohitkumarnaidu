@@ -224,13 +224,13 @@ const rohith: Developer = {
 <!-- Stats + Streak side by side -->
 <!-- 📊 Interactive Data Hub -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&ring=818cf8&icon_color=818cf8&text_color=94a3b8&title_color=818cf8" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&ring=818cf8&icon_color=818cf8&text_color=94a3b8&title_color=818cf8&v=1" alt="GitHub Stats"/>
   &nbsp;
   <img width="49%" src="https://streak-stats.demolab.com/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b&dates=475569" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=818cf8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=818cf8&v=1" alt="Top Languages"/>
   &nbsp;
   <a href="https://leetcode.com/u/Rohith083/"><img width="49%" src="https://leetcard.jacoblin.cool/Rohith083?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/></a>
 </p>
@@ -249,7 +249,7 @@ const rohith: Developer = {
 
 <!-- ⏱️ WakaTime Dynamic Dashboard -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=94a3b8&v=1" width="100%" alt="WakaTime Stats"/>
 </p>
 
 <p align="center">
@@ -322,7 +322,7 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 *Milestones and trophies earned through consistent contribution and open-source impact.*
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-bg=true&column=8&margin-w=15" alt="GitHub Trophies"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-bg=true&column=8&margin-w=15&v=1" alt="GitHub Trophies"/></a>
 </p>
 
 <br>
