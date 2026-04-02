@@ -332,7 +332,7 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 ## 📈 &nbsp; Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&theme=tokyonight&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true&v=1" width="100%" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/39d353/rohitkumarnaidu" width="100%" alt="Contribution Heatmap"/>
 </p>
 
 <br>
