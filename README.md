@@ -433,8 +433,8 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/SafeViaAI/SafeViaAI/pull/3) in [SafeViaAI/SafeViaAI](https://github.com/SafeViaAI/SafeViaAI)
-2. ❌ Closed PR [#2](https://github.com/SafeViaAI/SafeViaAI/pull/2) in [SafeViaAI/SafeViaAI](https://github.com/SafeViaAI/SafeViaAI)
+1. ❌ Closed PR [#3](https://github.com/SafeVixAI/SafeVixAI/pull/3) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
+2. ❌ Closed PR [#2](https://github.com/SafeVixAI/SafeVixAI/pull/2) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
 3. 🎉 Created repository [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-) (2 days ago)
 4. 🌟 Starred [tripti-gupta700/github-badges](https://github.com/tripti-gupta700/github-badges) (5 days ago)
 5. 🚀 Pushed code to [rohitkumarnaidu/Modern-Digital-Banking-Dashboard](https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard) (1 week ago)
