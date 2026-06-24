@@ -295,6 +295,53 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2015%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2410 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌆 Daytime                8399 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+🌃 Evening                15009 commits       ████████████░░░░░░░░░░░░░   48.15 % 
+🌙 Night                  5351 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2785 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Tuesday                  9737 commits        ████████░░░░░░░░░░░░░░░░░   31.24 % 
+Wednesday                2097 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Thursday                 3143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Friday                   6270 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Saturday                 2292 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Sunday                   4845 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               14 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.74 % 
+Python                   14 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.22 % 
+Markdown                 7 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Other                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+
+🔥 Editors: 
+Antigravity IDE          31 hrs 42 mins      ███████████████████░░░░░░   74.41 % 
+VS Code                  10 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Antigravityide           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
+
+
+ Last Updated on 24/06/2026 17:51:53 UTC
 <!--END_SECTION:waka-->
 
 ---
