@@ -287,6 +287,7 @@ const rohith: Developer = {
 
 ## 🦉 &nbsp; I'm a Night Owl
 
+<!--START_SECTION:waka-->
 ```text
 🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 🌆 Daytime                77 commits          █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
