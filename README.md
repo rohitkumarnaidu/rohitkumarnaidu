@@ -1,11 +1,17 @@
-<!-- ================================================================ -->
-<!--   ROHITH KUMAR — FINAL ULTIMATE GITHUB PROFILE README v4.0      -->
-<!--   Galaxy Theme · Every Top-Profile Feature · Java + Supabase    -->
-<!-- ================================================================ -->
-
 <div align="center">
 <img src="./header.svg" width="100%" alt="Rohith Kumar Banner"/>
 </div>
+
+<p align="center">
+  <a href="#-who-am-i">About</a> &nbsp;·&nbsp;
+  <a href="#-whats-up">What I'm Up To</a> &nbsp;·&nbsp;
+  <a href="#-high-fidelity-project-showcase">Projects</a> &nbsp;·&nbsp;
+  <a href="#-technology-universe">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#-github-galaxy-stats">Stats</a> &nbsp;·&nbsp;
+  <a href="#-wakatime--live-coding-analytics">WakaTime</a> &nbsp;·&nbsp;
+  <a href="#-mission-2026">Mission 2026</a> &nbsp;·&nbsp;
+  <a href="#-connect-with-me">Connect</a>
+</p>
 
 <!-- Wave top -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,30:4f46e5,65:3b82f6,100:06b6d4&height=90&section=header&reversal=false&animation=fadeIn" width="100%"/>
@@ -29,7 +35,7 @@
 
 <p align="center">
   <br/>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Launch_Interactive_Portfolio-818cf8?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-818cf8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
 </p>
 
 <br/>
@@ -277,15 +283,9 @@ const rohith: Developer = {
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=94a3b8&v=1" width="100%" alt="WakaTime Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Weekly_Code_Time-30_hrs_44_mins-818cf8?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0d1117" alt="Weekly Time"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Total_Code_Time-500+_hrs-818cf8?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" alt="Total Time"/>
-</p>
-
 <br/>
 
-**I'm a Night 🦉** 
+## 🦉 &nbsp; I'm a Night Owl
 
 ```text
 🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
@@ -404,26 +404,8 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 
 ## 💬 &nbsp; Testimonials & Recommendations
 
-<!--
-  Colleagues, mentors, or collaborators can write short testimonials about working with you.
-  This builds social proof and credibility!
-  
-  Example format:
-  
-  > "Rohith is an exceptional developer who consistently delivers high-quality code. His expertise in full-stack development and AI integration helped our team ship features 2x faster."
-  > 
-  > **— Jane Doe**, Senior Engineer at Tech Corp
-
-  To add testimonials, either:
-  - Ask colleagues/mentors to provide quotes via email/LinkedIn
-  - Collect from hackathon teammates or open-source collaborators
-  - Display as blockquotes like the example above
--->
-
 <p align="center">
-  <i>"Rohith is an exceptional developer who consistently delivers high-quality code. His expertise in full-stack development and AI integration helped our team ship features 2x faster."</i>
-  <br/>
-  <b>— Mentor / Teammate Spotlight</b>
+  <i>Collaborators, mentors, and teammates — reach out on <a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a">LinkedIn</a> to add your recommendation here.</i>
 </p>
 
 <br/>
@@ -444,10 +426,10 @@ Windsurf                 40 mins             █░░░░░░░░░░�
 
 ---
 
-## 🎯 &nbsp; Mission: 2025
+## 🎯 &nbsp; Mission: 2026
 
 <div align="center">
-  <h3>🔭 &nbsp; Mission: 2025 Roadmap</h3>
+  <h3>🔭 &nbsp; Mission: 2026 Roadmap</h3>
   <br/>
   
   <table width="80%">
