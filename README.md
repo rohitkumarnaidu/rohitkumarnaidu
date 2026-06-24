@@ -31,6 +31,7 @@
   <br/>
   <img src="https://img.shields.io/badge/📍_Puducherry_India-818cf8?style=for-the-badge&labelColor=0d1117" alt="Location"/>
   <img src="https://img.shields.io/badge/Available_For_Internships-818cf8?style=for-the-badge&logo=react&labelColor=0d1117" alt="Available For Internships"/>
+  <img src="https://img.shields.io/badge/🟢_Available_For_Hire-22c55e?style=for-the-badge&labelColor=0d1117" alt="Available For Hire"/>
 </p>
 
 <p align="center">
@@ -290,65 +291,6 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2015%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,279 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2410 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                8399 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-🌃 Evening                15003 commits       ████████████░░░░░░░░░░░░░   48.14 % 
-🌙 Night                  5351 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2785 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Tuesday                  9737 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Wednesday                2091 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Thursday                 3143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Friday                   6270 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Saturday                 2292 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Sunday                   4845 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               14 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.74 % 
-Python                   14 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.22 % 
-Markdown                 7 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Other                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-
-🔥 Editors: 
-Antigravity IDE          31 hrs 42 mins      ███████████████████░░░░░░   74.41 % 
-VS Code                  10 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Antigravityide           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-
-
- Last Updated on 24/06/2026 16:45:43 UTC
 <!--END_SECTION:waka-->
 
 ---
