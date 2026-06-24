@@ -275,16 +275,20 @@ const rohith: Developer = {
 
 <div align="center">
 
-<!-- Real WakaTime data populated by GitHub Actions -->
+<a href="https://wakatime.com/@rohitkumarnaidu">
+  <img src="https://wakatime.com/badge/user/25522b29-e876-4d16-97d2-7b1e7759f893.svg?style=for-the-badge&labelColor=0d1117&color=818cf8" alt="Total WakaTime"/>
+</a>
+
+<br/><br/>
+
+<!-- WakaTime share card — updates daily from wakatime.com -->
+<a href="https://wakatime.com/@rohitkumarnaidu">
+  <img src="https://wakatime.com/share/@rohitkumarnaidu/languages.svg" alt="WakaTime Languages" width="380"/>
+  &nbsp;&nbsp;
+  <img src="https://wakatime.com/share/@rohitkumarnaidu/editors.svg" alt="WakaTime Editors" width="380"/>
+</a>
 
 </div>
-
-<!-- ⏱️ WakaTime Dynamic Dashboard -->
-<p align="center">
-  <a href="https://wakatime.com/@rohitkumarnaidu">
-    <img src="https://wakatime.com/badge/user/25522b29-e876-4d16-97d2-7b1e7759f893.svg?style=for-the-badge&labelColor=0d1117&color=818cf8" alt="Total WakaTime"/>
-  </a>
-</p>
 
 <br/>
 
@@ -308,12 +312,49 @@ const rohith: Developer = {
 
 ---
 
-## 🏆 &nbsp; GitHub Achievements
-*Milestones and trophies earned through consistent contribution and open-source impact.*
+## 🏆 &nbsp; GitHub Achievements & Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://nirzak-trophies.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-bg=true&column=6&margin-w=15&v=1" alt="GitHub Trophies"/></a>
-</p>
+<div align="center">
+
+<!-- Real earned GitHub Achievements -->
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
+      <br/><b>YOLO</b>
+      <br/><sub>Merged a PR without review</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
+      <br/><b>Pull Shark</b>
+      <br/><sub>Opened merged pull requests</sub>
+    </td>
+    <td align="center" width="160" style="opacity:0.35;">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" style="filter:grayscale(1)"/>
+      <br/><b>Pair Extraordinaire</b>
+      <br/><sub>🔒 Co-author a merged PR</sub>
+    </td>
+    <td align="center" width="160" style="opacity:0.35;">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" style="filter:grayscale(1)"/>
+      <br/><b>Starstruck</b>
+      <br/><sub>🔒 Get 16 stars on a repo</sub>
+    </td>
+    <td align="center" width="160" style="opacity:0.35;">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain" style="filter:grayscale(1)"/>
+      <br/><b>Galaxy Brain</b>
+      <br/><sub>🔒 Get a discussion answer accepted</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Stats Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://nirzak-trophies.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-bg=true&column=6&margin-w=15&v=1" alt="GitHub Trophies"/>
+</a>
+
+</div>
 
 <br>
 
@@ -426,6 +467,20 @@ const rohith: Developer = {
 </div>
 
 <br>
+
+---
+
+## ✨ &nbsp; Profile Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_PRO-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub PRO"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🟢_Open_To_Work-22c55e?style=for-the-badge&labelColor=0d1117" alt="Open To Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/1279_Contributions_in_2026-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/303+_hrs_Coded-818cf8?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0d1117" alt="Hours Coded"/>
+</p>
 
 ---
 
