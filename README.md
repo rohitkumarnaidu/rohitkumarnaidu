@@ -368,7 +368,7 @@ Claude Code              7 mins              ░░░░░░░░░░░�
 *Milestones and trophies earned through consistent contribution and open-source impact.*
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-bg=true&column=8&margin-w=15&v=1" alt="GitHub Trophies"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://nirzak-trophies.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-bg=true&column=6&margin-w=15&v=1" alt="GitHub Trophies"/></a>
 </p>
 
 <br>
