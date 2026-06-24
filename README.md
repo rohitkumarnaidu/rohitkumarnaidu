@@ -280,7 +280,9 @@ const rohith: Developer = {
 
 <!-- ⏱️ WakaTime Dynamic Dashboard -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitkumarnaidu&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=94a3b8&v=1" width="100%" alt="WakaTime Stats"/>
+  <a href="https://wakatime.com/@rohitkumarnaidu">
+    <img src="https://wakatime.com/badge/user/25522b29-e876-4d16-97d2-7b1e7759f893.svg?style=for-the-badge&labelColor=0d1117&color=818cf8" alt="Total WakaTime"/>
+  </a>
 </p>
 
 <br/>
