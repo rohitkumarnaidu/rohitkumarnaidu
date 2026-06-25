@@ -297,7 +297,7 @@ const rohith: Developer = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -326,22 +326,22 @@ Sunday                   4845 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.74 % 
-Python                   14 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.22 % 
-Markdown                 7 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Other                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python                   14 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.87 % 
+TypeScript               11 hrs              ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Markdown                 4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Other                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Antigravity IDE          31 hrs 42 mins      ███████████████████░░░░░░   74.41 % 
-VS Code                  10 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Antigravityide           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Antigravity IDE          24 hrs 47 mins      █████████████████░░░░░░░░   69.46 % 
+VS Code                  10 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Antigravityide           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 24/06/2026 20:23:18 UTC
+ Last Updated on 25/06/2026 20:31:41 UTC
 <!--END_SECTION:waka-->
 
 ---
