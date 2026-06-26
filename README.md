@@ -295,28 +295,28 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2410 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                8399 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-🌃 Evening                15009 commits       ████████████░░░░░░░░░░░░░   48.15 % 
-🌙 Night                  5352 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+🌞 Morning                2395 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+🌆 Daytime                8256 commits        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌃 Evening                14872 commits       ████████████░░░░░░░░░░░░░   48.32 % 
+🌙 Night                  5258 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2785 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Tuesday                  9737 commits        ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Wednesday                2097 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Thursday                 3144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Friday                   6270 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Saturday                 2292 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Sunday                   4845 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Monday                   2736 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Tuesday                  9609 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
+Wednesday                2074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Thursday                 3100 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Friday                   6201 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Saturday                 2273 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Sunday                   4788 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 ```
 
 
@@ -326,22 +326,22 @@ Sunday                   4845 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.87 % 
-TypeScript               11 hrs              ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Markdown                 4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Other                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   14 hrs 46 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
+TypeScript               9 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Markdown                 2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+HTML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Other                    1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Antigravity IDE          24 hrs 47 mins      █████████████████░░░░░░░░   69.46 % 
-VS Code                  10 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Antigravityide           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Antigravity IDE          21 hrs 35 mins      ████████████████░░░░░░░░░   64.75 % 
+VS Code                  10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.78 % 
+Antigravityide           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 
- Last Updated on 25/06/2026 20:31:41 UTC
+ Last Updated on 26/06/2026 20:19:30 UTC
 <!--END_SECTION:waka-->
 
 ---
