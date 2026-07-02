@@ -295,26 +295,26 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2700 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-🌆 Daytime                9815 commits        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-🌃 Evening                16408 commits       ████████████░░░░░░░░░░░░░   46.90 % 
+🌞 Morning                2703 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+🌆 Daytime                9816 commits        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+🌃 Evening                16408 commits       ████████████░░░░░░░░░░░░░   46.89 % 
 🌙 Night                  6065 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3158 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Monday                   3158 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 Tuesday                  11029 commits       ████████░░░░░░░░░░░░░░░░░   31.52 % 
 Wednesday                2362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Thursday                 3517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Friday                   6790 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Thursday                 3521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Friday                   6790 commits        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 Saturday                 2734 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 Sunday                   5398 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 ```
@@ -326,20 +326,20 @@ Sunday                   5398 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   19 hrs 8 mins       ██████████████░░░░░░░░░░░   56.07 % 
-Markdown                 5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-TypeScript               5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-HTML                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Python                   12 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.76 % 
+TypeScript               4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Markdown                 4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+HTML                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.28 % 
-VS Code                  15 hrs 40 mins      ███████████░░░░░░░░░░░░░░   45.94 % 
-Antigravity Desktop      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Antigravity IDE          15 hrs 16 mins      ██████████████░░░░░░░░░░░   57.40 % 
+VS Code                  8 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
+Antigravity Desktop      2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 ```
 
 
- Last Updated on 01/07/2026 20:25:06 UTC
+ Last Updated on 02/07/2026 20:04:20 UTC
 <!--END_SECTION:waka-->
 
 ---
