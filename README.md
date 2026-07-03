@@ -295,7 +295,7 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
 
@@ -326,20 +326,20 @@ Sunday                   5398 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   12 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.76 % 
-TypeScript               4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Markdown                 4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-HTML                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Python                   12 hrs 19 mins      ████████████░░░░░░░░░░░░░   47.18 % 
+Markdown                 4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+TypeScript               3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JavaScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 16 mins      ██████████████░░░░░░░░░░░   57.40 % 
-VS Code                  8 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
-Antigravity Desktop      2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Antigravity IDE          15 hrs 10 mins      ███████████████░░░░░░░░░░   58.09 % 
+VS Code                  7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Antigravity Desktop      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
 
- Last Updated on 02/07/2026 20:04:20 UTC
+ Last Updated on 03/07/2026 19:59:31 UTC
 <!--END_SECTION:waka-->
 
 ---
