@@ -295,7 +295,7 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
 
@@ -326,20 +326,21 @@ Sunday                   5398 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   12 hrs 19 mins      ████████████░░░░░░░░░░░░░   47.18 % 
-Markdown                 4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-TypeScript               3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-JavaScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Python                   20 hrs 29 mins      █████████████░░░░░░░░░░░░   52.57 % 
+TypeScript               7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+JavaScript               3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Markdown                 3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+HTML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 10 mins      ███████████████░░░░░░░░░░   58.09 % 
-VS Code                  7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-Antigravity Desktop      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Antigravity IDE          19 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.61 % 
+VS Code                  15 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.60 % 
+Antigravity Desktop      3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 
- Last Updated on 03/07/2026 19:59:31 UTC
+ Last Updated on 04/07/2026 19:45:43 UTC
 <!--END_SECTION:waka-->
 
 ---
