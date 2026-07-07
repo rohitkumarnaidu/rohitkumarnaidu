@@ -295,7 +295,7 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
 
@@ -326,21 +326,21 @@ Sunday                   5560 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   15 hrs 11 mins      ████████████░░░░░░░░░░░░░   48.42 % 
-TypeScript               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Markdown                 4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-JavaScript               3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-HTML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Python                   14 hrs 39 mins      █████████████░░░░░░░░░░░░   53.63 % 
+Markdown                 4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+TypeScript               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+HTML                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+JavaScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.58 % 
-Antigravity IDE          13 hrs 12 mins      ███████████░░░░░░░░░░░░░░   42.09 % 
-Antigravity Desktop      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Antigravity IDE          14 hrs 10 mins      █████████████░░░░░░░░░░░░   51.86 % 
+VS Code                  9 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
+Antigravity Desktop      3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 
- Last Updated on 06/07/2026 20:25:16 UTC
+ Last Updated on 07/07/2026 20:28:20 UTC
 <!--END_SECTION:waka-->
 
 ---
