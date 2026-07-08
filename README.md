@@ -297,7 +297,7 @@ const rohith: Developer = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -326,21 +326,21 @@ Sunday                   5560 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 hrs 39 mins      █████████████░░░░░░░░░░░░   53.63 % 
-Markdown                 4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-TypeScript               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-HTML                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-JavaScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Python                   13 hrs 48 mins      █████████████░░░░░░░░░░░░   52.03 % 
+Markdown                 4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+TypeScript               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+HTML                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-Antigravity IDE          14 hrs 10 mins      █████████████░░░░░░░░░░░░   51.86 % 
-VS Code                  9 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
-Antigravity Desktop      3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Antigravity IDE          16 hrs 4 mins       ███████████████░░░░░░░░░░   60.54 % 
+VS Code                  9 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
+Antigravity Desktop      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
- Last Updated on 07/07/2026 20:28:20 UTC
+ Last Updated on 08/07/2026 20:09:36 UTC
 <!--END_SECTION:waka-->
 
 ---
