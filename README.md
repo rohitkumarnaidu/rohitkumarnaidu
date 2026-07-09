@@ -295,9 +295,9 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -326,21 +326,21 @@ Sunday                   5560 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   13 hrs 48 mins      █████████████░░░░░░░░░░░░   52.03 % 
-Markdown                 4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-TypeScript               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-HTML                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Python                   16 hrs 4 mins       ██████████████░░░░░░░░░░░   57.07 % 
+Markdown                 5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+TypeScript               2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 4 mins       ███████████████░░░░░░░░░░   60.54 % 
-VS Code                  9 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
-Antigravity Desktop      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Antigravity IDE          15 hrs 12 mins      ██████████████░░░░░░░░░░░   54.00 % 
+VS Code                  11 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.63 % 
+Antigravity Desktop      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
- Last Updated on 08/07/2026 20:09:36 UTC
+ Last Updated on 09/07/2026 20:21:36 UTC
 <!--END_SECTION:waka-->
 
 ---
