@@ -295,7 +295,7 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -326,21 +326,20 @@ Sunday                   5560 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   16 hrs 4 mins       ██████████████░░░░░░░░░░░   57.07 % 
-Markdown                 5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-TypeScript               2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Python                   16 hrs 17 mins      █████████████░░░░░░░░░░░░   53.85 % 
+Markdown                 6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+TypeScript               3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+HTML                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+TOML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 12 mins      ██████████████░░░░░░░░░░░   54.00 % 
-VS Code                  11 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.63 % 
-Antigravity Desktop      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Antigravity IDE          18 hrs 2 mins       ███████████████░░░░░░░░░░   59.62 % 
+VS Code                  10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.74 % 
+Antigravity Desktop      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 
 
- Last Updated on 09/07/2026 20:21:36 UTC
+ Last Updated on 10/07/2026 20:06:42 UTC
 <!--END_SECTION:waka-->
 
 ---
