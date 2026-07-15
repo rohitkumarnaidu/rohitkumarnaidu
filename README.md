@@ -302,21 +302,21 @@ const rohith: Developer = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2886 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-🌆 Daytime                25795 commits       ██████████░░░░░░░░░░░░░░░   40.07 % 
-🌃 Evening                17192 commits       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-🌙 Night                  18496 commits       ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+🌞 Morning                4509 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+🌆 Daytime                32808 commits       ███████████░░░░░░░░░░░░░░   42.72 % 
+🌃 Evening                19257 commits       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+🌙 Night                  20218 commits       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3316 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Tuesday                  11513 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Wednesday                2521 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Thursday                 3743 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Friday                   7002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Saturday                 18450 commits       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-Sunday                   17824 commits       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Monday                   3316 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Tuesday                  12443 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                9852 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Thursday                 4352 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Friday                   6741 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Saturday                 20650 commits       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+Sunday                   19438 commits       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
 ```
 
 
@@ -326,20 +326,20 @@ Sunday                   17824 commits       ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.34 % 
-Markdown                 8 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.86 % 
-TypeScript               2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   9 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.25 % 
+Markdown                 7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
+TypeScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Antigravity IDE          19 hrs 44 mins      ██████████████████░░░░░░░   70.74 % 
-VS Code                  6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Antigravity Desktop      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Antigravity IDE          14 hrs 19 mins      ████████████████░░░░░░░░░   63.75 % 
+VS Code                  6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Antigravity Desktop      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 
- Last Updated on 14/07/2026 20:00:40 UTC
+ Last Updated on 15/07/2026 19:54:19 UTC
 <!--END_SECTION:waka-->
 
 ---
