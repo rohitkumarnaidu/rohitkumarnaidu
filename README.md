@@ -295,28 +295,28 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4509 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-🌆 Daytime                32816 commits       ███████████░░░░░░░░░░░░░░   42.69 % 
-🌃 Evening                19309 commits       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-🌙 Night                  20229 commits       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌞 Morning                4719 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+🌆 Daytime                32836 commits       ██████████░░░░░░░░░░░░░░░   41.23 % 
+🌃 Evening                21829 commits       ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+🌙 Night                  20250 commits       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3316 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Tuesday                  12443 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Wednesday                9852 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Thursday                 4368 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Friday                   6795 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Saturday                 20651 commits       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Sunday                   19438 commits       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Monday                   3316 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Tuesday                  12443 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Wednesday                10082 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 4368 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Friday                   6815 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Saturday                 23171 commits       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Sunday                   19439 commits       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
 ```
 
 
@@ -326,20 +326,21 @@ Sunday                   19438 commits       ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
-Python                   3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-TypeScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-JavaScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Git Config               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+TypeScript               4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Markdown                 4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+JavaScript               3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+YAML                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 5 mins       ████████████████████░░░░░   79.67 % 
-VS Code                  2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Antigravity Desktop      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Antigravity IDE          16 hrs 10 mins      ████████████████████░░░░░   81.87 % 
+VS Code                  2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Qoder                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Antigravity Desktop      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
- Last Updated on 17/07/2026 19:49:40 UTC
+ Last Updated on 18/07/2026 19:48:59 UTC
 <!--END_SECTION:waka-->
 
 ---
