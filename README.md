@@ -467,11 +467,11 @@ Qoder                    34 mins             ░░░░░░░░░░░�
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#107](https://github.com/vallabhatech/Digital-Ally/issues/107) in [vallabhatech/Digital-Ally](https://github.com/vallabhatech/Digital-Ally)
-2. ❗ Opened issue [#183](https://github.com/akshay0611/havenly/issues/183) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
-3. ❗ Opened issue [#182](https://github.com/akshay0611/havenly/issues/182) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
-4. ❗ Opened issue [#181](https://github.com/akshay0611/havenly/issues/181) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
-5. ❗ Opened issue [#180](https://github.com/akshay0611/havenly/issues/180) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
+1. 💪 Opened PR [#85](https://github.com/itzzavdhesh/TabTwin/pull/85) in [itzzavdhesh/TabTwin](https://github.com/itzzavdhesh/TabTwin)
+2. ❗ Opened issue [#107](https://github.com/vallabhatech/Digital-Ally/issues/107) in [vallabhatech/Digital-Ally](https://github.com/vallabhatech/Digital-Ally)
+3. ❗ Opened issue [#183](https://github.com/akshay0611/havenly/issues/183) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
+4. ❗ Opened issue [#182](https://github.com/akshay0611/havenly/issues/182) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
+5. ❗ Opened issue [#181](https://github.com/akshay0611/havenly/issues/181) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
 <!--END_SECTION:activity-->
 
 <br>
