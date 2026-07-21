@@ -467,11 +467,11 @@ Qoder                    34 mins             ░░░░░░░░░░░�
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#40](https://github.com/Sanket-103-pvt/placetrack-ai/issues/40) in [Sanket-103-pvt/placetrack-ai](https://github.com/Sanket-103-pvt/placetrack-ai)
-2. ❗ Opened issue [#39](https://github.com/Sanket-103-pvt/placetrack-ai/issues/39) in [Sanket-103-pvt/placetrack-ai](https://github.com/Sanket-103-pvt/placetrack-ai)
-3. ❗ Opened issue [#38](https://github.com/Sanket-103-pvt/placetrack-ai/issues/38) in [Sanket-103-pvt/placetrack-ai](https://github.com/Sanket-103-pvt/placetrack-ai)
-4. ❗ Opened issue [#37](https://github.com/Sanket-103-pvt/placetrack-ai/issues/37) in [Sanket-103-pvt/placetrack-ai](https://github.com/Sanket-103-pvt/placetrack-ai)
-5. ❗ Opened issue [#135](https://github.com/Sanket-103-pvt/Git-Stats/issues/135) in [Sanket-103-pvt/Git-Stats](https://github.com/Sanket-103-pvt/Git-Stats)
+1. ❗ Opened issue [#192](https://github.com/arghya29/DevForge/issues/192) in [arghya29/DevForge](https://github.com/arghya29/DevForge)
+2. ❗ Opened issue [#191](https://github.com/arghya29/DevForge/issues/191) in [arghya29/DevForge](https://github.com/arghya29/DevForge)
+3. ❗ Opened issue [#190](https://github.com/arghya29/DevForge/issues/190) in [arghya29/DevForge](https://github.com/arghya29/DevForge)
+4. ❗ Opened issue [#189](https://github.com/arghya29/DevForge/issues/189) in [arghya29/DevForge](https://github.com/arghya29/DevForge)
+5. ❗ Opened issue [#188](https://github.com/arghya29/DevForge/issues/188) in [arghya29/DevForge](https://github.com/arghya29/DevForge)
 <!--END_SECTION:activity-->
 
 <br>
