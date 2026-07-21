@@ -467,11 +467,11 @@ Qoder                    34 mins             ░░░░░░░░░░░�
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4410](https://github.com/anurag3407/career-pilot/issues/4410) in [anurag3407/career-pilot](https://github.com/anurag3407/career-pilot)
-2. ❗ Opened issue [#21](https://github.com/sandipanxd/Widgetry/issues/21) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
-3. ❗ Opened issue [#20](https://github.com/sandipanxd/Widgetry/issues/20) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
-4. ❗ Opened issue [#19](https://github.com/sandipanxd/Widgetry/issues/19) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
-5. ❗ Opened issue [#18](https://github.com/sandipanxd/Widgetry/issues/18) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
+1. ❗ Opened issue [#286](https://github.com/janavipandole/Furnix/issues/286) in [janavipandole/Furnix](https://github.com/janavipandole/Furnix)
+2. ❗ Opened issue [#285](https://github.com/janavipandole/Furnix/issues/285) in [janavipandole/Furnix](https://github.com/janavipandole/Furnix)
+3. ❗ Opened issue [#284](https://github.com/janavipandole/Furnix/issues/284) in [janavipandole/Furnix](https://github.com/janavipandole/Furnix)
+4. ❗ Opened issue [#151](https://github.com/akshay0611/ClinIQ/issues/151) in [akshay0611/ClinIQ](https://github.com/akshay0611/ClinIQ)
+5. ❗ Opened issue [#150](https://github.com/akshay0611/ClinIQ/issues/150) in [akshay0611/ClinIQ](https://github.com/akshay0611/ClinIQ)
 <!--END_SECTION:activity-->
 
 <br>
