@@ -295,28 +295,28 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5634 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-🌆 Daytime                35483 commits       ██████████░░░░░░░░░░░░░░░   40.70 % 
-🌃 Evening                25045 commits       ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-🌙 Night                  21018 commits       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+🌞 Morning                5902 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌆 Daytime                36356 commits       ██████████░░░░░░░░░░░░░░░   40.59 % 
+🌃 Evening                25905 commits       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+🌙 Night                  21399 commits       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3696 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Tuesday                  14394 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                11166 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Thursday                 5792 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Friday                   7672 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Saturday                 24087 commits       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Sunday                   20373 commits       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Monday                   3892 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Tuesday                  15149 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Wednesday                11374 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Thursday                 6146 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Friday                   7953 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Saturday                 24372 commits       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Sunday                   20676 commits       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 ```
 
 
@@ -326,21 +326,21 @@ Sunday                   20373 commits       ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               10 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Markdown                 7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-JavaScript               6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Python                   3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-YAML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+TypeScript               7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+JavaScript               6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Markdown                 5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Python                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+YAML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-Antigravity IDE          27 hrs 29 mins      ████████████████████░░░░░   79.65 % 
-VS Code                  5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Antigravity Desktop      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Qoder                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Antigravity IDE          22 hrs 52 mins      ███████████████████░░░░░░   75.63 % 
+VS Code                  5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Antigravity Desktop      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Qoder                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
- Last Updated on 21/07/2026 20:27:18 UTC
+ Last Updated on 22/07/2026 20:19:12 UTC
 <!--END_SECTION:waka-->
 
 ---
