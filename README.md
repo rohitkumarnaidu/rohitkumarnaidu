@@ -295,52 +295,10 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                5902 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-🌆 Daytime                36356 commits       ██████████░░░░░░░░░░░░░░░   40.59 % 
-🌃 Evening                25905 commits       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌙 Night                  21399 commits       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   3892 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Tuesday                  15149 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Wednesday                11374 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Thursday                 6146 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Friday                   7953 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Saturday                 24372 commits       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-Sunday                   20676 commits       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-JavaScript               6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Markdown                 5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Python                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-YAML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-
-🔥 Editors: 
-Antigravity IDE          22 hrs 52 mins      ███████████████████░░░░░░   75.63 % 
-VS Code                  5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Antigravity Desktop      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Qoder                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-```
-
-
- Last Updated on 22/07/2026 20:19:12 UTC
+ Last Updated on 23/07/2026 20:23:16 UTC
 <!--END_SECTION:waka-->
 
 ---
