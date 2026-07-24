@@ -425,11 +425,11 @@ const rohith: Developer = {
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/5) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
-2. 🗣 Commented on [#5](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/5#issuecomment-5070105891) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
-3. ❌ Closed PR [#4](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/4) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
-4. 🗣 Commented on [#4](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/4#issuecomment-5070105475) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
-5. ❌ Closed PR [#3](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/3) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
+1. 🗣 Commented on [#38](https://github.com/sreerevanth/repopilot/issues/38#issuecomment-5073537466) in [sreerevanth/repopilot](https://github.com/sreerevanth/repopilot)
+2. 🔓 Reopened issue [#38](https://github.com/sreerevanth/repopilot/issues/38) in [sreerevanth/repopilot](https://github.com/sreerevanth/repopilot)
+3. 🗣 Commented on [#187](https://github.com/akshay0611/havenly/issues/187#issuecomment-5073537087) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
+4. 🔓 Reopened issue [#187](https://github.com/akshay0611/havenly/issues/187) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
+5. 🗣 Commented on [#190](https://github.com/akshay0611/havenly/issues/190#issuecomment-5073536339) in [akshay0611/havenly](https://github.com/akshay0611/havenly)
 <!--END_SECTION:activity-->
 
 <br>
