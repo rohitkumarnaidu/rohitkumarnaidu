@@ -425,11 +425,11 @@ const rohith: Developer = {
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#333](https://github.com/SRV30/Faith-and-Fast/pull/333) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-2. 💪 Opened PR [#332](https://github.com/SRV30/Faith-and-Fast/pull/332) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-3. 💪 Opened PR [#331](https://github.com/SRV30/Faith-and-Fast/pull/331) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-4. 💪 Opened PR [#330](https://github.com/SRV30/Faith-and-Fast/pull/330) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-5. 💪 Opened PR [#329](https://github.com/SRV30/Faith-and-Fast/pull/329) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+1. 🎉 Merged PR [#61](https://github.com/AnitSarkar123/A-Typeing-Practice-web/pull/61) in [AnitSarkar123/A-Typeing-Practice-web](https://github.com/AnitSarkar123/A-Typeing-Practice-web)
+2. 🎉 Merged PR [#60](https://github.com/AnitSarkar123/A-Typeing-Practice-web/pull/60) in [AnitSarkar123/A-Typeing-Practice-web](https://github.com/AnitSarkar123/A-Typeing-Practice-web)
+3. 🎉 Merged PR [#171](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/171) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
+4. 🎉 Merged PR [#66](https://github.com/vanshika114/Ch.aptered/pull/66) in [vanshika114/Ch.aptered](https://github.com/vanshika114/Ch.aptered)
+5. 🎉 Merged PR [#67](https://github.com/vanshika114/Ch.aptered/pull/67) in [vanshika114/Ch.aptered](https://github.com/vanshika114/Ch.aptered)
 <!--END_SECTION:activity-->
 
 <br>
