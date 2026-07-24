@@ -425,11 +425,11 @@ const rohith: Developer = {
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/AnitSarkar123/A-Typeing-Practice-web/pull/61) in [AnitSarkar123/A-Typeing-Practice-web](https://github.com/AnitSarkar123/A-Typeing-Practice-web)
-2. 🎉 Merged PR [#60](https://github.com/AnitSarkar123/A-Typeing-Practice-web/pull/60) in [AnitSarkar123/A-Typeing-Practice-web](https://github.com/AnitSarkar123/A-Typeing-Practice-web)
-3. 🎉 Merged PR [#171](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/171) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
-4. 🎉 Merged PR [#66](https://github.com/vanshika114/Ch.aptered/pull/66) in [vanshika114/Ch.aptered](https://github.com/vanshika114/Ch.aptered)
-5. 🎉 Merged PR [#67](https://github.com/vanshika114/Ch.aptered/pull/67) in [vanshika114/Ch.aptered](https://github.com/vanshika114/Ch.aptered)
+1. ❌ Closed PR [#5](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/5) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
+2. 🗣 Commented on [#5](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/5#issuecomment-5070105891) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
+3. ❌ Closed PR [#4](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/4) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
+4. 🗣 Commented on [#4](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/4#issuecomment-5070105475) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
+5. ❌ Closed PR [#3](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim/pull/3) in [rohitkumarnaidu/Box_Office_Inc-Movie_Sim](https://github.com/rohitkumarnaidu/Box_Office_Inc-Movie_Sim)
 <!--END_SECTION:activity-->
 
 <br>
