@@ -295,10 +295,51 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2026 20:20:29 UTC
+```text
+🌞 Morning                5334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+🌆 Daytime                33873 commits       ██████████░░░░░░░░░░░░░░░   40.93 % 
+🌃 Evening                24024 commits       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+🌙 Night                  19529 commits       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   2797 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Tuesday                  12096 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Wednesday                10908 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Thursday                 5694 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Friday                   6780 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Saturday                 25165 commits       ████████░░░░░░░░░░░░░░░░░   30.41 % 
+Sunday                   19320 commits       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   14 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.51 % 
+Markdown                 7 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+JavaScript               5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+TypeScript               3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+HTML                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+
+🔥 Editors: 
+Antigravity IDE          27 hrs 14 mins      █████████████████░░░░░░░░   69.65 % 
+VS Code                  7 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Antigravity Desktop      3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+```
+
+
+ Last Updated on 25/07/2026 20:03:56 UTC
 <!--END_SECTION:waka-->
 
 ---
