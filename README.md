@@ -295,28 +295,30 @@ const rohith: Developer = {
 ## 🦉 &nbsp; I'm a Night Owl
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-443%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4946 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-🌆 Daytime                34988 commits       ███████████░░░░░░░░░░░░░░   42.51 % 
-🌃 Evening                22782 commits       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-🌙 Night                  19586 commits       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+🌞 Morning                5641 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+🌆 Daytime                36628 commits       ██████████░░░░░░░░░░░░░░░   41.69 % 
+🌃 Evening                25146 commits       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+🌙 Night                  20450 commits       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2680 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Tuesday                  12661 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                10422 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Thursday                 5431 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Friday                   6789 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Saturday                 25086 commits       ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Sunday                   19233 commits       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Monday                   3153 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Tuesday                  13763 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Wednesday                10963 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Thursday                 6174 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Friday                   7051 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Saturday                 26399 commits       ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Sunday                   20362 commits       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
 ```
 
 
@@ -326,20 +328,46 @@ Sunday                   19233 commits       ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   15 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
-JavaScript               7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Markdown                 6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-TypeScript               4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-HTML                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Python                   10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   33.78 % 
+JavaScript               6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Markdown                 4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+TypeScript               2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+HTML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-Antigravity IDE          27 hrs 34 mins      █████████████████░░░░░░░░   66.90 % 
-VS Code                  7 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Antigravity Desktop      5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Antigravity IDE          18 hrs 44 mins      ███████████████░░░░░░░░░░   58.90 % 
+VS Code                  7 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Antigravity Desktop      5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 31 hrs 31 mins (99.03%)
+
+✍️ 45,622 lines written by AI, 38 lines written by hand (99.92% AI-written)
+
+🔤 81,952,266 Input Tokens, 1,688,650 Output Tokens
+
+💵 $265.66 Estimated AI Cost This Week
+
+🧠 387 AI Sessions, 601 AI Prompts
+
+Deepseek                 45,771 lines        █████████████████████████   98.10 % 
+GPT                      467 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Antigravity-Desktop      245 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Gemini                   176 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 4,680 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 20:07:45 UTC
+ Last Updated on 27/07/2026 20:30:53 UTC
 <!--END_SECTION:waka-->
 
 ---
