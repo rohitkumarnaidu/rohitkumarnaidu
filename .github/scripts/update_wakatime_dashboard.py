@@ -44,7 +44,7 @@ editors = list(week.get("editors", []))[:2]
 if len(languages) < 4 or len(editors) < 2:
     raise RuntimeError("WakaTime returned insufficient dashboard data; keeping the current SVG unchanged.")
 
-svg_file = Path("wakatime-dashboard.svg")
+svg_file = Path("assets/svg/wakatime-dashboard.svg")
 svg = svg_file.read_text(encoding="utf-8")
 total_text = str(all_time.get("text") or all_time.get("human_readable_total") or "")
 svg = set_text(svg, "total-time", total_text.replace(" hrs ", "h ").replace(" mins", "m"))

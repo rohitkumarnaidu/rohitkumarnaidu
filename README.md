@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <img src="./profile-hero-v2.svg" width="100%" alt="Rohith Kumar — Computer Science Student focused on AI, data analytics and full-stack development" />
+  <img src="./assets/svg/profile-hero.svg" width="100%" alt="Rohith Kumar — Computer Science Student focused on AI, data analytics and full-stack development" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=20&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&repeat=true&width=980&height=45&lines=Computer+Science+Student;AI%2FML+%26+Data+Analytics+Enthusiast;Full-Stack+Developer;Aspiring+Platform+Engineer;Open-Source+Contributor" alt="Computer Science Student · AI/ML &amp; Data Analytics Enthusiast · Full-Stack Developer · Aspiring Platform Engineer · Open-Source Contributor" />
 
@@ -335,7 +335,7 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 
 <br /><br />
 
-<img width="95%" src="./wakatime-dashboard.svg" alt="WakaTime engineering dashboard showing total code time, language focus, and editor activity" />
+<img width="95%" src="./assets/svg/wakatime-dashboard.svg" alt="WakaTime engineering dashboard showing total code time, language focus, and editor activity" />
 
 </div>
 
