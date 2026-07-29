@@ -425,11 +425,11 @@ const rohith: Developer = {
 ## ⬡ &nbsp; Real-Time Development Hub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/rohitkumarnaidu/Forgevena/pull/32) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-2. 🎉 Merged PR [#617](https://github.com/omroy07/AI-Money-Mentor/pull/617) in [omroy07/AI-Money-Mentor](https://github.com/omroy07/AI-Money-Mentor)
-3. 🎉 Merged PR [#616](https://github.com/omroy07/AI-Money-Mentor/pull/616) in [omroy07/AI-Money-Mentor](https://github.com/omroy07/AI-Money-Mentor)
-4. 🎉 Merged PR [#615](https://github.com/omroy07/AI-Money-Mentor/pull/615) in [omroy07/AI-Money-Mentor](https://github.com/omroy07/AI-Money-Mentor)
-5. 🎉 Merged PR [#614](https://github.com/omroy07/AI-Money-Mentor/pull/614) in [omroy07/AI-Money-Mentor](https://github.com/omroy07/AI-Money-Mentor)
+1. 🎉 Merged PR [#34](https://github.com/rohitkumarnaidu/Forgevena/pull/34) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+2. 💪 Opened PR [#34](https://github.com/rohitkumarnaidu/Forgevena/pull/34) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+3. 🎉 Merged PR [#33](https://github.com/rohitkumarnaidu/Forgevena/pull/33) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+4. 💪 Opened PR [#33](https://github.com/rohitkumarnaidu/Forgevena/pull/33) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+5. 🎉 Merged PR [#32](https://github.com/rohitkumarnaidu/Forgevena/pull/32) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
 <!--END_SECTION:activity-->
 
 <br>
