@@ -337,10 +337,30 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 
 <a href="https://wakatime.com/@rohitkumarnaidu"><img src="https://wakatime.com/badge/user/25522b29-e876-4d16-97d2-7b1e7759f893.svg?style=for-the-badge" alt="Total WakaTime coding activity" /></a>
 
+<br /><br />
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <b>⚡ Language focus</b><br /><br />
+  <img src="https://img.shields.io/badge/Python-42.34%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 42.34 percent" />
+  <img src="https://img.shields.io/badge/Markdown-31.86%25-111827?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown 31.86 percent" /><br />
+  <img src="https://img.shields.io/badge/TypeScript-9.92%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 9.92 percent" />
+  <img src="https://img.shields.io/badge/HTML-3.45%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML 3.45 percent" />
+</td>
+<td align="center" width="50%">
+  <b>🔥 Editor activity</b><br /><br />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-70.74%25-7C3AED?style=for-the-badge" alt="Antigravity IDE 70.74 percent" />
+  <img src="https://img.shields.io/badge/VS_Code-24.20%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code 24.20 percent" /><br />
+  <sub>Latest recorded coding-week snapshot</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
-<details open>
-<summary><b>Live coding breakdown</b></summary>
+<details>
+<summary><b>📊 Open the complete live coding breakdown</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-512%20hrs%2040%20mins-0891B2?style=flat-square)
@@ -388,7 +408,7 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=tokyonight" alt="Rohith's GitHub contribution summary" />
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarnaidu&theme=tokyonight" alt="Repositories by language" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitkumarnaidu&theme=tokyonight&utcOffset=5.5" alt="Productive coding time" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarnaidu&theme=tokyonight" alt="Rohith's GitHub statistics" />
 
 <br />
 
@@ -402,21 +422,27 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 
 </div>
 
-### Earned GitHub badges
+### Earned GitHub achievements
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="180">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO achievement" /><br />
-  <b>YOLO</b><br /><sub>Earned</sub>
+<td align="center" width="220">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="92" alt="Pull Shark achievement" /><br /><br />
+  <b>Pull Shark</b><br /><sub>Merged pull requests</sub>
 </td>
-<td align="center" width="180">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark achievement" /><br />
-  <b>Pull Shark</b><br /><sub>Earned</sub>
+<td align="center" width="220">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="92" alt="Quickdraw achievement" /><br /><br />
+  <b>Quickdraw</b><br /><sub>Fast issue and pull-request closes</sub>
+</td>
+<td align="center" width="220">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="92" alt="YOLO achievement" /><br /><br />
+  <b>YOLO</b><br /><sub>Merge confidence</sub>
 </td>
 </tr>
 </table>
+
+<sub>Verified from the public GitHub achievements profile.</sub>
 </div>
 
 <details>
