@@ -7,7 +7,7 @@
 
   <p><b>Learning deeply. Building openly. Turning data and ideas into useful software.</b></p>
 
-  <sub><b>EXPLORE THE PROFILE</b></sub><br /><br />
+  <strong>EXPLORE THE PROFILE</strong><br />
 
   <a href="#about">About</a> ·
   <a href="#building">Building</a> ·
@@ -20,7 +20,7 @@
 
   <br /><br />
 
-  <sub><b>CONNECT &amp; TRACK</b></sub><br /><br />
+  <strong>CONNECT &amp; TRACK</strong><br />
 
   <a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rohitbappadala@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -28,7 +28,7 @@
 
   <br /><br />
 
-  <sub><b>LIVE PROFILE SIGNAL</b></sub><br /><br />
+  <strong>LIVE PROFILE SIGNAL</strong><br />
 
   <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=FOLLOWERS&style=flat-square&color=0891b2" alt="GitHub followers" />
