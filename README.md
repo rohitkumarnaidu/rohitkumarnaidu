@@ -1,428 +1,282 @@
+<a id="top"></a>
+
 <div align="center">
-<img src="./header.svg" width="100%" alt="Rohith Kumar Banner"/>
+  <img src="./header.svg" width="100%" alt="Rohith Kumar — Computer Science Student focused on AI, data analytics and full-stack development" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=20&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&repeat=true&width=980&height=45&lines=Computer+Science+Student;AI%2FML+%26+Data+Analytics+Enthusiast;Full-Stack+Developer;Aspiring+Platform+Engineer;Open-Source+Contributor" alt="Computer Science Student · AI/ML &amp; Data Analytics Enthusiast · Full-Stack Developer · Aspiring Platform Engineer · Open-Source Contributor" />
+
+  <p><b>Learning deeply. Building openly. Turning data and ideas into useful software.</b></p>
+
+  <a href="#about">About</a> ·
+  <a href="#building">Building</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#open-source">Open Source</a> ·
+  <a href="#toolkit">Toolkit</a> ·
+  <a href="#wakatime">WakaTime</a> ·
+  <a href="#metrics">Metrics</a> ·
+  <a href="#connect">Connect</a>
+
+  <br /><br />
+
+  <a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rohitbappadala@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wakatime.com/@rohitkumarnaidu"><img src="https://img.shields.io/badge/WakaTime-Coding_activity-0D1117?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" /></a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=FOLLOWERS&style=flat-square&color=0891b2" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_LEARN_%26_COLLABORATE-10b981?style=flat-square" alt="Open to learn and collaborate" />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/ORIGINAL_REPOSITORIES-18-7C3AED?style=for-the-badge&logo=github" alt="18 original repositories" />
+  <img src="https://img.shields.io/badge/MERGED_PULL_REQUESTS-220-059669?style=for-the-badge&logo=git" alt="220 merged pull requests" />
+  <img src="https://img.shields.io/badge/EXTERNAL_MERGES-197-0891B2?style=for-the-badge&logo=opensourceinitiative" alt="197 external merged pull requests" />
 </div>
 
-<p align="center">
-  <a href="#-who-am-i">About</a> &nbsp;·&nbsp;
-  <a href="#-whats-up">What I'm Up To</a> &nbsp;·&nbsp;
-  <a href="#-high-fidelity-project-showcase">Projects</a> &nbsp;·&nbsp;
-  <a href="#-technology-universe">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#-github-galaxy-stats">Stats</a> &nbsp;·&nbsp;
-  <a href="#-wakatime--live-coding-analytics">WakaTime</a> &nbsp;·&nbsp;
-  <a href="#-mission-2026">Mission 2026</a> &nbsp;·&nbsp;
-  <a href="#-connect-with-me">Connect</a>
-</p>
-
-<!-- Wave top -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,30:4f46e5,65:3b82f6,100:06b6d4&height=90&section=header&reversal=false&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Java+%7C+Python+%7C+React+%7C+FastAPI+%7C+Flutter;Hackathon+Learner+%7C+Open+Source+Contributor;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG"/>
-</p>
-
-<!-- Premium Unified Badge Row -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=Profile+Views&color=818cf8&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=Followers&style=for-the-badge&color=818cf8&labelColor=0d1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open_To_Collaborate-818cf8?style=for-the-badge&logo=github&labelColor=0d1117" alt="Open To Collaborate"/>
-  <br/>
-  <img src="https://img.shields.io/badge/📍_Puducherry_India-818cf8?style=for-the-badge&labelColor=0d1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/Available_For_Internships-818cf8?style=for-the-badge&logo=react&labelColor=0d1117" alt="Available For Internships"/>
-  <img src="https://img.shields.io/badge/🟢_Available_For_Hire-22c55e?style=for-the-badge&labelColor=0d1117" alt="Available For Hire"/>
-</p>
-
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-818cf8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-</p>
-
-<br/>
-
 ---
 
-## 🌌 &nbsp; Who Am I?
+<a id="about"></a>
 
-Hi, I'm **Rohith Kumar**! 👋 I'm a software engineer specializing in blending full-stack web architectures with AI agents. Whether it's building complex digital banking dashboards or auto-formatting academic manuscripts, I love turning ambitious ideas into elegant, production-ready systems.
+## 01 · About me
 
-```typescript
-const rohith: Developer = {
-  name        : "Rohith Kumar",
-  role        : "Full-Stack Developer & AI Enthusiast",
-  education   : "B.Tech CSE @ Sri Manakula Vinayagar Engineering College 🎓",
-  location    : "Puducherry, India 🌴",
-  languages   : ["Python", "Java", "JavaScript", "TypeScript", "C"],
-  frontend    : ["React", "TailwindCSS", "Vite"],
-  backend     : ["FastAPI", "Node.js", "Java (Spring Boot)", "Streamlit"],
-  databases   : ["PostgreSQL", "Supabase", "MongoDB", "Firebase"],
-  cloud       : ["AWS", "GCP", "Docker", "Vercel", "Render"],
-  ai_stack    : ["LangChain", "OpenAI API", "NumPy", "Pandas", "Selenium"],
-  devTools    : ["Git", "GitHub", "Postman", "Figma", "Notion", "Arduino"],
-  passions    : ["Web Dev", "AI/ML", "Hackathons", "Open Source"],
-  currentFocus: "Building intelligent, production-ready systems 🧠",
-  funFact     : "I debug best at 2am with lo-fi music 🎵",
-  goal        : "Build tech that actually changes lives 🌍",
-  openTo      : ["Internships", "Collaborations", "Hackathons", "Mentorship"],
-};
-// 🚀 Status: Currently building something epic → stay tuned!
+I'm **Rohith Kumar**, a Computer Science student from Puducherry, India. My current interests sit across **artificial intelligence, machine learning, data analytics and full-stack development**. I learn best by building real systems, contributing to open source, and taking projects from rough ideas to usable software.
+
+I'm also exploring the foundations of platform engineering—automation, developer experience, reliability, secure delivery and the infrastructure that helps teams ship confidently.
+
+```yaml
+student:       B.Tech Computer Science and Engineering · 2026
+focus:         AI/ML · data analytics · full-stack development
+building:      intelligent workflows · developer tools · data-driven products
+learning:      model evaluation · RAG · system design · platform engineering
+collaboration: open source · team projects · hackathons
 ```
-
-<br>
-
----
-
-## 🔭 &nbsp; What I'm Up To
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Building Right Now
-- 🌐 Full-stack apps — **React + FastAPI + Supabase**
-- ☕ REST microservices — **Java Spring Boot**
-- 🤖 AI pipelines — **LangChain + OpenAI API**
-- 🚀 Cloud Hosting — deployments on **Vercel, Render & AWS/GCP**
+### Now
+
+- Building and releasing **Forgevena**
+- Developing AI-powered road-safety systems with **SafeVixAI**
+- Contributing AI, data and integration work to **Berunda**
+- Improving production thinking through open-source collaboration
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Currently Learning
-- 🧠 **System Design** — Scalable distributed systems
-- ⚡ **DSA** — LeetCode daily grind
-- ☁️ **AWS Solutions Architect** certification
-- 🔗 **LangChain + RAG** — AI agent pipelines
-- 🔷 **Supabase** — Postgres-powered BaaS
-- 🔒 **Auth & Security** — OAuth2, JWT, RBAC
+### Next
+
+- Strengthen practical ML and analytics foundations
+- Build measurable, evaluated AI workflows
+- Learn observability, cloud architecture and secure delivery
+- Grow toward platform engineering through real projects
 
 </td>
 </tr>
 </table>
 
-<br>
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-## 🌟 &nbsp; High-Fidelity Project Showcase
-*Turning complex ideas into production-ready architectures. My focus: AI Ecosystems & Scalable Full-Stack Apps.*
+<a id="building"></a>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard">Aureus: Digital Banking</a></h3>
-      <p>A production-grade fintech dashboard developed during a professional internship, featuring real-time financial tracking and secure digital banking modules.</p>
-      <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,firebase&theme=dark" height="25" alt="Tech Stack"/>
-      <br/><br/>
-      <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard"><img src="https://img.shields.io/github/stars/rohitkumarnaidu/Modern-Digital-Banking-Dashboard?style=flat-square&logo=github&labelColor=0d1117&color=818cf8" alt="Stars"/></a>
-      &nbsp;
-      <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard"><img src="https://img.shields.io/github/forks/rohitkumarnaidu/Modern-Digital-Banking-Dashboard?style=flat-square&logo=git&labelColor=0d1117&color=818cf8" alt="Forks"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-">ARIA OS (Second Brain)</a></h3>
-      <p>Comprehensive AI-powered personal knowledge management system integrating LLMs with Retrieval-Augmented Generation (RAG).</p>
-      <a href="https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-"><img src="https://img.shields.io/github/stars/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&logo=github&labelColor=0d1117&color=818cf8" alt="Stars"/></a>
-      &nbsp;
-      <a href="https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-"><img src="https://img.shields.io/github/forks/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&logo=git&labelColor=0d1117&color=818cf8" alt="Forks"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant">Multi-Agent Researcher</a></h3>
-      <p>Autonomous AI Science lab orchestrating Planner, Critic, and Research agents for zero-cost execution.</p>
-      <img src="https://skillicons.dev/icons?i=python,streamlit&theme=dark" height="25" alt="Tech Stack"/>
-      <br/><br/>
-      <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant"><img src="https://img.shields.io/github/stars/rohitkumarnaidu/agentic-edu-research-assistant?style=flat-square&logo=github&labelColor=0d1117&color=818cf8" alt="Stars"/></a>
-      &nbsp;
-      <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant"><img src="https://img.shields.io/github/forks/rohitkumarnaidu/agentic-edu-research-assistant?style=flat-square&logo=git&labelColor=0d1117&color=818cf8" alt="Forks"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter">ScholarForm AI</a></h3>
-      <p>Next.js 14 & NVIDIA NIM (Llama 3.3) pipeline for automated academic docx formatting and synthesis.</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,fastapi,redis,supabase&theme=dark" height="25" alt="Tech Stack"/>
-      <br/><br/>
-      <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter"><img src="https://img.shields.io/github/stars/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter?style=flat-square&logo=github&labelColor=0d1117&color=818cf8" alt="Stars"/></a>
-      &nbsp;
-      <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter"><img src="https://img.shields.io/github/forks/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter?style=flat-square&logo=git&labelColor=0d1117&color=818cf8" alt="Forks"/></a>
-    </td>
-  </tr>
+## 02 · Currently building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 [Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+
+**Governed engineering from idea to production.**
+
+Developer tooling, governed AI integrations and release automation through a safety-first CLI.
+
+![Release](https://img.shields.io/github/v/release/rohitkumarnaidu/Forgevena?style=flat-square&color=7c3aed)
+![License](https://img.shields.io/github/license/rohitkumarnaidu/Forgevena?style=flat-square&color=0891b2)
+
+[Repository](https://github.com/rohitkumarnaidu/Forgevena) · [Docs](https://rohitkumarnaidu.github.io/Forgevena/) · [npm](https://www.npmjs.com/package/forgevena)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [ARIA OS](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+
+**Retrieval-powered personal knowledge system.**
+
+Exploring RAG, synthesis, document intelligence and modular assistant workflows.
+
+![Language](https://img.shields.io/github/languages/top/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=0891b2)
+![Issues](https://img.shields.io/github/issues/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=7c3aed)
+
+[Repository](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+### 🧵 [Driftloom](https://github.com/Driftloom) · Organization workspace
+
+**Exploring personal intelligence systems, governed agents and new AI product ideas.**
+
+The organization currently contains three active public repositories:
+
+<a href="https://github.com/Driftloom/Tempus"><img src="https://img.shields.io/badge/TEMPUS-Personal_Intelligence-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Tempus repository" /></a>
+<a href="https://github.com/Driftloom/Vaeloom"><img src="https://img.shields.io/badge/VAELOOM-Active_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Vaeloom repository" /></a>
+<a href="https://github.com/Driftloom/ipsaraos"><img src="https://img.shields.io/badge/IPSARAOS-Active_Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="IpsaraOS repository" /></a>
+
+**Tempus:** an enterprise-grade personal intelligence layer for time, tasks, communication, memory and governed multi-agent automation.
+
+</td>
+</tr>
 </table>
 
-<br>
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-## 🛠️ &nbsp; Technology Universe
+<a id="projects"></a>
+
+## 03 · AI, data and team projects
+
+### Organization work
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### [SafeVixAI](https://github.com/SafeVixAI/SafeVixAI) · AI-powered road safety
+
+An offline-first road-safety platform for emergency response, traffic-law assistance and road-infrastructure reporting, built for the IIT Madras Road Safety Hackathon 2026.
+
+**My involvement:** lead public contributor in the organization repository, working across the AI platform, backend, testing, reliability and delivery foundation.
+
+`AI/ML` `RAG` `Data Systems` `FastAPI` `React` `PostGIS` `PWA`
+
+<a href="https://github.com/SafeVixAI/SafeVixAI"><img src="https://img.shields.io/badge/ORGANIZATION_REPOSITORY-059669?style=flat-square&logo=github&logoColor=white" alt="SafeVixAI repository" /></a>
+<a href="https://safevixai.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="SafeVixAI live demo" /></a>
+![Stars](https://img.shields.io/github/stars/SafeVixAI/SafeVixAI?style=flat-square&color=059669)
+
+</td>
+</tr>
+</table>
+
+### Team project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### [Berunda](https://github.com/Arun1122007/Berunda) · AI-native crime intelligence
+
+A collaborative crime-intelligence platform that turns fragmented FIR records into geospatial hotspots, relationship graphs, explainable risk signals and a grounded investigation assistant.
+
+**Team:** Berunda Team with [@Arun1122007](https://github.com/Arun1122007)<br />
+**My verified contributions:** data gathering and validation, entities and schemas, seed data, FIR UI, AI features, documentation and system integration.
+
+`Python` `Machine Learning` `Data Pipelines` `RAG` `React` `Zoho Catalyst`
+
+<a href="https://github.com/Arun1122007/Berunda"><img src="https://img.shields.io/badge/TEAM_REPOSITORY-2563EB?style=flat-square&logo=github&logoColor=white" alt="Berunda team repository" /></a>
+<a href="https://github.com/Arun1122007/Berunda/commits?author=rohitkumarnaidu"><img src="https://img.shields.io/badge/MY_COMMITS-7C3AED?style=flat-square&logo=git&logoColor=white" alt="Rohith's Berunda commits" /></a>
+
+</td>
+</tr>
+</table>
+
+### Original products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+
+AI-assisted academic document engineering for structured, publication-ready manuscripts.
+
+`Python` `Next.js` `FastAPI` `NVIDIA NIM` `Redis`
+
+[Live app](https://scholarform.vercel.app) · [Repository](https://github.com/rohitkumarnaidu/ScholarFormAI)
+
+![Release](https://img.shields.io/github/v/release/rohitkumarnaidu/ScholarFormAI?style=flat-square&color=7c3aed)
+![Issues](https://img.shields.io/github/issues/rohitkumarnaidu/ScholarFormAI?style=flat-square&color=0891b2)
+
+</td>
+<td width="50%" valign="top">
+
+#### [ARIA OS](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+
+An active AI knowledge-system project exploring retrieval, synthesis and modular assistant workflows.
+
+`Python` `FastAPI` `PostgreSQL` `RAG` `Docker`
+
+[Repository](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+
+![Issues](https://img.shields.io/github/issues/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=7c3aed)
+![Language](https://img.shields.io/github/languages/top/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=0891b2)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Aureus](https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard)
+
+A deployed full-stack banking dashboard covering accounts, transactions, budgets, bills, rewards and insights.
+
+`React` `FastAPI` `PostgreSQL` `Tailwind CSS`
+
+[Live app](https://aureus-banking.vercel.app) · [Repository](https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Multi-Agent Researcher](https://github.com/rohitkumarnaidu/agentic-edu-research-assistant)
+
+An earlier AI experiment coordinating planning, research and critique agents for structured investigation.
+
+`Python` `Streamlit` `Agents` `LLMs`
+
+[Repository](https://github.com/rohitkumarnaidu/agentic-edu-research-assistant)
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+---
+
+<a id="open-source"></a>
+
+## 04 · Open-source contribution impact
+
+Beyond my own repositories, I learn by contributing fixes, tests, architecture and delivery improvements to other projects.
 
 <div align="center">
 
-### 💬 Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css&theme=dark&perline=8" alt="Languages"/>
+![Pull requests](https://img.shields.io/badge/PUBLIC_PRS-494-7C3AED?style=for-the-badge&logo=github)
+![Merged](https://img.shields.io/badge/MERGED_PRS-220-059669?style=for-the-badge&logo=git)
+![External](https://img.shields.io/badge/EXTERNAL_MERGED_PRS-197-0891B2?style=for-the-badge&logo=opensourceinitiative)
 
-### ⚛️ Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma,html,css&theme=dark&perline=8" alt="Frontend"/>
-
-### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,java,express,postman,selenium&theme=dark&perline=8" alt="Backend"/>
-
-### 🗄️ Databases & BaaS
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase,mysql,redis&theme=dark&perline=8" alt="Databases"/>
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,gitlab,vercel,linux&theme=dark&perline=8" alt="Cloud"/>
-
-### 🤖 Data, AI & Tools
-<img src="https://skillicons.dev/icons?i=python,tensorflow,anaconda,arduino,notion,figma&theme=dark&perline=8" alt="AI and Tools"/>
+<sub>Public GitHub audit snapshot · 29 July 2026 · counts grow over time</sub>
 
 </div>
 
-<br/>
+| Area | Selected contribution evidence |
+|:---|:---|
+| Security | [Resolve command-execution vulnerabilities](https://github.com/harsharajkumar-273/Proofdesk/pull/148) · [Resolve IDOR vulnerabilities](https://github.com/harsharajkumar-273/Proofdesk/pull/147) |
+| Backend quality | [Add CSRF protection](https://github.com/omroy07/AI-Money-Mentor/pull/614) · [Replace raw SQLite with SQLAlchemy](https://github.com/omroy07/AI-Money-Mentor/pull/615) |
+| Performance | [Add database indexing](https://github.com/omroy07/AI-Money-Mentor/pull/617) |
+| CI and architecture | [Automated CI testing](https://github.com/pkbros/GithubReadmeStatsV2/pull/37) · [Architecture documentation](https://github.com/pkbros/GithubReadmeStatsV2/pull/36) |
+| Testing and delivery | [Core component tests](https://github.com/saiusesgithub/Prism-Bits/pull/31) · [Containerized development](https://github.com/saiusesgithub/Prism-Bits/pull/30) |
 
 <details>
-<summary>📋 &nbsp; View full stack as badges</summary>
-<br/>
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat-square&logo=cisco&logoColor=white)
-
-</div>
-</details>
-
-<br>
-
----
-
-## 📊 &nbsp; GitHub Galaxy Stats
-
-<!-- Activity graph (full width) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9&line=818cf8&point=60a5fa&bg_color=0d1117&color=94a3b8" width="100%" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-<!-- Stats + Streak side by side -->
-<!-- 📊 Interactive Data Hub -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&ring=818cf8&icon_color=818cf8&text_color=94a3b8&title_color=818cf8&v=1" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="49%" src="https://streak-stats.demolab.com/?user=rohitkumarnaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f97316&currStreakLabel=94a3b8&sideNums=818cf8&sideLabels=64748b&dates=475569" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarnaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=818cf8&v=1" alt="Top Languages"/>
-</p>
-
-## 🏆 &nbsp; Competitive Programming Stats
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://leetcode.com/u/Rohith083/">
-          <img src="https://leetcard.jacoblin.cool/Rohith083?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://www.geeksforgeeks.org/profile/bappadalarohithkumarnaidu">
-          <img src="https://gfgstatscard.vercel.app/bappadalarohithkumarnaidu?theme=tokyonight" alt="GeeksForGeeks Stats"/>
-        </a>
-      </td>
-      <td width="33%" align="center" valign="middle">
-        <a href="https://www.hackerrank.com/profile/rohitbappadala">
-          <b>&lt;/&gt; HackerRank Profile</b><br/><br/>
-          <img src="https://img.shields.io/badge/Algorithm-Pro-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117"/><br/>
-          <img src="https://img.shields.io/badge/Problem_Solving-Active-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d1117"/><br/><br/>
-          <img src="https://img.shields.io/badge/-View_Dashboard-0d1117?style=flat-square&logo=hackerrank&logoColor=00EA64&edge_flat=true" alt="View Dashboard"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-
-## ⏱️ &nbsp; WakaTime — Live Coding Analytics
-
-<div align="center">
-
-<a href="https://wakatime.com/@rohitkumarnaidu">
-  <img src="https://wakatime.com/badge/user/25522b29-e876-4d16-97d2-7b1e7759f893.svg?style=for-the-badge&labelColor=0d1117&color=818cf8" alt="Total WakaTime"/>
-</a>
-
-<br/><br/>
-
-<!-- WakaTime share card — updates daily from wakatime.com -->
-<a href="https://wakatime.com/@rohitkumarnaidu">
-  <img src="https://wakatime.com/share/@rohitkumarnaidu/languages.svg" alt="WakaTime Languages" width="380"/>
-  &nbsp;&nbsp;
-  <img src="https://wakatime.com/share/@rohitkumarnaidu/editors.svg" alt="WakaTime Editors" width="380"/>
-</a>
-
-</div>
-
-<br/>
-
-## 🦉 &nbsp; I'm a Night Owl
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
-
-
- Last Updated on 28/07/2026 20:23:41 UTC
-<!--END_SECTION:waka-->
-
----
-
-
----
-
-## 🎮 &nbsp; Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
-</div>
-
-<br>
-
----
-
-## 🏆 &nbsp; GitHub Achievements & Trophies
-
-<div align="center">
-
-<!-- Real earned GitHub Achievements -->
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
-      <br/><b>YOLO</b>
-      <br/><sub>Merged a PR without review</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
-      <br/><b>Pull Shark</b>
-      <br/><sub>Opened merged pull requests</sub>
-    </td>
-    <td align="center" width="160" style="opacity:0.35;">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" style="filter:grayscale(1)"/>
-      <br/><b>Pair Extraordinaire</b>
-      <br/><sub>🔒 Co-author a merged PR</sub>
-    </td>
-    <td align="center" width="160" style="opacity:0.35;">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" style="filter:grayscale(1)"/>
-      <br/><b>Starstruck</b>
-      <br/><sub>🔒 Get 16 stars on a repo</sub>
-    </td>
-    <td align="center" width="160" style="opacity:0.35;">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain" style="filter:grayscale(1)"/>
-      <br/><b>Galaxy Brain</b>
-      <br/><sub>🔒 Get a discussion answer accepted</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Stats Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://nirzak-trophies.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-bg=true&column=6&margin-w=15&v=1" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
-<br>
-
----
-
-## 📈 &nbsp; Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/rohitkumarnaidu" width="100%" alt="Contribution Heatmap"/>
-</p>
-
-<br>
-
----
-
-## 🔝 &nbsp; Top Contributed Repos
-*Actively maintaining and evolving these high-impact open-source systems.*
-
-🏢 **Experience Milestone:** *SDE Intern* @ Professional Internship • Developing Production-Grade Fintech Systems
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="25%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;Aureus&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
-        <img src="https://img.shields.io/github/stars/rohitkumarnaidu/Modern-Digital-Banking-Dashboard?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
-        <a href="https://github.com/rohitkumarnaidu/Modern-Digital-Banking-Dashboard"><sub>View Source</sub></a>
-      </td>
-      <td width="25%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;ARIA&#8209;OS&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
-        <img src="https://img.shields.io/github/stars/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
-        <a href="https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-"><sub>View Source</sub></a>
-      </td>
-      <td width="25%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;Agentic&nbsp;Edu&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
-        <img src="https://img.shields.io/github/stars/rohitkumarnaidu/agentic-edu-research-assistant?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
-        <a href="https://github.com/rohitkumarnaidu/agentic-edu-research-assistant"><sub>View Source</sub></a>
-      </td>
-      <td width="25%" align="center">
-        <b>&nbsp;&nbsp;&nbsp;&nbsp;ScholarForm&nbsp;&nbsp;&nbsp;&nbsp;</b><br/>
-        <img src="https://img.shields.io/github/stars/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter?style=flat-square&color=39d353&labelColor=0d1117" alt="Stars"/><br/>
-        <a href="https://github.com/rohitkumarnaidu/-Auto-AI-Automated-Academic-Docx-Manuscript-Formatter"><sub>View Source</sub></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<br/>
-
----
-
-## 💬 &nbsp; Testimonials & Recommendations
-
-<p align="center">
-  <i>Collaborators, mentors, and teammates — reach out on <a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a">LinkedIn</a> to add your recommendation here.</i>
-</p>
-
-<br/>
-
----
-
-## ⬡ &nbsp; Real-Time Development Hub
+<summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#34](https://github.com/rohitkumarnaidu/Forgevena/pull/34) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
@@ -432,106 +286,208 @@ const rohith: Developer = {
 5. 🎉 Merged PR [#32](https://github.com/rohitkumarnaidu/Forgevena/pull/32) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
 <!--END_SECTION:activity-->
 
-<br>
+</details>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-## 🎯 &nbsp; Mission: 2026
+<a id="toolkit"></a>
+
+## 05 · Engineering toolkit
 
 <div align="center">
-  <h3>🔭 &nbsp; Mission: 2026 Roadmap</h3>
-  <br/>
-  
-  <table width="80%">
-    <tr>
-      <td width="50%">
-        <b>🤖 AI & Agentic Systems</b><br/>
-        💠 <i>Ship a Multi-Agent Researcher SaaS platform</i><br/>
-        💠 <i>Perfect the ARIA-OS Second Brain architecture</i><br/>
-        💠 <i>Integrate ScholarForm with real academic workflows</i>
-      </td>
-      <td width="50%">
-        <b>☁️ Cloud & Architecture</b><br/>
-        💠 <i>Master AWS Solutions Architect & Cloud Security</i><br/>
-        💠 <b>Aureus Production:</b> Security Hardening (JWT/AES)<br/>
-        💠 <b>Aureus Scale:</b> Redis Caching & Load Balancing<br/>
-        💠 <b>Aureus Resilience:</b> Prometheus/Grafana Metrics<br/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <b>🧩 Open Source & Community</b><br/>
-        💠 <i>Contribute to 5+ high-impact open-source core libraries</i><br/>
-        💠 <i>Win a National-level AI Hackathon trophy</i><br/>
-        💠 <i>Author 10+ deep-dive technical articles on Medium/Dev.to</i>
-      </td>
-    </tr>
-  </table>
+
+### AI, machine learning & analytics
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" alt="Python, scikit-learn and TensorFlow" />
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-0891B2?style=for-the-badge)
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,vite&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS and Vite" />
+
+### APIs & intelligent applications
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,python,postman&theme=dark" alt="FastAPI, Flask, Python and Postman" />
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-059669?style=for-the-badge)
+![Agent Workflows](https://img.shields.io/badge/Agent-Workflows-7C3AED?style=for-the-badge)
+
+### Data systems
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mongodb,firebase&theme=dark" alt="PostgreSQL, Supabase, Redis, MongoDB and Firebase" />
+
+### Delivery tools used in my repositories
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel&theme=dark" alt="Docker, Git, GitHub, GitHub Actions and Vercel" />
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827)
 </div>
 
-<br>
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-## ✨ &nbsp; Profile Highlights
+<a id="wakatime"></a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_PRO-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub PRO"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🟢_Open_To_Work-22c55e?style=for-the-badge&labelColor=0d1117" alt="Open To Work"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/1279_Contributions_in_2026-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/303+_hrs_Coded-818cf8?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0d1117" alt="Hours Coded"/>
-</p>
-
----
-
-## 🌐 &nbsp; Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/rohitkumarnaidu"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub"/></a>
-  &nbsp;
-  <a href="mailto:rohitbappadala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail"/></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Rohith083/"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="40" alt="LeetCode"/></a>
-</p>
-
-<br>
-
----
-
-## ✍️ &nbsp; Dev Quote
+## 06 · WakaTime engineering log
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+<a href="https://wakatime.com/@rohitkumarnaidu"><img src="https://wakatime.com/badge/user/25522b29-e876-4d16-97d2-7b1e7759f893.svg?style=for-the-badge" alt="Total WakaTime coding activity" /></a>
+
+<br /><br />
+
+<img width="95%" src="./wakatime-dashboard.svg" alt="WakaTime engineering dashboard showing total code time, language focus, and editor activity" />
+
 </div>
 
-<br/>
+<details>
+<summary><b>📊 Open the complete live coding breakdown</b></summary>
 
-## 🐍 &nbsp; Contribution Snake
+<!--START_SECTION:waka-->
+![Code Time](https://img.shields.io/badge/Code%20Time-512%20hrs%2040%20mins-0891B2?style=flat-square)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</p>
+📊 **Latest recorded coding week**
 
-<!-- Wave footer -->
+```text
+Python                   11 hrs 48 mins     ███████████░░░░░░   42.34%
+Markdown                  8 hrs 53 mins     ████████░░░░░░░░░   31.86%
+TypeScript                2 hrs 46 mins     ██░░░░░░░░░░░░░░░    9.92%
+HTML                          57 mins       █░░░░░░░░░░░░░░░░    3.45%
+JSON                          33 mins       ░░░░░░░░░░░░░░░░░    2.00%
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:3b82f6,65:6d28d9,100:818cf8&height=110&section=footer&animation=fadeIn" width="100%"/>
+🔥 **Editors**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="Visit Count"/>
-  <br/><br/>
-  <b>⭐ Drop a star on any project you find useful — it genuinely helps!</b>
-  <br/>
-  <sub>🚀 Let's build something legendary together 🌌</sub>
-</p>
+```text
+Antigravity IDE          19 hrs 44 mins     ██████████████████   70.74%
+VS Code                   6 hrs 45 mins     ██████░░░░░░░░░░░   24.20%
+Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░░░░░░    5.05%
+```
 
+<sub>Seeded from the latest public profile snapshot. The WakaTime workflow replaces this block with fresh metrics.</sub>
+<!--END_SECTION:waka-->
 
+</details>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+---
+
+<a id="metrics"></a>
+
+## 07 · GitHub development signal
+
+<div align="center">
+
+<!--START_SECTION:github-counters-->
+![Original repositories](https://img.shields.io/badge/ORIGINAL_REPOSITORIES-18-7C3AED?style=for-the-badge&logo=github)
+![Public PRs](https://img.shields.io/badge/PUBLIC_PULL_REQUESTS-494-2563EB?style=for-the-badge&logo=github)
+![Merged PRs](https://img.shields.io/badge/MERGED_PULL_REQUESTS-220-059669?style=for-the-badge&logo=git)
+![External merges](https://img.shields.io/badge/EXTERNAL_MERGES-197-0891B2?style=for-the-badge&logo=opensourceinitiative)
+<!--END_SECTION:github-counters-->
+
+<br />
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=radical" alt="Rohith's GitHub contribution summary" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarnaidu&theme=radical" alt="Repositories by language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarnaidu&theme=radical" alt="Rohith's GitHub statistics" />
+
+<br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&bg_color=0d1117&color=f472b6&line=22d3ee&point=fbbf24&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Momentum" alt="Rohith's contribution activity" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg" />
+  <img width="95%" alt="Rohith's contribution graph animation" src="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+### Earned GitHub achievements
+
+<!--START_SECTION:achievements-->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="220">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="92" alt="Pull Shark achievement" /><br /><br />
+  <b>Pull Shark · x3</b><br /><sub>Silver tier · Merged pull requests</sub>
+</td>
+<td align="center" width="220">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="92" alt="Quickdraw achievement" /><br /><br />
+  <b>Quickdraw</b><br /><sub>Closed an issue or pull request quickly</sub>
+</td>
+<td align="center" width="220">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="92" alt="YOLO achievement" /><br /><br />
+  <b>YOLO</b><br /><sub>Merged a pull request without a review</sub>
+</td>
+</tr>
+</table>
+
+<sub>Automatically verified from the public GitHub achievements profile.</sub>
+</div>
+<!--END_SECTION:achievements-->
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+---
+
+## 08 · Problem solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Rohith083/"><img src="https://img.shields.io/badge/LeetCode-Rohith083-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/rohitbappadala"><img src="https://img.shields.io/badge/HackerRank-rohitbappadala-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="HackerRank" /></a>
+<a href="https://www.geeksforgeeks.org/profile/bappadalarohithkumarnaidu"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+
+</div>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+---
+
+<a id="connect"></a>
+
+## 09 · Let's build and learn together
+
+I'm interested in AI/ML, data-driven applications, open-source collaboration, full-stack products and the engineering foundations that make software reliable.
+
+<div align="center">
+
+**Have a project, learning opportunity or difficult idea? Let's talk.**
+
+<a href="mailto:rohitbappadala@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-rohitbappadala%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rohith" /></a>
+<a href="https://www.linkedin.com/in/bappadala-rohith-kumar-naidu-19377130a"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/rohitkumarnaidu"><img src="https://img.shields.io/badge/FOLLOW-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+
+<br /><br />
+
+<sub>Student today · builder every day · growing toward responsible AI and platform engineering.</sub>
+
+</div>
+
+<details>
+<summary><b>Profile automation status</b></summary>
+
+<div align="center">
+
+[![Recent activity](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml)
+[![WakaTime stats](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml)
+[![Contribution snake](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml)
+
+<sub>Activity and GitHub counters refresh twice daily · WakaTime and contribution animation refresh daily · official achievements refresh weekly</sub>
+
+</div>
+</details>
+
+<p align="center"><a href="#top">↑ Back to top</a></p>
