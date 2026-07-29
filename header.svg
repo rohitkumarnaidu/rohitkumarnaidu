@@ -1,5 +1,5 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Rohith Kumar — Full-Stack and AI Engineer</title>
+  <title id="title">Rohith Kumar — Computer Science Student and AI/ML Enthusiast</title>
   <desc id="description">A dark editorial developer banner with violet and cyan accents.</desc>
 
   <defs>
@@ -52,12 +52,12 @@
 
     <!-- Primary identity -->
     <text x="68" y="130" fill="url(#name)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="750" letter-spacing="-2.2">Rohith Kumar</text>
-    <text x="72" y="166" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="3.2">FULL-STACK DEVELOPER  ×  AI ENGINEER</text>
+    <text x="72" y="166" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="2.8">AI/ML  ×  DATA ANALYTICS  ×  FULL-STACK DEVELOPMENT</text>
 
     <!-- Focus line -->
     <rect x="70" y="196" width="5" height="5" rx="2.5" fill="#22D3EE"/>
     <circle cx="72.5" cy="198.5" r="8" fill="#22D3EE" fill-opacity="0.16" filter="url(#blur)"/>
-    <text x="88" y="203" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="0.3">Building useful products with thoughtful systems and applied intelligence.</text>
+    <text x="88" y="203" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="0.3">A student learning deeply, building openly, and growing toward platform engineering.</text>
 
     <!-- Compact technology rail -->
     <g transform="translate(70 232)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">
