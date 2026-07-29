@@ -387,10 +387,12 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 
 <div align="center">
 
+<!--START_SECTION:github-counters-->
 ![Original repositories](https://img.shields.io/badge/ORIGINAL_REPOSITORIES-18-7C3AED?style=for-the-badge&logo=github)
 ![Public PRs](https://img.shields.io/badge/PUBLIC_PULL_REQUESTS-494-2563EB?style=for-the-badge&logo=github)
 ![Merged PRs](https://img.shields.io/badge/MERGED_PULL_REQUESTS-220-059669?style=for-the-badge&logo=git)
 ![External merges](https://img.shields.io/badge/EXTERNAL_MERGES-197-0891B2?style=for-the-badge&logo=opensourceinitiative)
+<!--END_SECTION:github-counters-->
 
 <br />
 
@@ -483,7 +485,7 @@ I'm interested in AI/ML, data-driven applications, open-source collaboration, fu
 [![WakaTime stats](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml)
 [![Contribution snake](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml)
 
-<sub>Activity refreshes twice daily · WakaTime refreshes daily · contribution animation refreshes daily</sub>
+<sub>Activity and GitHub counters refresh twice daily · WakaTime and contribution animation refresh daily · official achievements refresh weekly</sub>
 
 </div>
 </details>

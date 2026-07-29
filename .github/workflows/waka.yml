@@ -41,3 +41,16 @@ jobs:
           SECTION_NAME: waka
           COMMIT_MESSAGE: "chore: refresh WakaTime metrics"
           LOCALE: "en"
+
+      - name: Refresh visual WakaTime dashboard
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 .github/scripts/update_wakatime_dashboard.py
+
+      - name: Commit visual dashboard when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wakatime-dashboard.svg
+          git diff --cached --quiet || git commit -m "chore: refresh visual WakaTime dashboard"
+          git push
