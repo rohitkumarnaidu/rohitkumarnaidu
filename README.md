@@ -413,34 +413,28 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 
 ### Earned GitHub achievements
 
+<!--START_SECTION:achievements-->
 <div align="center">
 <table>
 <tr>
 <td align="center" width="220">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="92" alt="Pull Shark achievement" /><br /><br />
-  <b>Pull Shark · ×3</b><br /><sub>Silver tier · merged pull requests</sub>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="92" alt="Pull Shark achievement" /><br /><br />
+  <b>Pull Shark · x3</b><br /><sub>Silver tier · Merged pull requests</sub>
 </td>
 <td align="center" width="220">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="92" alt="Quickdraw achievement" /><br /><br />
-  <b>Quickdraw</b><br /><sub>Fast issue and pull-request closes</sub>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="92" alt="Quickdraw achievement" /><br /><br />
+  <b>Quickdraw</b><br /><sub>Closed an issue or pull request quickly</sub>
 </td>
 <td align="center" width="220">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="92" alt="YOLO achievement" /><br /><br />
-  <b>YOLO</b><br /><sub>Merge confidence</sub>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="92" alt="YOLO achievement" /><br /><br />
+  <b>YOLO</b><br /><sub>Merged a pull request without a review</sub>
 </td>
 </tr>
 </table>
 
-<sub>Verified from the public GitHub achievements profile.</sub>
+<sub>Automatically verified from the public GitHub achievements profile.</sub>
 </div>
-
-### Engineering trophies
-
-<div align="center">
-
-<img width="95%" src="./github-trophies.svg" alt="Engineering trophy cabinet with verified GitHub milestones" />
-
-</div>
+<!--END_SECTION:achievements-->
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
