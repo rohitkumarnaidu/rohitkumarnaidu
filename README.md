@@ -27,6 +27,12 @@
   <img src="https://komarev.com/ghpvc/?username=rohitkumarnaidu&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=FOLLOWERS&style=flat-square&color=0891b2" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_LEARN_%26_COLLABORATE-10b981?style=flat-square" alt="Open to learn and collaborate" />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/ORIGINAL_REPOSITORIES-18-7C3AED?style=for-the-badge&logo=github" alt="18 original repositories" />
+  <img src="https://img.shields.io/badge/MERGED_PULL_REQUESTS-220-059669?style=for-the-badge&logo=git" alt="220 merged pull requests" />
+  <img src="https://img.shields.io/badge/EXTERNAL_MERGES-197-0891B2?style=for-the-badge&logo=opensourceinitiative" alt="197 external merged pull requests" />
 </div>
 
 ---
@@ -82,56 +88,53 @@ collaboration: open source · team projects · hackathons
 
 <table>
 <tr>
-<td width="66%" valign="top">
+<td width="50%" valign="top">
 
-### [Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+### 🧰 [Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
 
 **Governed engineering from idea to production.**
 
-An open-source developer platform that combines project bootstrap, governed AI integrations, secure local state, cloud preparation, validation, upgrades, diagnostics and automated release engineering in one safety-first CLI.
-
-`Node.js` `CLI` `AI Governance` `MCP` `DevOps` `Release Engineering`
-
-<a href="https://github.com/rohitkumarnaidu/Forgevena"><img src="https://img.shields.io/badge/SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Forgevena source" /></a>
-<a href="https://rohitkumarnaidu.github.io/Forgevena/"><img src="https://img.shields.io/badge/DOCUMENTATION-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Forgevena documentation" /></a>
-<a href="https://www.npmjs.com/package/forgevena"><img src="https://img.shields.io/badge/NPM_PACKAGE-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Forgevena npm package" /></a>
-
-</td>
-<td width="34%" valign="top">
-
-### Release signal
+Developer tooling, governed AI integrations and release automation through a safety-first CLI.
 
 ![Release](https://img.shields.io/github/v/release/rohitkumarnaidu/Forgevena?style=flat-square&color=7c3aed)
 ![License](https://img.shields.io/github/license/rohitkumarnaidu/Forgevena?style=flat-square&color=0891b2)
-![Stars](https://img.shields.io/github/stars/rohitkumarnaidu/Forgevena?style=flat-square&color=7c3aed)
-![Issues](https://img.shields.io/github/issues/rohitkumarnaidu/Forgevena?style=flat-square&color=0891b2)
-![npm](https://img.shields.io/npm/v/forgevena?style=flat-square&color=CB3837)
-![Downloads](https://img.shields.io/npm/dm/forgevena?style=flat-square&color=CB3837)
 
-**Current line:** `v1.3.x`<br />
-**Distribution:** npm · releases · Homebrew<br />
-**Community health:** complete contributor foundation
+[Repository](https://github.com/rohitkumarnaidu/Forgevena) · [Docs](https://rohitkumarnaidu.github.io/Forgevena/) · [npm](https://www.npmjs.com/package/forgevena)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [ARIA OS](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+
+**Retrieval-powered personal knowledge system.**
+
+Exploring RAG, synthesis, document intelligence and modular assistant workflows.
+
+![Language](https://img.shields.io/github/languages/top/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=0891b2)
+![Issues](https://img.shields.io/github/issues/rohitkumarnaidu/ARIA-OS---SecondBrain-?style=flat-square&color=7c3aed)
+
+[Repository](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+### 🧵 [Driftloom](https://github.com/Driftloom) · Organization workspace
+
+**Exploring personal intelligence systems, governed agents and new AI product ideas.**
+
+The organization currently contains three active public repositories:
+
+<a href="https://github.com/Driftloom/Tempus"><img src="https://img.shields.io/badge/TEMPUS-Personal_Intelligence-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Tempus repository" /></a>
+<a href="https://github.com/Driftloom/Vaeloom"><img src="https://img.shields.io/badge/VAELOOM-Active_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Vaeloom repository" /></a>
+<a href="https://github.com/Driftloom/ipsaraos"><img src="https://img.shields.io/badge/IPSARAOS-Active_Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="IpsaraOS repository" /></a>
+
+**Tempus:** an enterprise-grade personal intelligence layer for time, tasks, communication, memory and governed multi-agent automation.
 
 </td>
 </tr>
 </table>
-
-```bash
-npm install --global forgevena
-forgevena doctor
-forgevena create DemoApi --template fastapi --dry-run --verbose
-```
-
-<details>
-<summary><b>What Forgevena is teaching me</b></summary>
-
-- Designing safe, preview-first developer workflows
-- Cross-platform CLI engineering and release automation
-- Provider, MCP and plugin governance
-- Secure configuration, state recovery and upgrade compatibility
-- Documentation, testing, packaging and open-source maintenance
-
-</details>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -288,61 +291,38 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 
 ## 05 · Engineering toolkit
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
-**AI & Data**
-
-Python<br />
-Pandas · NumPy<br />
-RAG pipelines<br />
-Agent workflows<br />
-Data validation<br />
-Model evaluation
-
-</td>
-<td width="25%" valign="top">
-
-**Full Stack**
-
-React · Next.js<br />
-TypeScript<br />
-Tailwind CSS<br />
-FastAPI<br />
-Node.js<br />
-Spring Boot
-
-</td>
-<td width="25%" valign="top">
-
-**Data Systems**
-
-PostgreSQL<br />
-Supabase<br />
-MongoDB<br />
-Redis<br />
-Firebase<br />
-Data pipelines
-
-</td>
-<td width="25%" valign="top">
-
-**Delivery**
-
-Git · GitHub<br />
-GitHub Actions<br />
-Docker<br />
-Linux<br />
-AWS · GCP<br />
-Vercel · Render
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,tailwind,fastapi,nodejs,spring,postgres,redis,mongodb,docker,git,github,linux,aws,gcp&theme=dark&perline=10" alt="Rohith's engineering toolkit" />
+
+### AI, machine learning & analytics
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" alt="Python, scikit-learn and TensorFlow" />
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-0891B2?style=for-the-badge)
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,vite&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS and Vite" />
+
+### APIs & intelligent applications
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,python,postman&theme=dark" alt="FastAPI, Flask, Python and Postman" />
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-059669?style=for-the-badge)
+![Agent Workflows](https://img.shields.io/badge/Agent-Workflows-7C3AED?style=for-the-badge)
+
+### Data systems
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mongodb,firebase&theme=dark" alt="PostgreSQL, Supabase, Redis, MongoDB and Firebase" />
+
+### Delivery tools used in my repositories
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel&theme=dark" alt="Docker, Git, GitHub, GitHub Actions and Vercel" />
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827)
 </div>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
@@ -357,17 +337,33 @@ Vercel · Render
 
 <a href="https://wakatime.com/@rohitkumarnaidu"><img src="https://wakatime.com/badge/user/25522b29-e876-4d16-97d2-7b1e7759f893.svg?style=for-the-badge" alt="Total WakaTime coding activity" /></a>
 
-<br /><br />
-
-<a href="https://wakatime.com/@rohitkumarnaidu"><img width="390" src="https://wakatime.com/share/@rohitkumarnaidu/languages.svg" alt="WakaTime languages" /></a>
-<a href="https://wakatime.com/@rohitkumarnaidu"><img width="390" src="https://wakatime.com/share/@rohitkumarnaidu/editors.svg" alt="WakaTime editors" /></a>
-
 </div>
 
 <details open>
 <summary><b>Live coding breakdown</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](https://img.shields.io/badge/Code%20Time-512%20hrs%2040%20mins-0891B2?style=flat-square)
+
+📊 **Latest recorded coding week**
+
+```text
+Python                   11 hrs 48 mins     ███████████░░░░░░   42.34%
+Markdown                  8 hrs 53 mins     ████████░░░░░░░░░   31.86%
+TypeScript                2 hrs 46 mins     ██░░░░░░░░░░░░░░░    9.92%
+HTML                          57 mins       █░░░░░░░░░░░░░░░░    3.45%
+JSON                          33 mins       ░░░░░░░░░░░░░░░░░    2.00%
+```
+
+🔥 **Editors**
+
+```text
+Antigravity IDE          19 hrs 44 mins     ██████████████████   70.74%
+VS Code                   6 hrs 45 mins     ██████░░░░░░░░░░░   24.20%
+Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░░░░░░    5.05%
+```
+
+<sub>Seeded from the latest public profile snapshot. The WakaTime workflow replaces this block with fresh metrics.</sub>
 <!--END_SECTION:waka-->
 
 </details>
@@ -382,8 +378,17 @@ Vercel · Render
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitkumarnaidu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" alt="Rohith's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rohitkumarnaidu&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Rohith's GitHub streak" />
+![Original repositories](https://img.shields.io/badge/ORIGINAL_REPOSITORIES-18-7C3AED?style=for-the-badge&logo=github)
+![Public PRs](https://img.shields.io/badge/PUBLIC_PULL_REQUESTS-494-2563EB?style=for-the-badge&logo=github)
+![Merged PRs](https://img.shields.io/badge/MERGED_PULL_REQUESTS-220-059669?style=for-the-badge&logo=git)
+![External merges](https://img.shields.io/badge/EXTERNAL_MERGES-197-0891B2?style=for-the-badge&logo=opensourceinitiative)
+
+<br />
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=tokyonight" alt="Rohith's GitHub contribution summary" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarnaidu&theme=tokyonight" alt="Repositories by language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitkumarnaidu&theme=tokyonight&utcOffset=5.5" alt="Productive coding time" />
 
 <br />
 
@@ -395,6 +400,23 @@ Vercel · Render
   <img width="95%" alt="Rohith's contribution graph animation" src="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
+
+### Earned GitHub badges
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="180">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO achievement" /><br />
+  <b>YOLO</b><br /><sub>Earned</sub>
+</td>
+<td align="center" width="180">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark achievement" /><br />
+  <b>Pull Shark</b><br /><sub>Earned</sub>
+</td>
+</tr>
+</table>
 </div>
 
 <details>
