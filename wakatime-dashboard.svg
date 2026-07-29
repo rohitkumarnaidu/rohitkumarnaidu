@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rohith's WakaTime coding snapshot</title>
+  <desc id="desc">A colorful dashboard showing 512 hours of coding, top languages, and editor activity.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#15112b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.52" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="300" rx="22" fill="url(#panel)"/>
+  <rect x="1" y="1" width="998" height="298" rx="21" fill="none" stroke="#334155"/>
+  <rect x="0" y="0" width="1000" height="6" rx="3" fill="url(#accent)"/>
+  <circle cx="910" cy="55" r="75" fill="#8b5cf6" opacity=".09" filter="url(#glow)"/>
+  <circle cx="80" cy="260" r="65" fill="#22d3ee" opacity=".07" filter="url(#glow)"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="42" y="51" fill="#f8fafc" font-size="22" font-weight="700">WAKATIME · ENGINEERING PULSE</text>
+    <text x="42" y="78" fill="#94a3b8" font-size="14">Latest public coding-week snapshot</text>
+    <rect x="42" y="101" width="260" height="145" rx="16" fill="#0b1220" stroke="#334155"/>
+    <text x="64" y="132" fill="#22d3ee" font-size="13" font-weight="700" letter-spacing="1.5">TOTAL CODE TIME</text>
+    <text x="64" y="181" fill="#f8fafc" font-size="38" font-weight="800">512h 40m</text>
+    <text x="64" y="211" fill="#c4b5fd" font-size="14">Building consistently,</text>
+    <text x="64" y="231" fill="#94a3b8" font-size="13">one session at a time.</text>
+
+    <rect x="322" y="101" width="315" height="145" rx="16" fill="#0b1220" stroke="#334155"/>
+    <text x="344" y="132" fill="#f472b6" font-size="13" font-weight="700" letter-spacing="1.5">LANGUAGE FOCUS</text>
+    <text x="344" y="161" fill="#e2e8f0" font-size="14">Python</text><text x="606" y="161" fill="#7dd3fc" font-size="13" text-anchor="end">42.34%</text>
+    <rect x="344" y="169" width="262" height="8" rx="4" fill="#1e293b"/><rect x="344" y="169" width="111" height="8" rx="4" fill="#38bdf8"/>
+    <text x="344" y="200" fill="#e2e8f0" font-size="14">Markdown</text><text x="606" y="200" fill="#c4b5fd" font-size="13" text-anchor="end">31.86%</text>
+    <rect x="344" y="208" width="262" height="8" rx="4" fill="#1e293b"/><rect x="344" y="208" width="83" height="8" rx="4" fill="#8b5cf6"/>
+    <circle cx="349" cy="232" r="4" fill="#f472b6"/><text x="360" y="237" fill="#94a3b8" font-size="12">TypeScript 9.92%</text>
+    <circle cx="485" cy="232" r="4" fill="#fb923c"/><text x="496" y="237" fill="#94a3b8" font-size="12">HTML 3.45%</text>
+
+    <rect x="657" y="101" width="301" height="145" rx="16" fill="#0b1220" stroke="#334155"/>
+    <text x="679" y="132" fill="#fbbf24" font-size="13" font-weight="700" letter-spacing="1.5">EDITOR ACTIVITY</text>
+    <text x="679" y="164" fill="#e2e8f0" font-size="14">Antigravity IDE</text><text x="928" y="164" fill="#f0abfc" font-size="13" text-anchor="end">70.74%</text>
+    <rect x="679" y="173" width="249" height="10" rx="5" fill="#1e293b"/><rect x="679" y="173" width="176" height="10" rx="5" fill="url(#accent)"/>
+    <text x="679" y="212" fill="#e2e8f0" font-size="14">VS Code</text><text x="928" y="212" fill="#67e8f9" font-size="13" text-anchor="end">24.20%</text>
+    <rect x="679" y="221" width="249" height="10" rx="5" fill="#1e293b"/><rect x="679" y="221" width="60" height="10" rx="5" fill="#22d3ee"/>
+  </g>
+</svg>

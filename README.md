@@ -339,23 +339,7 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 
 <br /><br />
 
-<table>
-<tr>
-<td align="center" width="50%">
-  <b>⚡ Language focus</b><br /><br />
-  <img src="https://img.shields.io/badge/Python-42.34%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 42.34 percent" />
-  <img src="https://img.shields.io/badge/Markdown-31.86%25-111827?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown 31.86 percent" /><br />
-  <img src="https://img.shields.io/badge/TypeScript-9.92%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 9.92 percent" />
-  <img src="https://img.shields.io/badge/HTML-3.45%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML 3.45 percent" />
-</td>
-<td align="center" width="50%">
-  <b>🔥 Editor activity</b><br /><br />
-  <img src="https://img.shields.io/badge/Antigravity_IDE-70.74%25-7C3AED?style=for-the-badge" alt="Antigravity IDE 70.74 percent" />
-  <img src="https://img.shields.io/badge/VS_Code-24.20%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code 24.20 percent" /><br />
-  <sub>Latest recorded coding-week snapshot</sub>
-</td>
-</tr>
-</table>
+<img width="95%" src="./wakatime-dashboard.svg" alt="WakaTime engineering dashboard showing total code time, language focus, and editor activity" />
 
 </div>
 
@@ -405,14 +389,14 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 
 <br />
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=tokyonight" alt="Rohith's GitHub contribution summary" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkumarnaidu&theme=radical" alt="Rohith's GitHub contribution summary" />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarnaidu&theme=tokyonight" alt="Repositories by language" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarnaidu&theme=tokyonight" alt="Rohith's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarnaidu&theme=radical" alt="Repositories by language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarnaidu&theme=radical" alt="Rohith's GitHub statistics" />
 
 <br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f8fafc&area=true&hide_border=true" alt="Rohith's contribution activity" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarnaidu&bg_color=0d1117&color=f472b6&line=22d3ee&point=fbbf24&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Momentum" alt="Rohith's contribution activity" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarnaidu/rohitkumarnaidu/output/github-contribution-grid-snake-dark.svg" />
@@ -429,7 +413,7 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 <tr>
 <td align="center" width="220">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="92" alt="Pull Shark achievement" /><br /><br />
-  <b>Pull Shark</b><br /><sub>Merged pull requests</sub>
+  <b>Pull Shark · ×3</b><br /><sub>Silver tier · merged pull requests</sub>
 </td>
 <td align="center" width="220">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="92" alt="Quickdraw achievement" /><br /><br />
