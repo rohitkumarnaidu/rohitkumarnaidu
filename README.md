@@ -434,15 +434,11 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 <sub>Verified from the public GitHub achievements profile.</sub>
 </div>
 
-### Live profile automation
+### Engineering trophies
 
 <div align="center">
 
-[![Recent activity](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml)
-[![WakaTime stats](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml)
-[![Contribution snake](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml)
-
-<sub>Activity refreshes twice daily · WakaTime refreshes daily · contribution animation refreshes daily</sub>
+<img width="95%" src="./github-trophies.svg" alt="Engineering trophy cabinet with verified GitHub milestones" />
 
 </div>
 
@@ -483,5 +479,19 @@ I'm interested in AI/ML, data-driven applications, open-source collaboration, fu
 <sub>Student today · builder every day · growing toward responsible AI and platform engineering.</sub>
 
 </div>
+
+<details>
+<summary><b>Profile automation status</b></summary>
+
+<div align="center">
+
+[![Recent activity](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml)
+[![WakaTime stats](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml)
+[![Contribution snake](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml)
+
+<sub>Activity refreshes twice daily · WakaTime refreshes daily · contribution animation refreshes daily</sub>
+
+</div>
+</details>
 
 <p align="center"><a href="#top">↑ Back to top</a></p>
