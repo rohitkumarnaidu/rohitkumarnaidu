@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Rohith Kumar — Computer Science Student focused on AI, data analytics and full-stack development" />
+  <img src="./profile-hero-v2.svg" width="100%" alt="Rohith Kumar — Computer Science Student focused on AI, data analytics and full-stack development" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=20&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&repeat=true&width=980&height=45&lines=Computer+Science+Student;AI%2FML+%26+Data+Analytics+Enthusiast;Full-Stack+Developer;Aspiring+Platform+Engineer;Open-Source+Contributor" alt="Computer Science Student · AI/ML &amp; Data Analytics Enthusiast · Full-Stack Developer · Aspiring Platform Engineer · Open-Source Contributor" />
 
@@ -28,11 +28,6 @@
   <img src="https://img.shields.io/github/followers/rohitkumarnaidu?label=FOLLOWERS&style=flat-square&color=0891b2" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_LEARN_%26_COLLABORATE-10b981?style=flat-square" alt="Open to learn and collaborate" />
 
-  <br /><br />
-
-  <img src="https://img.shields.io/badge/ORIGINAL_REPOSITORIES-18-7C3AED?style=for-the-badge&logo=github" alt="18 original repositories" />
-  <img src="https://img.shields.io/badge/MERGED_PULL_REQUESTS-220-059669?style=for-the-badge&logo=git" alt="220 merged pull requests" />
-  <img src="https://img.shields.io/badge/EXTERNAL_MERGES-197-0891B2?style=for-the-badge&logo=opensourceinitiative" alt="197 external merged pull requests" />
 </div>
 
 ---
@@ -256,16 +251,6 @@ An earlier AI experiment coordinating planning, research and critique agents for
 ## 04 · Open-source contribution impact
 
 Beyond my own repositories, I learn by contributing fixes, tests, architecture and delivery improvements to other projects.
-
-<div align="center">
-
-![Pull requests](https://img.shields.io/badge/PUBLIC_PRS-494-7C3AED?style=for-the-badge&logo=github)
-![Merged](https://img.shields.io/badge/MERGED_PRS-220-059669?style=for-the-badge&logo=git)
-![External](https://img.shields.io/badge/EXTERNAL_MERGED_PRS-197-0891B2?style=for-the-badge&logo=opensourceinitiative)
-
-<sub>Public GitHub audit snapshot · 29 July 2026 · counts grow over time</sub>
-
-</div>
 
 | Area | Selected contribution evidence |
 |:---|:---|
