@@ -36,11 +36,20 @@ def search(query: str, collect: bool = False) -> tuple[int, list[dict[str, objec
     return total, items
 
 
-repos = api(f"/users/{USERNAME}/repos?type=owner&per_page=100")
-assert isinstance(repos, list)
+repos: list[dict[str, object]] = []
+page = 1
+while True:
+    batch = api(f"/users/{USERNAME}/repos?type=owner&per_page=100&page={page}")
+    assert isinstance(batch, list)
+    repos.extend(batch)
+    if len(batch) < 100:
+        break
+    page += 1
 original_repositories = sum(not bool(repo["fork"]) for repo in repos)
 public_prs, _ = search(f"type:pr author:{USERNAME}")
 merged_prs, merged_items = search(f"type:pr author:{USERNAME} is:merged", collect=True)
+if merged_prs > 1000:
+    raise RuntimeError("Merged PR count exceeds GitHub Search's 1,000-result window; refusing to undercount external merges.")
 external_merges = sum(
     item["repository_url"].split("/")[-2].lower() != USERNAME.lower()
     for item in merged_items
