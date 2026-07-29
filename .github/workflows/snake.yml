@@ -19,7 +19,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Check out profile repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Render light and dark contribution snakes
         uses: Platane/snk@e2cedf76a2c05b25d09a6428ded69727b497a700 # v3.4.1
