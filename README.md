@@ -279,6 +279,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
+1. 🛠️ Pushed a new visual metrics dashboard to [`rohitkumarnaidu`](https://github.com/rohitkumarnaidu/rohitkumarnaidu/compare/c59d8a8d31...99f2b7904a)
+2. 🎨 Refined the GitHub profile experience in [`rohitkumarnaidu`](https://github.com/rohitkumarnaidu/rohitkumarnaidu/compare/3f493dd851...c59d8a8d31)
+3. 🧠 Continued development on [`ScholarFormAI`](https://github.com/rohitkumarnaidu/ScholarFormAI/compare/81c3d2cbf3...b490448669)
+4. ⚙️ Improved the profile's automated engineering signals in [`rohitkumarnaidu`](https://github.com/rohitkumarnaidu/rohitkumarnaidu/compare/c6f3a1216b...3f493dd851)
+5. 📚 Shipped another iteration of [`ScholarFormAI`](https://github.com/rohitkumarnaidu/ScholarFormAI/compare/fea5a8380e...81c3d2cbf3)
 <!--END_SECTION:activity-->
 
 </details>
@@ -429,14 +434,17 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 <sub>Verified from the public GitHub achievements profile.</sub>
 </div>
 
-<details>
-<summary><b>GitHub achievements and trophies</b></summary>
+### Live profile automation
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitkumarnaidu&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub trophies" />
-</div>
 
-</details>
+[![Recent activity](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/activity.yml)
+[![WakaTime stats](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/waka.yml)
+[![Contribution snake](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml/badge.svg)](https://github.com/rohitkumarnaidu/rohitkumarnaidu/actions/workflows/snake.yml)
+
+<sub>Activity refreshes twice daily · WakaTime refreshes daily · contribution animation refreshes daily</sub>
+
+</div>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
