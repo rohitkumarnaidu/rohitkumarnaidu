@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/rohitkumarnaidu/rohitkumarnaidu/pull/5) in [rohitkumarnaidu/rohitkumarnaidu](https://github.com/rohitkumarnaidu/rohitkumarnaidu)
-2. 🎉 Merged PR [#8](https://github.com/rohitkumarnaidu/rohitkumarnaidu/pull/8) in [rohitkumarnaidu/rohitkumarnaidu](https://github.com/rohitkumarnaidu/rohitkumarnaidu)
-3. 🎉 Merged PR [#7](https://github.com/rohitkumarnaidu/rohitkumarnaidu/pull/7) in [rohitkumarnaidu/rohitkumarnaidu](https://github.com/rohitkumarnaidu/rohitkumarnaidu)
-4. 🎉 Merged PR [#6](https://github.com/rohitkumarnaidu/rohitkumarnaidu/pull/6) in [rohitkumarnaidu/rohitkumarnaidu](https://github.com/rohitkumarnaidu/rohitkumarnaidu)
-5. 🎉 Merged PR [#34](https://github.com/rohitkumarnaidu/Forgevena/pull/34) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+1. 🎉 Merged PR [#189](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/189) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
+2. 🎉 Merged PR [#188](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/188) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
+3. 🎉 Merged PR [#747](https://github.com/janavipandole/Foodie/pull/747) in [janavipandole/Foodie](https://github.com/janavipandole/Foodie)
+4. 🎉 Merged PR [#748](https://github.com/janavipandole/Foodie/pull/748) in [janavipandole/Foodie](https://github.com/janavipandole/Foodie)
+5. 🎉 Merged PR [#749](https://github.com/janavipandole/Foodie/pull/749) in [janavipandole/Foodie](https://github.com/janavipandole/Foodie)
 <!--END_SECTION:activity-->
 
 </details>
