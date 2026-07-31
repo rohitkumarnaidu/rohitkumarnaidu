@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#353](https://github.com/SafeVixAI/SafeVixAI/pull/353) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
-2. ❌ Closed PR [#352](https://github.com/SafeVixAI/SafeVixAI/pull/352) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
-3. 🎉 Merged PR [#750](https://github.com/janavipandole/Foodie/pull/750) in [janavipandole/Foodie](https://github.com/janavipandole/Foodie)
-4. 🎉 Merged PR [#404506](https://github.com/microsoft/winget-pkgs/pull/404506) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-5. 💪 Opened PR [#21](https://github.com/sreerevanth/TRADEX/pull/21) in [sreerevanth/TRADEX](https://github.com/sreerevanth/TRADEX)
+1. 🎉 Merged PR [#21](https://github.com/sreerevanth/TRADEX/pull/21) in [sreerevanth/TRADEX](https://github.com/sreerevanth/TRADEX)
+2. ❌ Closed PR [#353](https://github.com/SafeVixAI/SafeVixAI/pull/353) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
+3. ❌ Closed PR [#352](https://github.com/SafeVixAI/SafeVixAI/pull/352) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
+4. 🎉 Merged PR [#750](https://github.com/janavipandole/Foodie/pull/750) in [janavipandole/Foodie](https://github.com/janavipandole/Foodie)
+5. 🎉 Merged PR [#404506](https://github.com/microsoft/winget-pkgs/pull/404506) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 </details>
