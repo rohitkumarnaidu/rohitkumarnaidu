@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#301](https://github.com/theeccentriccoder01/Spamlyser/pull/301) in [theeccentriccoder01/Spamlyser](https://github.com/theeccentriccoder01/Spamlyser)
-2. 🎉 Merged PR [#300](https://github.com/theeccentriccoder01/Spamlyser/pull/300) in [theeccentriccoder01/Spamlyser](https://github.com/theeccentriccoder01/Spamlyser)
-3. 🎉 Merged PR [#21](https://github.com/sreerevanth/TRADEX/pull/21) in [sreerevanth/TRADEX](https://github.com/sreerevanth/TRADEX)
-4. ❌ Closed PR [#353](https://github.com/SafeVixAI/SafeVixAI/pull/353) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
-5. ❌ Closed PR [#352](https://github.com/SafeVixAI/SafeVixAI/pull/352) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
+1. 🎉 Merged PR [#42](https://github.com/rohitkumarnaidu/Forgevena/pull/42) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+2. 💪 Opened PR [#42](https://github.com/rohitkumarnaidu/Forgevena/pull/42) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+3. 🎉 Merged PR [#41](https://github.com/rohitkumarnaidu/Forgevena/pull/41) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+4. 💪 Opened PR [#41](https://github.com/rohitkumarnaidu/Forgevena/pull/41) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+5. 🎉 Merged PR [#301](https://github.com/theeccentriccoder01/Spamlyser/pull/301) in [theeccentriccoder01/Spamlyser](https://github.com/theeccentriccoder01/Spamlyser)
 <!--END_SECTION:activity-->
 
 </details>
