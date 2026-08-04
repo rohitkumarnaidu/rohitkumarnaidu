@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/eshaanag/CommitIQ---/issues/286#issuecomment-5167935306) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-2. 🗣 Commented on [#285](https://github.com/eshaanag/CommitIQ---/issues/285#issuecomment-5167920870) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-3. 🎉 Merged PR [#289](https://github.com/eshaanag/CommitIQ---/pull/289) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-4. ℹ️ Reopened PR [#220](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/220) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
-5. ❌ Closed PR [#220](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/220) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
+1. 🎉 Merged PR [#795](https://github.com/PRODHOSH/ossfolio/pull/795) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
+2. 🎉 Merged PR [#227](https://github.com/Him-an-shi/Aarini/pull/227) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
+3. 🎉 Merged PR [#226](https://github.com/Him-an-shi/Aarini/pull/226) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
+4. 🎉 Merged PR [#225](https://github.com/Him-an-shi/Aarini/pull/225) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
+5. 🎉 Merged PR [#224](https://github.com/Him-an-shi/Aarini/pull/224) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
 <!--END_SECTION:activity-->
 
 </details>
