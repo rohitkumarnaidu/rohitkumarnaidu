@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#795](https://github.com/PRODHOSH/ossfolio/pull/795) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
-2. 🎉 Merged PR [#227](https://github.com/Him-an-shi/Aarini/pull/227) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
-3. 🎉 Merged PR [#226](https://github.com/Him-an-shi/Aarini/pull/226) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
-4. 🎉 Merged PR [#225](https://github.com/Him-an-shi/Aarini/pull/225) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
-5. 🎉 Merged PR [#224](https://github.com/Him-an-shi/Aarini/pull/224) in [Him-an-shi/Aarini](https://github.com/Him-an-shi/Aarini)
+1. 💪 Opened PR [#119](https://github.com/vanshika114/grocery-management-system/pull/119) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+2. 💪 Opened PR [#118](https://github.com/vanshika114/grocery-management-system/pull/118) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+3. 💪 Opened PR [#117](https://github.com/vanshika114/grocery-management-system/pull/117) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+4. 💪 Opened PR [#116](https://github.com/vanshika114/grocery-management-system/pull/116) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+5. 💪 Opened PR [#115](https://github.com/vanshika114/grocery-management-system/pull/115) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
 <!--END_SECTION:activity-->
 
 </details>
