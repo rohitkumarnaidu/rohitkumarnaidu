@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/rohitkumarnaidu/Forgevena/pull/44) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-2. 🗣 Commented on [#108](https://github.com/vanshika114/grocery-management-system/issues/108#issuecomment-5182761018) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-3. 🗣 Commented on [#107](https://github.com/vanshika114/grocery-management-system/issues/107#issuecomment-5182760678) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-4. 🗣 Commented on [#106](https://github.com/vanshika114/grocery-management-system/issues/106#issuecomment-5182760431) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-5. 🗣 Commented on [#105](https://github.com/vanshika114/grocery-management-system/issues/105#issuecomment-5182760102) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+1. 🎉 Merged PR [#118](https://github.com/vanshika114/grocery-management-system/pull/118) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+2. 🎉 Merged PR [#117](https://github.com/vanshika114/grocery-management-system/pull/117) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+3. 🎉 Merged PR [#116](https://github.com/vanshika114/grocery-management-system/pull/116) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+4. 🎉 Merged PR [#115](https://github.com/vanshika114/grocery-management-system/pull/115) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+5. 🎉 Merged PR [#42](https://github.com/sreerevanth/repopilot/pull/42) in [sreerevanth/repopilot](https://github.com/sreerevanth/repopilot)
 <!--END_SECTION:activity-->
 
 </details>
