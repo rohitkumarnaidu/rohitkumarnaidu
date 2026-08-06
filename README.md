@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/vanshika114/grocery-management-system/pull/118) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-2. 🎉 Merged PR [#117](https://github.com/vanshika114/grocery-management-system/pull/117) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-3. 🎉 Merged PR [#116](https://github.com/vanshika114/grocery-management-system/pull/116) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-4. 🎉 Merged PR [#115](https://github.com/vanshika114/grocery-management-system/pull/115) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-5. 🎉 Merged PR [#42](https://github.com/sreerevanth/repopilot/pull/42) in [sreerevanth/repopilot](https://github.com/sreerevanth/repopilot)
+1. 💪 Opened PR [#400](https://github.com/SRV30/Faith-and-Fast/pull/400) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+2. 💪 Opened PR [#399](https://github.com/SRV30/Faith-and-Fast/pull/399) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+3. 💪 Opened PR [#398](https://github.com/SRV30/Faith-and-Fast/pull/398) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+4. 💪 Opened PR [#190](https://github.com/arghya29/EcoSphere/pull/190) in [arghya29/EcoSphere](https://github.com/arghya29/EcoSphere)
+5. ❗ Opened issue [#298](https://github.com/eshaanag/CommitIQ---/issues/298) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
 <!--END_SECTION:activity-->
 
 </details>
