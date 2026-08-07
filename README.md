@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/SRV30/Faith-and-Fast/pull/400) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-2. 💪 Opened PR [#399](https://github.com/SRV30/Faith-and-Fast/pull/399) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-3. 💪 Opened PR [#398](https://github.com/SRV30/Faith-and-Fast/pull/398) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-4. 💪 Opened PR [#190](https://github.com/arghya29/EcoSphere/pull/190) in [arghya29/EcoSphere](https://github.com/arghya29/EcoSphere)
-5. ❗ Opened issue [#298](https://github.com/eshaanag/CommitIQ---/issues/298) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+1. 💪 Opened PR [#331](https://github.com/eshaanag/CommitIQ---/pull/331) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+2. 💪 Opened PR [#330](https://github.com/eshaanag/CommitIQ---/pull/330) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+3. 🔒 Closed issue [#296](https://github.com/eshaanag/CommitIQ---/issues/296) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+4. 🔒 Closed issue [#297](https://github.com/eshaanag/CommitIQ---/issues/297) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+5. 💪 Opened PR [#693](https://github.com/sreerevanth/AgentWatch/pull/693) in [sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)
 <!--END_SECTION:activity-->
 
 </details>
