@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#331](https://github.com/eshaanag/CommitIQ---/pull/331) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-2. 💪 Opened PR [#330](https://github.com/eshaanag/CommitIQ---/pull/330) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-3. 🔒 Closed issue [#296](https://github.com/eshaanag/CommitIQ---/issues/296) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-4. 🔒 Closed issue [#297](https://github.com/eshaanag/CommitIQ---/issues/297) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-5. 💪 Opened PR [#693](https://github.com/sreerevanth/AgentWatch/pull/693) in [sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)
+1. 🎉 Merged PR [#119](https://github.com/vanshika114/grocery-management-system/pull/119) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
+2. 🎉 Merged PR [#828](https://github.com/PRODHOSH/ossfolio/pull/828) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
+3. 💪 Opened PR [#331](https://github.com/eshaanag/CommitIQ---/pull/331) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+4. 💪 Opened PR [#330](https://github.com/eshaanag/CommitIQ---/pull/330) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+5. 🔒 Closed issue [#296](https://github.com/eshaanag/CommitIQ---/issues/296) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
 <!--END_SECTION:activity-->
 
 </details>
