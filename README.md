@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/vanshika114/grocery-management-system/pull/119) in [vanshika114/grocery-management-system](https://github.com/vanshika114/grocery-management-system)
-2. 🎉 Merged PR [#828](https://github.com/PRODHOSH/ossfolio/pull/828) in [PRODHOSH/ossfolio](https://github.com/PRODHOSH/ossfolio)
-3. 💪 Opened PR [#331](https://github.com/eshaanag/CommitIQ---/pull/331) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-4. 💪 Opened PR [#330](https://github.com/eshaanag/CommitIQ---/pull/330) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
-5. 🔒 Closed issue [#296](https://github.com/eshaanag/CommitIQ---/issues/296) in [eshaanag/CommitIQ---](https://github.com/eshaanag/CommitIQ---)
+1. 🎉 Merged PR [#400](https://github.com/SRV30/Faith-and-Fast/pull/400) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+2. 🎉 Merged PR [#399](https://github.com/SRV30/Faith-and-Fast/pull/399) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+3. 🎉 Merged PR [#398](https://github.com/SRV30/Faith-and-Fast/pull/398) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+4. 🎉 Merged PR [#397](https://github.com/SRV30/Faith-and-Fast/pull/397) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+5. 🎉 Merged PR [#396](https://github.com/SRV30/Faith-and-Fast/pull/396) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
 <!--END_SECTION:activity-->
 
 </details>
