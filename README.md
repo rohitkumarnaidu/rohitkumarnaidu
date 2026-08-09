@@ -380,7 +380,7 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 
 <!--START_SECTION:github-counters-->
 ![Original repositories](https://img.shields.io/badge/ORIGINAL_REPOSITORIES-23-7C3AED?style=for-the-badge&logo=github)
-![Public PRs](https://img.shields.io/badge/PUBLIC_PULL_REQUESTS-557-2563EB?style=for-the-badge&logo=github)
+![Public PRs](https://img.shields.io/badge/PUBLIC_PULL_REQUESTS-563-2563EB?style=for-the-badge&logo=github)
 ![Merged PRs](https://img.shields.io/badge/MERGED_PULL_REQUESTS-276-059669?style=for-the-badge&logo=git)
 ![External merges](https://img.shields.io/badge/EXTERNAL_MERGES-250-0891B2?style=for-the-badge&logo=opensourceinitiative)
 <!--END_SECTION:github-counters-->
