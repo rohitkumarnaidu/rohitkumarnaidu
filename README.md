@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#400](https://github.com/SRV30/Faith-and-Fast/pull/400) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-2. 🎉 Merged PR [#399](https://github.com/SRV30/Faith-and-Fast/pull/399) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-3. 🎉 Merged PR [#398](https://github.com/SRV30/Faith-and-Fast/pull/398) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-4. 🎉 Merged PR [#397](https://github.com/SRV30/Faith-and-Fast/pull/397) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
-5. 🎉 Merged PR [#396](https://github.com/SRV30/Faith-and-Fast/pull/396) in [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
+1. 💪 Opened PR [#61](https://github.com/saiusesgithub/Prism-Bits/pull/61) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
+2. ❌ Closed PR [#32](https://github.com/saiusesgithub/Prism-Bits/pull/32) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
+3. 💪 Opened PR [#60](https://github.com/saiusesgithub/Prism-Bits/pull/60) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
+4. 💪 Opened PR [#59](https://github.com/saiusesgithub/Prism-Bits/pull/59) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
+5. 💪 Opened PR [#58](https://github.com/saiusesgithub/Prism-Bits/pull/58) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
 <!--END_SECTION:activity-->
 
 </details>
