@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/saiusesgithub/Prism-Bits/pull/61) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
-2. ❌ Closed PR [#32](https://github.com/saiusesgithub/Prism-Bits/pull/32) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
-3. 💪 Opened PR [#60](https://github.com/saiusesgithub/Prism-Bits/pull/60) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
-4. 💪 Opened PR [#59](https://github.com/saiusesgithub/Prism-Bits/pull/59) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
-5. 💪 Opened PR [#58](https://github.com/saiusesgithub/Prism-Bits/pull/58) in [saiusesgithub/Prism-Bits](https://github.com/saiusesgithub/Prism-Bits)
+1. 🎉 Merged PR [#223](https://github.com/sandipanxd/Widgetry/pull/223) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
+2. 🎉 Merged PR [#225](https://github.com/sandipanxd/Widgetry/pull/225) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
+3. 🎉 Merged PR [#224](https://github.com/sandipanxd/Widgetry/pull/224) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
+4. 🎉 Merged PR [#222](https://github.com/sandipanxd/Widgetry/pull/222) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
+5. 🎉 Merged PR [#221](https://github.com/sandipanxd/Widgetry/pull/221) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
 <!--END_SECTION:activity-->
 
 </details>
