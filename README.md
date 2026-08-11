@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#223](https://github.com/sandipanxd/Widgetry/pull/223) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
-2. 🎉 Merged PR [#225](https://github.com/sandipanxd/Widgetry/pull/225) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
-3. 🎉 Merged PR [#224](https://github.com/sandipanxd/Widgetry/pull/224) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
-4. 🎉 Merged PR [#222](https://github.com/sandipanxd/Widgetry/pull/222) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
-5. 🎉 Merged PR [#221](https://github.com/sandipanxd/Widgetry/pull/221) in [sandipanxd/Widgetry](https://github.com/sandipanxd/Widgetry)
+1. 🎉 Merged PR [#66](https://github.com/AnitSarkar123/A-Typeing-Practice-web/pull/66) in [AnitSarkar123/A-Typeing-Practice-web](https://github.com/AnitSarkar123/A-Typeing-Practice-web)
+2. 🎉 Merged PR [#219](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/219) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
+3. 🎉 Merged PR [#221](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/221) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
+4. 🎉 Merged PR [#220](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/220) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
+5. 🎉 Merged PR [#222](https://github.com/AnitSarkar123/AI_PR_REVIEWER/pull/222) in [AnitSarkar123/AI_PR_REVIEWER](https://github.com/AnitSarkar123/AI_PR_REVIEWER)
 <!--END_SECTION:activity-->
 
 </details>
