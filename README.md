@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#693](https://github.com/sreerevanth/AgentWatch/pull/693) in [sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)
-2. 🎉 Merged PR [#692](https://github.com/sreerevanth/AgentWatch/pull/692) in [sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)
-3. 🎉 Merged PR [#691](https://github.com/sreerevanth/AgentWatch/pull/691) in [sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)
-4. 🎉 Merged PR [#690](https://github.com/sreerevanth/AgentWatch/pull/690) in [sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)
-5. 🎉 Merged PR [#66](https://github.com/AnitSarkar123/A-Typeing-Practice-web/pull/66) in [AnitSarkar123/A-Typeing-Practice-web](https://github.com/AnitSarkar123/A-Typeing-Practice-web)
+1. ❌ Closed PR [#112](https://github.com/itzzavdhesh/FlowCraft/pull/112) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+2. ❌ Closed PR [#111](https://github.com/itzzavdhesh/FlowCraft/pull/111) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+3. ❌ Closed PR [#110](https://github.com/itzzavdhesh/FlowCraft/pull/110) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+4. ❌ Closed PR [#116](https://github.com/itzzavdhesh/TabTwin/pull/116) in [itzzavdhesh/TabTwin](https://github.com/itzzavdhesh/TabTwin)
+5. 🗣 Commented on [#116](https://github.com/itzzavdhesh/TabTwin/pull/116#issuecomment-5257971137) in [itzzavdhesh/TabTwin](https://github.com/itzzavdhesh/TabTwin)
 <!--END_SECTION:activity-->
 
 </details>
