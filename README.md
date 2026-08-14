@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#360](https://github.com/SafeVixAI/SafeVixAI/issues/360) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
-2. 🎉 Merged PR [#22](https://github.com/sreerevanth/TRADEX/pull/22) in [sreerevanth/TRADEX](https://github.com/sreerevanth/TRADEX)
-3. 🎉 Merged PR [#186](https://github.com/Sanket-103-pvt/Git-Stats/pull/186) in [Sanket-103-pvt/Git-Stats](https://github.com/Sanket-103-pvt/Git-Stats)
-4. ❌ Closed PR [#112](https://github.com/itzzavdhesh/FlowCraft/pull/112) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
-5. ❌ Closed PR [#111](https://github.com/itzzavdhesh/FlowCraft/pull/111) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+1. 🎉 Merged PR [#57](https://github.com/itzzavdhesh/FlowCraft/pull/57) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+2. 🎉 Merged PR [#48](https://github.com/itzzavdhesh/FlowCraft/pull/48) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+3. 🎉 Merged PR [#104](https://github.com/itzzavdhesh/FlowCraft/pull/104) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+4. 🎉 Merged PR [#105](https://github.com/itzzavdhesh/FlowCraft/pull/105) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+5. 🎉 Merged PR [#107](https://github.com/itzzavdhesh/FlowCraft/pull/107) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
 <!--END_SECTION:activity-->
 
 </details>
