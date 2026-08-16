@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/itzzavdhesh/FlowCraft/pull/57) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
-2. 🎉 Merged PR [#48](https://github.com/itzzavdhesh/FlowCraft/pull/48) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
-3. 🎉 Merged PR [#104](https://github.com/itzzavdhesh/FlowCraft/pull/104) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
-4. 🎉 Merged PR [#105](https://github.com/itzzavdhesh/FlowCraft/pull/105) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
-5. 🎉 Merged PR [#107](https://github.com/itzzavdhesh/FlowCraft/pull/107) in [itzzavdhesh/FlowCraft](https://github.com/itzzavdhesh/FlowCraft)
+1. ❌ Closed PR [#115](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/115) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+2. ❌ Closed PR [#119](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/119) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+3. ❌ Closed PR [#120](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/120) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+4. ❌ Closed PR [#121](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/121) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+5. ❌ Closed PR [#122](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/122) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
 <!--END_SECTION:activity-->
 
 </details>
