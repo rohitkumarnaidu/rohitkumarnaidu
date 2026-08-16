@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#115](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/115) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-2. ❌ Closed PR [#119](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/119) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-3. ❌ Closed PR [#120](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/120) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-4. ❌ Closed PR [#121](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/121) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-5. ❌ Closed PR [#122](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/122) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+1. 🔒 Closed issue [#364](https://github.com/SafeVixAI/SafeVixAI/issues/364) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
+2. ❌ Closed PR [#115](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/115) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+3. ❌ Closed PR [#119](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/119) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+4. ❌ Closed PR [#120](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/120) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+5. ❌ Closed PR [#121](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/121) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
 <!--END_SECTION:activity-->
 
 </details>
