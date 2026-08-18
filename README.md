@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#364](https://github.com/SafeVixAI/SafeVixAI/issues/364) in [SafeVixAI/SafeVixAI](https://github.com/SafeVixAI/SafeVixAI)
-2. ❌ Closed PR [#115](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/115) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-3. ❌ Closed PR [#119](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/119) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-4. ❌ Closed PR [#120](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/120) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-5. ❌ Closed PR [#121](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/121) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+1. 🎉 Merged PR [#211](https://github.com/harsharajkumar-273/Proofdesk/pull/211) in [harsharajkumar-273/Proofdesk](https://github.com/harsharajkumar-273/Proofdesk)
+2. 🎉 Merged PR [#212](https://github.com/harsharajkumar-273/Proofdesk/pull/212) in [harsharajkumar-273/Proofdesk](https://github.com/harsharajkumar-273/Proofdesk)
+3. 🎉 Merged PR [#127](https://github.com/harsharajkumar-273/lsm_tree/pull/127) in [harsharajkumar-273/lsm_tree](https://github.com/harsharajkumar-273/lsm_tree)
+4. 🎉 Merged PR [#128](https://github.com/harsharajkumar-273/lsm_tree/pull/128) in [harsharajkumar-273/lsm_tree](https://github.com/harsharajkumar-273/lsm_tree)
+5. 🎉 Merged PR [#129](https://github.com/harsharajkumar-273/lsm_tree/pull/129) in [harsharajkumar-273/lsm_tree](https://github.com/harsharajkumar-273/lsm_tree)
 <!--END_SECTION:activity-->
 
 </details>
