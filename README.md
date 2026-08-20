@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Driftloom/Vaeloom/pull/2#issuecomment-5339419012) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-2. 🗣 Commented on [#2](https://github.com/Driftloom/Vaeloom/pull/2#issuecomment-5339315302) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-3. ❌ Closed PR [#27](https://github.com/Driftloom/Vaeloom/pull/27) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-4. 🗣 Commented on [#27](https://github.com/Driftloom/Vaeloom/pull/27#issuecomment-5338393130) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-5. 🗣 Commented on [#15](https://github.com/Driftloom/Vaeloom/pull/15#issuecomment-5337905395) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+1. 🎉 Merged PR [#29](https://github.com/Driftloom/Vaeloom/pull/29) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+2. 💪 Opened PR [#29](https://github.com/Driftloom/Vaeloom/pull/29) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+3. 🗣 Commented on [#2](https://github.com/Driftloom/Vaeloom/pull/2#issuecomment-5339419012) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+4. 🗣 Commented on [#2](https://github.com/Driftloom/Vaeloom/pull/2#issuecomment-5339315302) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+5. ❌ Closed PR [#27](https://github.com/Driftloom/Vaeloom/pull/27) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
 <!--END_SECTION:activity-->
 
 </details>
