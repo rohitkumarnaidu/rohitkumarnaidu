@@ -411,7 +411,7 @@ Antigravity Desktop       1 hr 24 mins      █░░░░░░░░░░░
 <table>
 <tr>
 <td align="center" width="220">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="92" alt="Pull Shark achievement" /><br /><br />
+  <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="92" alt="Pull Shark achievement" /><br /><br />
   <b>Pull Shark · x3</b><br /><sub>Silver tier · Merged pull requests</sub>
 </td>
 <td align="center" width="220">
