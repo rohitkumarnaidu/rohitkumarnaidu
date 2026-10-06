@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-2. 🗣 Commented on [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56#issuecomment-5972737656) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-3. 🗣 Commented on [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56#issuecomment-5972302128) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-4. 💪 Opened PR [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-5. 🎉 Merged PR [#55](https://github.com/rohitkumarnaidu/Forgevena/pull/55) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+1. 🚀 Published release [Cadence Task OS v0.1.0 — Initial Mobile & Web Release](https://github.com/Driftloom/TaskOS/releases/tag/v0.1.0) in [Driftloom/TaskOS](https://github.com/Driftloom/TaskOS)
+2. 🎉 Merged PR [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+3. 🗣 Commented on [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56#issuecomment-5972737656) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+4. 🗣 Commented on [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56#issuecomment-5972302128) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+5. 💪 Opened PR [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
 <!--END_SECTION:activity-->
 
 </details>
