@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Driftloom/TaskOS/pull/1) in [Driftloom/TaskOS](https://github.com/Driftloom/TaskOS)
-2. 💪 Opened PR [#1](https://github.com/Driftloom/TaskOS/pull/1) in [Driftloom/TaskOS](https://github.com/Driftloom/TaskOS)
-3. 🚀 Published release [Cadence Task OS v0.1.4 — Full-Text Search, Archival & Link Chips](https://github.com/Driftloom/TaskOS/releases/tag/v0.1.4) in [Driftloom/TaskOS](https://github.com/Driftloom/TaskOS)
-4. 🗣 Commented on [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56#issuecomment-5972302128) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-5. 💪 Opened PR [#56](https://github.com/rohitkumarnaidu/Forgevena/pull/56) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+1. 🎉 Merged PR [#66](https://github.com/Driftloom/Vaeloom/pull/66) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+2. 💪 Opened PR [#66](https://github.com/Driftloom/Vaeloom/pull/66) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+3. 🎉 Merged PR [#1](https://github.com/Driftloom/TaskOS/pull/1) in [Driftloom/TaskOS](https://github.com/Driftloom/TaskOS)
+4. 💪 Opened PR [#1](https://github.com/Driftloom/TaskOS/pull/1) in [Driftloom/TaskOS](https://github.com/Driftloom/TaskOS)
+5. 🚀 Published release [Cadence Task OS v0.1.4 — Full-Text Search, Archival & Link Chips](https://github.com/Driftloom/TaskOS/releases/tag/v0.1.4) in [Driftloom/TaskOS](https://github.com/Driftloom/TaskOS)
 <!--END_SECTION:activity-->
 
 </details>
