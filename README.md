@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-/pull/79) in [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
-2. 💪 Opened PR [#79](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-/pull/79) in [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
-3. 🎉 Merged PR [#64](https://github.com/rohitkumarnaidu/Forgevena/pull/64) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-4. 💪 Opened PR [#64](https://github.com/rohitkumarnaidu/Forgevena/pull/64) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
-5. 🎉 Merged PR [#63](https://github.com/rohitkumarnaidu/Forgevena/pull/63) in [rohitkumarnaidu/Forgevena](https://github.com/rohitkumarnaidu/Forgevena)
+1. 🎉 Merged PR [#87](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-/pull/87) in [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+2. 💪 Opened PR [#87](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-/pull/87) in [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+3. 🎉 Merged PR [#86](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-/pull/86) in [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+4. 💪 Opened PR [#86](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-/pull/86) in [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
+5. 🎉 Merged PR [#85](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-/pull/85) in [rohitkumarnaidu/ARIA-OS---SecondBrain-](https://github.com/rohitkumarnaidu/ARIA-OS---SecondBrain-)
 <!--END_SECTION:activity-->
 
 </details>
