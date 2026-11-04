@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#224](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/224) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-2. 💪 Opened PR [#224](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/224) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-3. 🎉 Merged PR [#223](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/223) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-4. 💪 Opened PR [#223](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/223) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-5. 🎉 Merged PR [#222](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/222) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+1. 🎉 Merged PR [#228](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/228) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+2. 💪 Opened PR [#228](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/228) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+3. 🎉 Merged PR [#227](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/227) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+4. 💪 Opened PR [#227](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/227) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+5. 🎉 Merged PR [#226](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/226) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
 <!--END_SECTION:activity-->
 
 </details>
