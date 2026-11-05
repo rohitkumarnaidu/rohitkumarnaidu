@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#239](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/239) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-2. 🎉 Merged PR [#13](https://github.com/rohitkumarnaidu/ProofOps/pull/13) in [rohitkumarnaidu/ProofOps](https://github.com/rohitkumarnaidu/ProofOps)
-3. 💪 Opened PR [#13](https://github.com/rohitkumarnaidu/ProofOps/pull/13) in [rohitkumarnaidu/ProofOps](https://github.com/rohitkumarnaidu/ProofOps)
-4. 🎉 Merged PR [#238](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/238) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-5. 💪 Opened PR [#238](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/238) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+1. 💪 Opened PR [#240](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/240) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
+2. 🎉 Merged PR [#22](https://github.com/rohitkumarnaidu/StudyOS/pull/22) in [rohitkumarnaidu/StudyOS](https://github.com/rohitkumarnaidu/StudyOS)
+3. 🎉 Merged PR [#16](https://github.com/rohitkumarnaidu/ProofOps/pull/16) in [rohitkumarnaidu/ProofOps](https://github.com/rohitkumarnaidu/ProofOps)
+4. 💪 Opened PR [#16](https://github.com/rohitkumarnaidu/ProofOps/pull/16) in [rohitkumarnaidu/ProofOps](https://github.com/rohitkumarnaidu/ProofOps)
+5. 🎉 Merged PR [#15](https://github.com/rohitkumarnaidu/ProofOps/pull/15) in [rohitkumarnaidu/ProofOps](https://github.com/rohitkumarnaidu/ProofOps)
 <!--END_SECTION:activity-->
 
 </details>
