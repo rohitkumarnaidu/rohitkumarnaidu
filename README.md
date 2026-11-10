@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/Driftloom/Vaeloom/pull/71) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-2. 💪 Opened PR [#71](https://github.com/Driftloom/Vaeloom/pull/71) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-3. 🎉 Merged PR [#240](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/240) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-4. 💪 Opened PR [#240](https://github.com/rohitkumarnaidu/ScholarFormAI/pull/240) in [rohitkumarnaidu/ScholarFormAI](https://github.com/rohitkumarnaidu/ScholarFormAI)
-5. 🎉 Merged PR [#22](https://github.com/rohitkumarnaidu/StudyOS/pull/22) in [rohitkumarnaidu/StudyOS](https://github.com/rohitkumarnaidu/StudyOS)
+1. ❌ Closed PR [#70](https://github.com/rohitkumarnaidu/Portfolio/pull/70) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+2. 🗣 Commented on [#70](https://github.com/rohitkumarnaidu/Portfolio/pull/70#issuecomment-6777327545) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+3. ❌ Closed PR [#68](https://github.com/rohitkumarnaidu/Portfolio/pull/68) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+4. ❌ Closed PR [#65](https://github.com/rohitkumarnaidu/Portfolio/pull/65) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+5. ❌ Closed PR [#60](https://github.com/rohitkumarnaidu/Portfolio/pull/60) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
 <!--END_SECTION:activity-->
 
 </details>
