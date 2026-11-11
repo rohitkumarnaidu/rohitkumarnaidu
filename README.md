@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/rohitkumarnaidu/Portfolio/pull/110#issuecomment-6776764589) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
-2. 🗣 Commented on [#59](https://github.com/rohitkumarnaidu/Portfolio/pull/59#issuecomment-6773976452) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
-3. 🗣 Commented on [#68](https://github.com/rohitkumarnaidu/Portfolio/pull/68#issuecomment-6777325842) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
-4. 🗣 Commented on [#49](https://github.com/rohitkumarnaidu/Portfolio/pull/49#issuecomment-6777315649) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
-5. 🗣 Commented on [#65](https://github.com/rohitkumarnaidu/Portfolio/pull/65#issuecomment-6777323957) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+1. 🎉 Merged PR [#122](https://github.com/rohitkumarnaidu/Portfolio/pull/122) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+2. 🎉 Merged PR [#123](https://github.com/rohitkumarnaidu/Portfolio/pull/123) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+3. 💪 Opened PR [#123](https://github.com/rohitkumarnaidu/Portfolio/pull/123) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+4. 💪 Opened PR [#122](https://github.com/rohitkumarnaidu/Portfolio/pull/122) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+5. 🗣 Commented on [#110](https://github.com/rohitkumarnaidu/Portfolio/pull/110#issuecomment-6776764589) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
 <!--END_SECTION:activity-->
 
 </details>
