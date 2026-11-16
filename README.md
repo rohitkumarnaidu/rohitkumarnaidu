@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/Driftloom/Vaeloom/pull/90) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-2. 💪 Opened PR [#90](https://github.com/Driftloom/Vaeloom/pull/90) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-3. 💪 Opened PR [#89](https://github.com/Driftloom/Vaeloom/pull/89) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-4. 🎉 Merged PR [#137](https://github.com/rohitkumarnaidu/Portfolio/pull/137) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
-5. 💪 Opened PR [#137](https://github.com/rohitkumarnaidu/Portfolio/pull/137) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+1. 🎉 Merged PR [#89](https://github.com/Driftloom/Vaeloom/pull/89) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+2. 🎉 Merged PR [#91](https://github.com/Driftloom/Vaeloom/pull/91) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+3. 💪 Opened PR [#91](https://github.com/Driftloom/Vaeloom/pull/91) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+4. 🎉 Merged PR [#90](https://github.com/Driftloom/Vaeloom/pull/90) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
+5. 💪 Opened PR [#90](https://github.com/Driftloom/Vaeloom/pull/90) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
 <!--END_SECTION:activity-->
 
 </details>
