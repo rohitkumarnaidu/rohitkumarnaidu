@@ -270,11 +270,11 @@ Beyond my own repositories, I learn by contributing fixes, tests, architecture a
 <summary><b>Recent public activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/Driftloom/Vaeloom/pull/110) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-2. 🗣 Commented on [#99](https://github.com/Driftloom/Vaeloom/pull/99#issuecomment-6977924573) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-3. 🎉 Merged PR [#109](https://github.com/Driftloom/Vaeloom/pull/109) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-4. 💪 Opened PR [#110](https://github.com/Driftloom/Vaeloom/pull/110) in [Driftloom/Vaeloom](https://github.com/Driftloom/Vaeloom)
-5. 🎉 Merged PR [#140](https://github.com/rohitkumarnaidu/Portfolio/pull/140) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+1. 🎉 Merged PR [#142](https://github.com/rohitkumarnaidu/Portfolio/pull/142) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+2. 🗣 Commented on [#142](https://github.com/rohitkumarnaidu/Portfolio/pull/142#issuecomment-7020527321) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+3. 💪 Opened PR [#142](https://github.com/rohitkumarnaidu/Portfolio/pull/142) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+4. 🎉 Merged PR [#141](https://github.com/rohitkumarnaidu/Portfolio/pull/141) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
+5. 💪 Opened PR [#141](https://github.com/rohitkumarnaidu/Portfolio/pull/141) in [rohitkumarnaidu/Portfolio](https://github.com/rohitkumarnaidu/Portfolio)
 <!--END_SECTION:activity-->
 
 </details>
